@@ -1,0 +1,6 @@
+CustomerUniqueID,Name,Contact,Email,Password,Address,ProfileImageURL,BankAccountName,BankAccountNumber,IFSCCode,BankName,PromoterID,ReferredBy
+CUST001,Rahul Sharma,9876543210,rahul.s@example.com,password123,123 MG Road. Mumbai,https://example.com/images/rahul.jpg,Rahul Sharma,123456789012,SBIN0001234,State Bank of India, ,PROM001
+CUST002,Priya Patel,8765432109,priya.p@example.com,password456,456 Linking Road. Delhi,https://example.com/images/priya.jpg,Priya Patel,234567890123,ICIC0005678,ICICI Bank, ,PROM001
+CUST003,Amit Kumar,7654321098,amit.k@example.com,password789,789 Brigade Roa. Bangalore,https://example.com/images/amit.jpg,Amit Kumar,345678901234,HDFC0009012,HDFC Bank, ,PROM002    
+CUST004,Neha Gupta,6543210987,neha.g@example.com,passwordabc,321 Mount Road. Chennai,https://example.com/images/neha.jpg,Neha Gupta,456789012345,AXIS0003456,Axis Bank, ,PROM002
+CUST005,Sanjay Verma,5432109876,sanjay.v@example.com,passworddef,654 Park Street. Kolkata,https://example.com/images/sanjay.jpg,Sanjay Verma,567890123456,UBIN0007890,Union Bank of India, ,PROM003 
