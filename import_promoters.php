@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
         $errorCount = 0;
 
         // Prepare the SQL statement
-        $stmt = $conn->prepare("INSERT INTO Promoters (PromoterUniqueID, Name, Contact, Email, PasswordHash, Address, ProfileImageURL, BankAccountName, BankAccountNumber, IFSCCode, BankName, Status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $stmt = $conn->prepare("INSERT INTO Promoters (PromoterUniqueID, Name, Contact, Email, PasswordHash, Address, ProfileImageURL, BankAccountName, BankAccountNumber, IFSCCode, BankName, ParentPromoterID, TeamName, Status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
         // Start from row 2 to skip header
         for ($row = 2; $row <= $highestRow; $row++) {
@@ -88,17 +88,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
             $bankAccountNumber = $worksheet->getCellByColumnAndRow(9, $row)->getValue();
             $ifscCode = $worksheet->getCellByColumnAndRow(10, $row)->getValue();
             $bankName = $worksheet->getCellByColumnAndRow(11, $row)->getValue();
+            $parentPromoterID = $worksheet->getCellByColumnAndRow(12, $row)->getValue() ?: null;
+            $teamName = $worksheet->getCellByColumnAndRow(13, $row)->getValue();
 
             // Hash the password
             $passwordHash = password_hash($password, PASSWORD_DEFAULT);
 
             try {
-                $stmt->execute([$promoterUniqueID, $name, $contact, $email, $passwordHash, $address, $profileImageURL, $bankAccountName, $bankAccountNumber, $ifscCode, $bankName, 'Active']);
+                $stmt->execute([$promoterUniqueID, $name, $contact, $email, $passwordHash, $address, $profileImageURL, $bankAccountName, $bankAccountNumber, $ifscCode, $bankName, $parentPromoterID, $teamName, 'Active']);
                 $successCount++;
             } catch (PDOException $e) {
                 $errorCount++;
                 $errorMessage = "Error in row $row: " . $e->getMessage() . "\n";
-                $errorMessage .= "Data: PromoterUniqueID: $promoterUniqueID, Name: $name, Contact: $contact, Email: $email\n";
+                $errorMessage .= "Data: PromoterUniqueID: $promoterUniqueID, Name: $name, Contact: $contact, Email: $email, ParentPromoterID: $parentPromoterID, TeamName: $teamName\n";
                 $errorMessage .= "----------------------------------------\n";
                 fwrite($logFile, $errorMessage);
                 echo "Error inserting row $row: " . $e->getMessage() . "<br>";
@@ -236,6 +238,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
             <tr>
                 <td>K</td>
                 <td>BankName</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>L</td>
+                <td>ParentPromoterID</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>M</td>
+                <td>TeamName</td>
                 <td>No</td>
             </tr>
         </table>

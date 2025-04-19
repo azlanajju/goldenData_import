@@ -1,0 +1,1286 @@
+Failed Promoter Records Log - 2025-04-19 11:26:27
+==========================================
+
+Original File: promoter_data.xlsx
+
+Error in row 3: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD014240, Name: ADI SHIVA REDDY, Contact: 9591038480, Email: -, ParentPromoterID: =LEFT(N3, FIND(" -", N3)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 4: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD014168, Name: Ekanath shetty, Contact: 9380769936, Email: -, ParentPromoterID: =LEFT(N4, FIND(" -", N4)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 5: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD014012, Name: Harshad, Contact: 9902777363, Email: -, ParentPromoterID: =LEFT(N5, FIND(" -", N5)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 6: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013997, Name: Uluva Ramanjineyulu, Contact: 8501922145, Email: -, ParentPromoterID: =LEFT(N6, FIND(" -", N6)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 7: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013987, Name: A Basavaraja, Contact: 9480755098, Email: -, ParentPromoterID: =LEFT(N7, FIND(" -", N7)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 8: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013797, Name: UMME NOOH SUHAIL SAYYED, Contact: 9353426360, Email: -, ParentPromoterID: =LEFT(N8, FIND(" -", N8)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 9: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013761, Name: BUKKE NAGESWARA NAIK, Contact: 9393637788, Email: -, ParentPromoterID: =LEFT(N9, FIND(" -", N9)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 10: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013760, Name: Mohammed Navaz, Contact: 9108799637, Email: -, ParentPromoterID: =LEFT(N10, FIND(" -", N10)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 11: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013627, Name: FATHIMA THAZIRA, Contact: 8147034474, Email: -, ParentPromoterID: =LEFT(N11, FIND(" -", N11)-1), TeamName: DREAM
+----------------------------------------
+Error in row 12: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013625, Name: Sharanamma, Contact: 9663435204, Email: -, ParentPromoterID: =LEFT(N12, FIND(" -", N12)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 13: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013607, Name: K SHEKSHAVALI, Contact: 9704039604, Email: -, ParentPromoterID: =LEFT(N13, FIND(" -", N13)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 14: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013562, Name: Ravi A, Contact: 9945589511, Email: -, ParentPromoterID: =LEFT(N14, FIND(" -", N14)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 15: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013559, Name: Ubaid sab, Contact: 6364448778, Email: -, ParentPromoterID: =LEFT(N15, FIND(" -", N15)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 16: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013553, Name: Sridhar Kuna, Contact: 9885883553, Email: -, ParentPromoterID: =LEFT(N16, FIND(" -", N16)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 17: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013486, Name: Kanike krishna, Contact: 9849840017, Email: -, ParentPromoterID: =LEFT(N17, FIND(" -", N17)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 18: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013485, Name: K.Vykunta, Contact: 9885595973, Email: -, ParentPromoterID: =LEFT(N18, FIND(" -", N18)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 19: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013484, Name: Ashwini, Contact: 7760026340, Email: -, ParentPromoterID: =LEFT(N19, FIND(" -", N19)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 20: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013454, Name: SUMITHRA HK, Contact: 9902882799, Email: -, ParentPromoterID: =LEFT(N20, FIND(" -", N20)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 21: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013452, Name: Hemanth M, Contact: 8867741188, Email: -, ParentPromoterID: =LEFT(N21, FIND(" -", N21)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 22: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013449, Name: Davis.C.F, Contact: 9753955124, Email: -, ParentPromoterID: =LEFT(N22, FIND(" -", N22)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 23: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013448, Name: BHARAT BHUSHAN CHOWDHARY, Contact: 8962178745, Email: -, ParentPromoterID: =LEFT(N23, FIND(" -", N23)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 24: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013446, Name: Veerabhadrappa K C, Contact: 9620536142, Email: -, ParentPromoterID: =LEFT(N24, FIND(" -", N24)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 25: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013444, Name: MANJUNATH B S, Contact: 8722688914, Email: -, ParentPromoterID: =LEFT(N25, FIND(" -", N25)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 26: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013388, Name: Anand, Contact: 9986106742, Email: -, ParentPromoterID: =LEFT(N26, FIND(" -", N26)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 27: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013385, Name: Asha yadav, Contact: 9752329315, Email: -, ParentPromoterID: =LEFT(N27, FIND(" -", N27)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 28: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013376, Name: GANGADHAR, Contact: 6362131844, Email: -, ParentPromoterID: =LEFT(N28, FIND(" -", N28)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 29: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013374, Name: DARSHAN J NAIK, Contact: 9591523026, Email: -, ParentPromoterID: =LEFT(N29, FIND(" -", N29)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 30: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013262, Name: CHAITHANYA C L, Contact: 9448644563, Email: -, ParentPromoterID: =LEFT(N30, FIND(" -", N30)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 31: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013255, Name: SUMANTH U G, Contact: 8197303791, Email: -, ParentPromoterID: =LEFT(N31, FIND(" -", N31)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 32: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013231, Name: DEEPAK PANDURANG NAIK, Contact: 9449776702, Email: -, ParentPromoterID: =LEFT(N32, FIND(" -", N32)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 33: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013224, Name: Shivakumar Dhanshetty, Contact: 7899845597, Email: -, ParentPromoterID: =LEFT(N33, FIND(" -", N33)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 34: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013218, Name: Mohammad shahnawaz Khan, Contact: 8120918881, Email: -, ParentPromoterID: =LEFT(N34, FIND(" -", N34)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 35: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013215, Name: Allabakash.S nadaf Pin code 591129 District Belgaum Taluk yaragatti Mobile 6362816574, Contact: 6362816574, Email: -, ParentPromoterID: =LEFT(N35, FIND(" -", N35)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 36: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013208, Name: Biji Samuel, Contact: 9826377495, Email: -, ParentPromoterID: =LEFT(N36, FIND(" -", N36)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 37: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013092, Name: RAMESH, Contact: 6362383408, Email: -, ParentPromoterID: =LEFT(N37, FIND(" -", N37)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 38: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013091, Name: Sridhar, Contact: 9141882181, Email: -, ParentPromoterID: =LEFT(N38, FIND(" -", N38)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 39: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD013090, Name: Arfaz, Contact: 7259840607, Email: -, ParentPromoterID: =LEFT(N39, FIND(" -", N39)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 40: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012859, Name: AMOGHA G, Contact: 9448030882, Email: -, ParentPromoterID: =LEFT(N40, FIND(" -", N40)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 41: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012858, Name: KAVITHA, Contact: 8971528162, Email: -, ParentPromoterID: =LEFT(N41, FIND(" -", N41)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 42: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012854, Name: VINAY S P, Contact: 8147848060, Email: -, ParentPromoterID: =LEFT(N42, FIND(" -", N42)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 43: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012799, Name: Anand, Contact: 9986106742, Email: -, ParentPromoterID: =LEFT(N43, FIND(" -", N43)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 44: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012779, Name: Ananta kumara, Contact: 7975126995, Email: -, ParentPromoterID: =LEFT(N44, FIND(" -", N44)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 45: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012772, Name: JAGANNATH R, Contact: 9731952588, Email: -, ParentPromoterID: =LEFT(N45, FIND(" -", N45)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 46: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012702, Name: KRISHNA N MESTA, Contact: 9730558998, Email: -, ParentPromoterID: =LEFT(N46, FIND(" -", N46)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 47: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012689, Name: Sunil Scimon Lewis, Contact: 9424543173, Email: -, ParentPromoterID: =LEFT(N47, FIND(" -", N47)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 48: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012686, Name: George selvan, Contact: 9981982610, Email: -, ParentPromoterID: =LEFT(N48, FIND(" -", N48)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 49: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012678, Name: Jagadeesha gowda gb, Contact: 9880607055, Email: -, ParentPromoterID: =LEFT(N49, FIND(" -", N49)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 50: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012670, Name: Ellain fernandes, Contact: 8818510921, Email: -, ParentPromoterID: =LEFT(N50, FIND(" -", N50)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 51: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012661, Name: Srinivas D, Contact: 7022523242, Email: -, ParentPromoterID: =LEFT(N51, FIND(" -", N51)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 52: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012635, Name: Sudha s, Contact: 9606675978, Email: -, ParentPromoterID: =LEFT(N52, FIND(" -", N52)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 53: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012634, Name: Ravindra s gindi, Contact: 8296252520, Email: -, ParentPromoterID: =LEFT(N53, FIND(" -", N53)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 54: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012575, Name: Mahadeav K Kammar, Contact: 7406611161, Email: -, ParentPromoterID: =LEFT(N54, FIND(" -", N54)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 55: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012572, Name: Shivakumar Kattimane, Contact: 9916825324, Email: -, ParentPromoterID: =LEFT(N55, FIND(" -", N55)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 56: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012497, Name: Satish kanade, Contact: 9986223753, Email: -, ParentPromoterID: =LEFT(N56, FIND(" -", N56)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 57: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012492, Name: Vinayaka A S, Contact: 9353931613, Email: -, ParentPromoterID: =LEFT(N57, FIND(" -", N57)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 58: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012481, Name: Sadiq Ahemad, Contact: 9611202286, Email: -, ParentPromoterID: =LEFT(N58, FIND(" -", N58)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 59: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012474, Name: Prajwal mm, Contact: 8123924895, Email: -, ParentPromoterID: =LEFT(N59, FIND(" -", N59)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 60: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012395, Name: Ananda, Contact: 6363023197, Email: -, ParentPromoterID: =LEFT(N60, FIND(" -", N60)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 61: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012329, Name: PRASAD KODIYA, Contact: 9448715687, Email: -, ParentPromoterID: =LEFT(N61, FIND(" -", N61)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 62: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012322, Name: MANJUNATH J N, Contact: 9916880237, Email: -, ParentPromoterID: =LEFT(N62, FIND(" -", N62)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 63: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012319, Name: MOHAN KUMAR M B, Contact: 9449379608, Email: -, ParentPromoterID: =LEFT(N63, FIND(" -", N63)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 64: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012304, Name: Lokesh P Pawaskar, Contact: 7019830063, Email: -, ParentPromoterID: =LEFT(N64, FIND(" -", N64)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 65: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012288, Name: Shivanand Joglekar, Contact: 9986142424, Email: -, ParentPromoterID: =LEFT(N65, FIND(" -", N65)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 66: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012266, Name: PRAVEEN, Contact: 8747089828, Email: -, ParentPromoterID: =LEFT(N66, FIND(" -", N66)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 67: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012264, Name: Vignesh kharvi, Contact: 7619571172, Email: -, ParentPromoterID: =LEFT(N67, FIND(" -", N67)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 68: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012253, Name: Uma Hugar, Contact: 9986513043, Email: -, ParentPromoterID: =LEFT(N68, FIND(" -", N68)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 69: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012206, Name: ARUNA, Contact: 8762109868, Email: -, ParentPromoterID: =LEFT(N69, FIND(" -", N69)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 70: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012205, Name: CHAITHRA A K, Contact: 9108676952, Email: -, ParentPromoterID: =LEFT(N70, FIND(" -", N70)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 71: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012204, Name: MADAN K S, Contact: 8277462279, Email: -, ParentPromoterID: =LEFT(N71, FIND(" -", N71)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 72: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012198, Name: Fakkirappa T Chindi, Contact: 9972978110, Email: -, ParentPromoterID: =LEFT(N72, FIND(" -", N72)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 73: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012194, Name: Prasad Shetty, Contact: 8073791299, Email: -, ParentPromoterID: =LEFT(N73, FIND(" -", N73)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 74: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012173, Name: Latha, Contact: 8151833001, Email: -, ParentPromoterID: =LEFT(N74, FIND(" -", N74)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 75: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012170, Name: KAVISH, Contact: 8762747561, Email: -, ParentPromoterID: =LEFT(N75, FIND(" -", N75)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 76: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012169, Name: MUNEER, Contact: 8088164588, Email: -, ParentPromoterID: =LEFT(N76, FIND(" -", N76)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 77: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012168, Name: Shahid Shivamogga, Contact: 6360185261, Email: -, ParentPromoterID: =LEFT(N77, FIND(" -", N77)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 78: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012157, Name: THOUSIF, Contact: 9148617743, Email: -, ParentPromoterID: =LEFT(N78, FIND(" -", N78)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 79: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012155, Name: Parvathi Hiremath, Contact: 9741400245, Email: -, ParentPromoterID: =LEFT(N79, FIND(" -", N79)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 80: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012133, Name: Syed Hafeez, Contact: 9880035716, Email: -, ParentPromoterID: =LEFT(N80, FIND(" -", N80)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 81: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012122, Name: Jagadish G N, Contact: 9686375113, Email: -, ParentPromoterID: =LEFT(N81, FIND(" -", N81)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 82: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012121, Name: Santhosh kumar, Contact: 9113291465, Email: -, ParentPromoterID: =LEFT(N82, FIND(" -", N82)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 83: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012120, Name: Devendra shetty, Contact: 9972422279, Email: -, ParentPromoterID: =LEFT(N83, FIND(" -", N83)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 84: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012114, Name: Karthik k s, Contact: 7483996735, Email: -, ParentPromoterID: =LEFT(N84, FIND(" -", N84)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 85: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012111, Name: Sukesha s, Contact: 7259848260, Email: -, ParentPromoterID: =LEFT(N85, FIND(" -", N85)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 86: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012108, Name: M N Gayatri, Contact: 9632199340, Email: -, ParentPromoterID: =LEFT(N86, FIND(" -", N86)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 87: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012083, Name: Ajaya s, Contact: 9060081926, Email: -, ParentPromoterID: =LEFT(N87, FIND(" -", N87)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 88: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012082, Name: Usha G, Contact: 8197324201, Email: -, ParentPromoterID: =LEFT(N88, FIND(" -", N88)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 89: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012073, Name: Imthiyaz, Contact: 7259321358, Email: -, ParentPromoterID: =LEFT(N89, FIND(" -", N89)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 90: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012071, Name: Manjunath swami, Contact: 9880807533, Email: -, ParentPromoterID: =LEFT(N90, FIND(" -", N90)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 91: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012060, Name: LOHITH, Contact: 9611679336, Email: -, ParentPromoterID: =LEFT(N91, FIND(" -", N91)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 92: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012011, Name: GHOUSIYA KOUSER, Contact: 9964709247, Email: -, ParentPromoterID: =LEFT(N92, FIND(" -", N92)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 93: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012010, Name: MANJUNATH H B, Contact: 8549010373, Email: -, ParentPromoterID: =LEFT(N93, FIND(" -", N93)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 94: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012009, Name: ADI ESWAR, Contact: 9742428288, Email: -, ParentPromoterID: =LEFT(N94, FIND(" -", N94)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 95: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012008, Name: MANVITHA RAJ, Contact: 9902882799, Email: -, ParentPromoterID: =LEFT(N95, FIND(" -", N95)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 96: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD012002, Name: NANI RACHI, Contact: 9341078208, Email: -, ParentPromoterID: =LEFT(N96, FIND(" -", N96)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 97: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011946, Name: Heena kauser, Contact: 9449014357, Email: -, ParentPromoterID: =LEFT(N97, FIND(" -", N97)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 98: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011940, Name: PRASHANTH, Contact: 9986229154, Email: -, ParentPromoterID: =LEFT(N98, FIND(" -", N98)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 99: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011938, Name: Sheela, Contact: 8217471031, Email: -, ParentPromoterID: =LEFT(N99, FIND(" -", N99)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 100: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011937, Name: Naveed Pasha, Contact: 9980190774, Email: -, ParentPromoterID: =LEFT(N100, FIND(" -", N100)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 101: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011882, Name: Ganesh SS, Contact: 9844665613, Email: -, ParentPromoterID: =LEFT(N101, FIND(" -", N101)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 102: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011835, Name: Kiran kumar M, Contact: 8904844498, Email: -, ParentPromoterID: =LEFT(N102, FIND(" -", N102)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 103: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011825, Name: H VEERESH, Contact: 8971680746, Email: -, ParentPromoterID: =LEFT(N103, FIND(" -", N103)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 104: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011819, Name: Veeresh N, Contact: 9538219106, Email: -, ParentPromoterID: =LEFT(N104, FIND(" -", N104)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 105: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011817, Name: MANJU H R, Contact: 8618596433, Email: -, ParentPromoterID: =LEFT(N105, FIND(" -", N105)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 106: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011816, Name: Vinay Kumar, Contact: 9902218947, Email: -, ParentPromoterID: =LEFT(N106, FIND(" -", N106)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 107: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011811, Name: IQBAL GN, Contact: 9980573090, Email: -, ParentPromoterID: =LEFT(N107, FIND(" -", N107)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 108: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011805, Name: Harisha P, Contact: 7760112609, Email: -, ParentPromoterID: =LEFT(N108, FIND(" -", N108)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 109: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011752, Name: ARMAN, Contact: 9353485414, Email: -, ParentPromoterID: =LEFT(N109, FIND(" -", N109)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 110: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011740, Name: Mahammad Nizamuddin, Contact: 7338146813, Email: -, ParentPromoterID: =LEFT(N110, FIND(" -", N110)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 111: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011739, Name: GEETA, Contact: 9611376943, Email: -, ParentPromoterID: =LEFT(N111, FIND(" -", N111)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 112: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011738, Name: PRAKASH S, Contact: 8073108362, Email: -, ParentPromoterID: =LEFT(N112, FIND(" -", N112)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 113: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011737, Name: BHARATHI, Contact: 9663996242, Email: -, ParentPromoterID: =LEFT(N113, FIND(" -", N113)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 114: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011736, Name: Arun c g, Contact: 7899026596, Email: -, ParentPromoterID: =LEFT(N114, FIND(" -", N114)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 115: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011705, Name: Naveena kumar B. V, Contact: 8277143445, Email: -, ParentPromoterID: =LEFT(N115, FIND(" -", N115)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 116: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011704, Name: USHA HEGDE, Contact: 8762455892, Email: -, ParentPromoterID: =LEFT(N116, FIND(" -", N116)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 117: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011558, Name: PRAKASH NAIK, Contact: 9008650946, Email: -, ParentPromoterID: =LEFT(N117, FIND(" -", N117)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 118: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011554, Name: Mohammad Abid Ali, Contact: 9964457514, Email: -, ParentPromoterID: =LEFT(N118, FIND(" -", N118)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 119: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011551, Name: ASHOK T D, Contact: 9901143898, Email: -, ParentPromoterID: =LEFT(N119, FIND(" -", N119)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 120: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011541, Name: Kiran Kumar D, Contact: 7975472940, Email: -, ParentPromoterID: =LEFT(N120, FIND(" -", N120)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 121: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011540, Name: K soudha, Contact: 9741257118, Email: -, ParentPromoterID: =LEFT(N121, FIND(" -", N121)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 122: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011539, Name: Lankesh Kumar, Contact: 9900077235, Email: -, ParentPromoterID: =LEFT(N122, FIND(" -", N122)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 123: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011536, Name: Manoj, Contact: 9916048908, Email: -, ParentPromoterID: =LEFT(N123, FIND(" -", N123)-1), TeamName: DREAM
+----------------------------------------
+Error in row 124: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011521, Name: B KRISHNAVENI, Contact: 7975784401, Email: -, ParentPromoterID: =LEFT(N124, FIND(" -", N124)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 125: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011519, Name: SUNIL BANDADKAR, Contact: 8310548193, Email: -, ParentPromoterID: =LEFT(N125, FIND(" -", N125)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 126: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011516, Name: MANU, Contact: 9632449276, Email: -, ParentPromoterID: =LEFT(N126, FIND(" -", N126)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 127: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011515, Name: ARSHAD, Contact: 9743631372, Email: -, ParentPromoterID: =LEFT(N127, FIND(" -", N127)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 128: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011506, Name: Rahim shaikh, Contact: 8123808665, Email: -, ParentPromoterID: =LEFT(N128, FIND(" -", N128)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 129: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011501, Name: Mujahid jamadar, Contact: 9980741780, Email: -, ParentPromoterID: =LEFT(N129, FIND(" -", N129)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 130: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011500, Name: Tabassum, Contact: 9945587723, Email: -, ParentPromoterID: =LEFT(N130, FIND(" -", N130)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 131: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011490, Name: Maha bub basha, Contact: 9945587723, Email: -, ParentPromoterID: =LEFT(N131, FIND(" -", N131)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 132: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011485, Name: Ravinayka l, Contact: 8494999577, Email: -, ParentPromoterID: =LEFT(N132, FIND(" -", N132)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 133: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011474, Name: Nandihalli khalandar sab, Contact: 919535003916, Email: -, ParentPromoterID: =LEFT(N133, FIND(" -", N133)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 134: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011469, Name: Hanumantappa uppar, Contact: 918861940206, Email: -, ParentPromoterID: =LEFT(N134, FIND(" -", N134)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 135: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011467, Name: shakir, Contact: 8123258783, Email: -, ParentPromoterID: =LEFT(N135, FIND(" -", N135)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 136: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011458, Name: PRASHANTH PATAGAR, Contact: 8971332875, Email: -, ParentPromoterID: =LEFT(N136, FIND(" -", N136)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 137: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011450, Name: ROHAN, Contact: 9632571321, Email: -, ParentPromoterID: =LEFT(N137, FIND(" -", N137)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 138: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011436, Name: Yogendrappa, Contact: 9945523312, Email: -, ParentPromoterID: =LEFT(N138, FIND(" -", N138)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 139: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011421, Name: SATHISH DAMODAR NAIK, Contact: 9611031557, Email: -, ParentPromoterID: =LEFT(N139, FIND(" -", N139)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 140: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011419, Name: Rahat unnisa, Contact: 9901819080, Email: -, ParentPromoterID: =LEFT(N140, FIND(" -", N140)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 141: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011417, Name: BHASKAR, Contact: 9480896362, Email: -, ParentPromoterID: =LEFT(N141, FIND(" -", N141)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 142: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011416, Name: Noor Jahan, Contact: 8217636464, Email: -, ParentPromoterID: =LEFT(N142, FIND(" -", N142)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 143: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011411, Name: Tabassum, Contact: 7892697459, Email: -, ParentPromoterID: =LEFT(N143, FIND(" -", N143)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 144: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011410, Name: Maha bub basha, Contact: 9945587723, Email: -, ParentPromoterID: =LEFT(N144, FIND(" -", N144)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 145: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011403, Name: MASTI MUKRI, Contact: 9742427697, Email: -, ParentPromoterID: =LEFT(N145, FIND(" -", N145)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 146: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011382, Name: Nandihalli khalandar sab, Contact: 9535003916, Email: -, ParentPromoterID: =LEFT(N146, FIND(" -", N146)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 147: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011379, Name: Hanumantappa uppar, Contact: 8861940206, Email: -, ParentPromoterID: =LEFT(N147, FIND(" -", N147)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 148: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011373, Name: Akhtar, Contact: 8722996184, Email: -, ParentPromoterID: =LEFT(N148, FIND(" -", N148)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 149: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011370, Name: Abdulrahaman rattihalli, Contact: 9880808061, Email: -, ParentPromoterID: =LEFT(N149, FIND(" -", N149)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 150: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011366, Name: Mohammed hayath, Contact: 9986979502, Email: -, ParentPromoterID: =LEFT(N150, FIND(" -", N150)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 151: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011362, Name: Shayistabanu javali, Contact: 9900750944, Email: -, ParentPromoterID: =LEFT(N151, FIND(" -", N151)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 152: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011361, Name: Sedapa. MG, Contact: 7829390322, Email: -, ParentPromoterID: =LEFT(N152, FIND(" -", N152)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 153: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011351, Name: Satheeh ds, Contact: 9535227696, Email: -, ParentPromoterID: =LEFT(N153, FIND(" -", N153)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 154: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011349, Name: Yankya naik, Contact: 9480283215, Email: -, ParentPromoterID: =LEFT(N154, FIND(" -", N154)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 155: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011348, Name: Kumar naik, Contact: 9591273764, Email: -, ParentPromoterID: =LEFT(N155, FIND(" -", N155)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 156: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011345, Name: Arun naik, Contact: 9148221447, Email: -, ParentPromoterID: =LEFT(N156, FIND(" -", N156)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 157: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011343, Name: Gurumurthy nayak, Contact: 9740491883, Email: -, ParentPromoterID: =LEFT(N157, FIND(" -", N157)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 158: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011339, Name: VIJAY SUBRAYA MOHALE, Contact: 9741583477, Email: -, ParentPromoterID: =LEFT(N158, FIND(" -", N158)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 159: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011268, Name: Saifan, Contact: 7795056520, Email: -, ParentPromoterID: =LEFT(N159, FIND(" -", N159)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 160: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011258, Name: Mahesh mesta, Contact: 9902002683, Email: -, ParentPromoterID: =LEFT(N160, FIND(" -", N160)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 161: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011207, Name: MASHOORA, Contact: 8904161836, Email: -, ParentPromoterID: =LEFT(N161, FIND(" -", N161)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 162: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011194, Name: MOHAMMED SATHAR, Contact: 9745373143, Email: -, ParentPromoterID: =LEFT(N162, FIND(" -", N162)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 163: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011175, Name: Mohammad Kanz Islam, Contact: 9844077856, Email: -, ParentPromoterID: =LEFT(N163, FIND(" -", N163)-1), TeamName: DREAM
+----------------------------------------
+Error in row 164: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011139, Name: SAMREEN FAKARDI, Contact: 9986421264, Email: -, ParentPromoterID: =LEFT(N164, FIND(" -", N164)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 165: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011134, Name: Rahmath ali sab khazi, Contact: 8105583646, Email: -, ParentPromoterID: =LEFT(N165, FIND(" -", N165)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 166: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011122, Name: Pradeep, Contact: 9916578388, Email: -, ParentPromoterID: =LEFT(N166, FIND(" -", N166)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 167: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD011088, Name: Nasrulla siddi Mohammed, Contact: 9110616676, Email: -, ParentPromoterID: =LEFT(N167, FIND(" -", N167)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 168: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010943, Name: Somla nail, Contact: 919448985092, Email: -, ParentPromoterID: =LEFT(N168, FIND(" -", N168)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 169: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010928, Name: Manikanta mv, Contact: 917760473762, Email: -, ParentPromoterID: =LEFT(N169, FIND(" -", N169)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 170: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010910, Name: Zohra s, Contact: 9880655975, Email: -, ParentPromoterID: =LEFT(N170, FIND(" -", N170)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 171: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010897, Name: ISMAIL, Contact: 9980382817, Email: -, ParentPromoterID: =LEFT(N171, FIND(" -", N171)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 172: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010895, Name: MAQBOOL DODMANI, Contact: 7795853026, Email: -, ParentPromoterID: =LEFT(N172, FIND(" -", N172)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 173: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010891, Name: SAKSHI SHETTY, Contact: 9480990985, Email: -, ParentPromoterID: =LEFT(N173, FIND(" -", N173)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 174: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010888, Name: Iburaim Hijamadi, Contact: 7019181692, Email: -, ParentPromoterID: =LEFT(N174, FIND(" -", N174)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 175: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010887, Name: Imran sagar, Contact: 9632175941, Email: -, ParentPromoterID: =LEFT(N175, FIND(" -", N175)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 176: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010881, Name: Mhameed sarif, Contact: 9632439117, Email: -, ParentPromoterID: =LEFT(N176, FIND(" -", N176)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 177: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010876, Name: VEENA SHET, Contact: 9448089929, Email: -, ParentPromoterID: =LEFT(N177, FIND(" -", N177)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 178: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010875, Name: SHAMMAS, Contact: 6362965301, Email: -, ParentPromoterID: =LEFT(N178, FIND(" -", N178)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 179: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010871, Name: Thippesha, Contact: 6886577166, Email: -, ParentPromoterID: =LEFT(N179, FIND(" -", N179)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 180: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010868, Name: SE nageshwar, Contact: 9945896460, Email: -, ParentPromoterID: =LEFT(N180, FIND(" -", N180)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 181: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010860, Name: Mohammed rafil, Contact: 9741481966, Email: -, ParentPromoterID: =LEFT(N181, FIND(" -", N181)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 182: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010855, Name: Mohammed yuaan, Contact: 9916009943, Email: -, ParentPromoterID: =LEFT(N182, FIND(" -", N182)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 183: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010846, Name: PRISHA S SUVARNA, Contact: 8050118139, Email: -, ParentPromoterID: =LEFT(N183, FIND(" -", N183)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 184: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010810, Name: Alima Mohammad Ashraf, Contact: 7019522674, Email: -, ParentPromoterID: =LEFT(N184, FIND(" -", N184)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 185: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010799, Name: DREAM HUBLI, Contact: 9620777141, Email: -, ParentPromoterID: =LEFT(N185, FIND(" -", N185)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 186: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010795, Name: Noor saba, Contact: 8217652044, Email: -, ParentPromoterID: =LEFT(N186, FIND(" -", N186)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 187: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010775, Name: Tazbiya, Contact: 9036680784, Email: -, ParentPromoterID: =LEFT(N187, FIND(" -", N187)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 188: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010772, Name: ONKARAPPA, BM,, Contact: 8197762625, Email: -, ParentPromoterID: =LEFT(N188, FIND(" -", N188)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 189: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010759, Name: Mohammed auf, Contact: 8050935261, Email: -, ParentPromoterID: =LEFT(N189, FIND(" -", N189)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 190: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010744, Name: Fahiza Fatima, Contact: 9901236679, Email: -, ParentPromoterID: =LEFT(N190, FIND(" -", N190)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 191: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010709, Name: SAHIRA KHAZI, Contact: 9880113822, Email: -, ParentPromoterID: =LEFT(N191, FIND(" -", N191)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 192: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010708, Name: SMITHA ANAND, Contact: 7676774301, Email: -, ParentPromoterID: =LEFT(N192, FIND(" -", N192)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 193: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010707, Name: Shashidhar mulki shimanthoor, Contact: 9108310330, Email: -, ParentPromoterID: =LEFT(N193, FIND(" -", N193)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 194: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010706, Name: Aashiq, Contact: 6362862258, Email: -, ParentPromoterID: =LEFT(N194, FIND(" -", N194)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 195: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010685, Name: SATHISH MAHADEVA NAIK, Contact: 8792022903, Email: -, ParentPromoterID: =LEFT(N195, FIND(" -", N195)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 196: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010684, Name: BIBI HAJEERA, Contact: 9901095427, Email: -, ParentPromoterID: =LEFT(N196, FIND(" -", N196)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 197: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010680, Name: SRI GANESH, Contact: 7760909391, Email: -, ParentPromoterID: =LEFT(N197, FIND(" -", N197)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 198: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010679, Name: VIJAY K, Contact: 9482204425, Email: -, ParentPromoterID: =LEFT(N198, FIND(" -", N198)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 199: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010677, Name: SANJAY KRISHNA BHAT, Contact: 9986857345, Email: -, ParentPromoterID: =LEFT(N199, FIND(" -", N199)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 200: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010673, Name: Chidananda. Nj, Contact: 9880645690, Email: -, ParentPromoterID: =LEFT(N200, FIND(" -", N200)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 201: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010672, Name: Manjappa, Contact: 9945668790, Email: -, ParentPromoterID: =LEFT(N201, FIND(" -", N201)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 202: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010670, Name: Guddappa, Contact: 9980232166, Email: -, ParentPromoterID: =LEFT(N202, FIND(" -", N202)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 203: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010664, Name: MATEENA, Contact: 9036456614, Email: -, ParentPromoterID: =LEFT(N203, FIND(" -", N203)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 204: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010663, Name: Suhail ahamed, Contact: 9980057869, Email: -, ParentPromoterID: =LEFT(N204, FIND(" -", N204)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 205: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010662, Name: Haseena Begum, Contact: 7892243694, Email: -, ParentPromoterID: =LEFT(N205, FIND(" -", N205)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 206: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010660, Name: SHREYA BHAT, Contact: 7892205160, Email: -, ParentPromoterID: =LEFT(N206, FIND(" -", N206)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 207: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010646, Name: Laksmi, Contact: 9845634300, Email: -, ParentPromoterID: =LEFT(N207, FIND(" -", N207)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 208: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010637, Name: Shahil, Contact: 8496849573, Email: -, ParentPromoterID: =LEFT(N208, FIND(" -", N208)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 209: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010631, Name: Asif, Contact: 9972177779, Email: -, ParentPromoterID: =LEFT(N209, FIND(" -", N209)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 210: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010630, Name: Mohammed Azeem M, Contact: 9972932877, Email: -, ParentPromoterID: =LEFT(N210, FIND(" -", N210)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 211: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010629, Name: Kalandar Abdul Khadar, Contact: 9060000741, Email: -, ParentPromoterID: =LEFT(N211, FIND(" -", N211)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 212: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010628, Name: Syed Shamshuzama, Contact: 9036456614, Email: -, ParentPromoterID: =LEFT(N212, FIND(" -", N212)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 213: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010626, Name: Suresh H R, Contact: 7676968177, Email: -, ParentPromoterID: =LEFT(N213, FIND(" -", N213)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 214: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010617, Name: Manju chikmangaluru, Contact: 9740703723, Email: -, ParentPromoterID: =LEFT(N214, FIND(" -", N214)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 215: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010615, Name: Mohan dy, Contact: 7348974863, Email: -, ParentPromoterID: =LEFT(N215, FIND(" -", N215)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 216: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010613, Name: druthi, Contact: 9482562339, Email: -, ParentPromoterID: =LEFT(N216, FIND(" -", N216)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 217: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010600, Name: Siraj Hijamadi, Contact: 8296784958, Email: -, ParentPromoterID: =LEFT(N217, FIND(" -", N217)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 218: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010598, Name: jainaba murshida, Contact: 9148157481, Email: -, ParentPromoterID: =LEFT(N218, FIND(" -", N218)-1), TeamName: DREAM
+----------------------------------------
+Error in row 219: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010597, Name: fathimath samna, Contact: 8971830318, Email: -, ParentPromoterID: =LEFT(N219, FIND(" -", N219)-1), TeamName: DREAM
+----------------------------------------
+Error in row 220: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010596, Name: Inzamam, Contact: 7019325136, Email: -, ParentPromoterID: =LEFT(N220, FIND(" -", N220)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 221: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010586, Name: Syed Isak, Contact: 9019191281, Email: -, ParentPromoterID: =LEFT(N221, FIND(" -", N221)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 222: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010584, Name: Mohammed jaffar sadik, Contact: 9902033201, Email: -, ParentPromoterID: =LEFT(N222, FIND(" -", N222)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 223: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010580, Name: Roshan purdalli, Contact: 8660542899, Email: -, ParentPromoterID: =LEFT(N223, FIND(" -", N223)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 224: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010572, Name: FARSHINA SHAMA, Contact: 6362329389, Email: -, ParentPromoterID: =LEFT(N224, FIND(" -", N224)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 225: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010564, Name: IMRAN BHATKAL, Contact: 8792692663, Email: -, ParentPromoterID: =LEFT(N225, FIND(" -", N225)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 226: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010563, Name: Santhosh koneri, Contact: 8884745929, Email: -, ParentPromoterID: =LEFT(N226, FIND(" -", N226)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 227: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010562, Name: Santhosh, Contact: 6362898214, Email: -, ParentPromoterID: =LEFT(N227, FIND(" -", N227)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 228: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010532, Name: Santosh S. Mesta, Contact: 8867312870, Email: -, ParentPromoterID: =LEFT(N228, FIND(" -", N228)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 229: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010527, Name: Ramyashree k, Contact: 9108507677, Email: -, ParentPromoterID: =LEFT(N229, FIND(" -", N229)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 230: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010510, Name: Abdul hameed, Contact: 9731158313, Email: -, ParentPromoterID: =LEFT(N230, FIND(" -", N230)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 231: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010509, Name: Manjunath s nayak, Contact: 8217620507, Email: -, ParentPromoterID: =LEFT(N231, FIND(" -", N231)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 232: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010497, Name: SHAHIDA, Contact: 9663355784, Email: -, ParentPromoterID: =LEFT(N232, FIND(" -", N232)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 233: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010490, Name: Arfaz, Contact: 7259840608, Email: -, ParentPromoterID: =LEFT(N233, FIND(" -", N233)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 234: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010488, Name: Classic GD, Contact: 9986994680, Email: -, ParentPromoterID: =LEFT(N234, FIND(" -", N234)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 235: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010487, Name: MUSTAFA, Contact: 9964602191, Email: -, ParentPromoterID: =LEFT(N235, FIND(" -", N235)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 236: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010479, Name: ASIRA, Contact: 8943180949, Email: -, ParentPromoterID: =LEFT(N236, FIND(" -", N236)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 237: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010475, Name: ABDULLAH, Contact: 7558943772, Email: -, ParentPromoterID: =LEFT(N237, FIND(" -", N237)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 238: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010464, Name: Abu Hanfa, Contact: 9164328344, Email: -, ParentPromoterID: =LEFT(N238, FIND(" -", N238)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 239: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010462, Name: Imthiyaz, Contact: 9886208376, Email: -, ParentPromoterID: =LEFT(N239, FIND(" -", N239)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 240: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010458, Name: Hasainar asif, Contact: 8951348610, Email: -, ParentPromoterID: =LEFT(N240, FIND(" -", N240)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 241: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010453, Name: Ayisha aizal, Contact: 8197124383, Email: -, ParentPromoterID: =LEFT(N241, FIND(" -", N241)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 242: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010449, Name: Shrithin, Contact: 9880764210, Email: -, ParentPromoterID: =LEFT(N242, FIND(" -", N242)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 243: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010448, Name: MOHAMMAD BASHEER, Contact: 9448815531, Email: -, ParentPromoterID: =LEFT(N243, FIND(" -", N243)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 244: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010444, Name: Isak, Contact: 9880374611, Email: -, ParentPromoterID: =LEFT(N244, FIND(" -", N244)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 245: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010442, Name: SHAMEEMA, Contact: 8050355421, Email: -, ParentPromoterID: =LEFT(N245, FIND(" -", N245)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 246: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010435, Name: MAIMUNA, Contact: 6362595066, Email: -, ParentPromoterID: =LEFT(N246, FIND(" -", N246)-1), TeamName: DYNAMIC 0.1
+----------------------------------------
+Error in row 247: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010434, Name: Abdul Jabbar, Contact: 9535668850, Email: -, ParentPromoterID: =LEFT(N247, FIND(" -", N247)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 248: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010433, Name: Rehana, Contact: 9108974397, Email: -, ParentPromoterID: =LEFT(N248, FIND(" -", N248)-1), TeamName: ROYAL DIAMOND
+----------------------------------------
+Error in row 249: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010015, Name: Zainaba, Contact: 9481872851, Email: -, ParentPromoterID: =LEFT(N249, FIND(" -", N249)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 250: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010014, Name: Mohammed Anees, Contact: 8971593803, Email: -, ParentPromoterID: =LEFT(N250, FIND(" -", N250)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 251: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD010008, Name: Naman, Contact: 9972760881, Email: -, ParentPromoterID: =LEFT(N251, FIND(" -", N251)-1), TeamName: GAME CHANGERS 0.1
+----------------------------------------
+Error in row 252: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD10001, Name: TEST ID, Contact: 9840697693, Email: -, ParentPromoterID: =LEFT(N252, FIND(" -", N252)-1), TeamName: DREAM
+----------------------------------------
+Error in row 253: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD005165, Name: Samshuddin, Contact: 7356722799, Email: -, ParentPromoterID: =LEFT(N253, FIND(" -", N253)-1), TeamName: DREAM
+----------------------------------------
+Error in row 254: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD005151, Name: sneha bhaskar, Contact: 7025594792, Email: -, ParentPromoterID: =LEFT(N254, FIND(" -", N254)-1), TeamName: DREAM
+----------------------------------------
+Error in row 255: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004975, Name: Nihal, Contact: 9740237285, Email: -, ParentPromoterID: =LEFT(N255, FIND(" -", N255)-1), TeamName: DREAM
+----------------------------------------
+Error in row 256: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004957, Name: shekh mohammad Abrar, Contact: 7795730086, Email: -, ParentPromoterID: =LEFT(N256, FIND(" -", N256)-1), TeamName: DREAM
+----------------------------------------
+Error in row 257: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004912, Name: MOHAMMED IMRAN, Contact: 9886883663, Email: -, ParentPromoterID: =LEFT(N257, FIND(" -", N257)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 258: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004765, Name: VIDYA CHIKKMATH, Contact: 9164211138, Email: -, ParentPromoterID: =LEFT(N258, FIND(" -", N258)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 259: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004720, Name: Praveen, Contact: 9591058185, Email: -, ParentPromoterID: =LEFT(N259, FIND(" -", N259)-1), TeamName: DREAM
+----------------------------------------
+Error in row 260: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004716, Name: Murshad, Contact: 8792750243, Email: -, ParentPromoterID: =LEFT(N260, FIND(" -", N260)-1), TeamName: DREAM
+----------------------------------------
+Error in row 261: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004649, Name: Sanidha, Contact: 9449542267, Email: -, ParentPromoterID: =LEFT(N261, FIND(" -", N261)-1), TeamName: DREAM
+----------------------------------------
+Error in row 262: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004627, Name: SANDEEP NAYAK, Contact: 8861554494, Email: -, ParentPromoterID: =LEFT(N262, FIND(" -", N262)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 263: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004448, Name: Tanish, Contact: 7348906703, Email: -, ParentPromoterID: =LEFT(N263, FIND(" -", N263)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 264: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004395, Name: IQBAL, Contact: 7795690296, Email: -, ParentPromoterID: =LEFT(N264, FIND(" -", N264)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 265: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004353, Name: Thohid Arsh, Contact: 9482025765, Email: -, ParentPromoterID: =LEFT(N265, FIND(" -", N265)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 266: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004348, Name: MOHAMMED ANSAR, Contact: 7760710758, Email: -, ParentPromoterID: =LEFT(N266, FIND(" -", N266)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 267: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004342, Name: Manju, Contact: 9740703723, Email: -, ParentPromoterID: =LEFT(N267, FIND(" -", N267)-1), TeamName: DREAM
+----------------------------------------
+Error in row 268: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004341, Name: NIZAMUDDIN, Contact: 8971624480, Email: -, ParentPromoterID: =LEFT(N268, FIND(" -", N268)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 269: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004305, Name: Sumayya, Contact: 7483210906, Email: -, ParentPromoterID: =LEFT(N269, FIND(" -", N269)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 270: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004174, Name: Rizma rishma, Contact: 9901176703, Email: -, ParentPromoterID: =LEFT(N270, FIND(" -", N270)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 271: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004168, Name: Arfaz, Contact: 9606799764, Email: -, ParentPromoterID: =LEFT(N271, FIND(" -", N271)-1), TeamName: DREAM
+----------------------------------------
+Error in row 272: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD004082, Name: fathimathul batool, Contact: 7259037151, Email: -, ParentPromoterID: =LEFT(N272, FIND(" -", N272)-1), TeamName: DREAM
+----------------------------------------
+Error in row 273: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003950, Name: RAUSHINA, Contact: 8921882910, Email: -, ParentPromoterID: =LEFT(N273, FIND(" -", N273)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 274: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003922, Name: SAMRIN FAKARDI, Contact: 9986421264, Email: -, ParentPromoterID: =LEFT(N274, FIND(" -", N274)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 275: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003896, Name: Mohammed shammas, Contact: 6366216747, Email: -, ParentPromoterID: =LEFT(N275, FIND(" -", N275)-1), TeamName: DREAM
+----------------------------------------
+Error in row 276: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003883, Name: mohammed fazil, Contact: 9591555608, Email: -, ParentPromoterID: =LEFT(N276, FIND(" -", N276)-1), TeamName: DREAM
+----------------------------------------
+Error in row 277: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003759, Name: Ayisha, Contact: 8197184409, Email: -, ParentPromoterID: =LEFT(N277, FIND(" -", N277)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 278: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003626, Name: muhammed shafeeq, Contact: 7204955400, Email: -, ParentPromoterID: =LEFT(N278, FIND(" -", N278)-1), TeamName: DREAM
+----------------------------------------
+Error in row 279: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003615, Name: MUMTHAZ, Contact: 9481871220, Email: -, ParentPromoterID: =LEFT(N279, FIND(" -", N279)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 280: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003595, Name: Althaf, Contact: 8197385147, Email: -, ParentPromoterID: =LEFT(N280, FIND(" -", N280)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 281: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003562, Name: VIJAY K, Contact: 9482204425, Email: -, ParentPromoterID: =LEFT(N281, FIND(" -", N281)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 282: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003557, Name: SHANKER MESTA, Contact: 9538529033, Email: -, ParentPromoterID: =LEFT(N282, FIND(" -", N282)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 283: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003550, Name: PRABAKAR, Contact: 9738834355, Email: -, ParentPromoterID: =LEFT(N283, FIND(" -", N283)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 284: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003533, Name: B B HAJEERA, Contact: 9901095427, Email: -, ParentPromoterID: =LEFT(N284, FIND(" -", N284)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 285: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003532, Name: ANKITHA SHET, Contact: 7022130718, Email: -, ParentPromoterID: =LEFT(N285, FIND(" -", N285)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 286: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003528, Name: MALATHI SHET, Contact: 9480506604, Email: -, ParentPromoterID: =LEFT(N286, FIND(" -", N286)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 287: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003387, Name: Abdul Rahiman k, Contact: 9733369198, Email: -, ParentPromoterID: =LEFT(N287, FIND(" -", N287)-1), TeamName: DREAM
+----------------------------------------
+Error in row 288: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003366, Name: DREAM HUBLI, Contact: 9620777141, Email: -, ParentPromoterID: =LEFT(N288, FIND(" -", N288)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 289: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003362, Name: Hameed nithu, Contact: 9538897163, Email: -, ParentPromoterID: =LEFT(N289, FIND(" -", N289)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 290: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003288, Name: Mufeeda, Contact: 8549905587, Email: -, ParentPromoterID: =LEFT(N290, FIND(" -", N290)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 291: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003254, Name: Thameem, Contact: 7338058523, Email: -, ParentPromoterID: =LEFT(N291, FIND(" -", N291)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 292: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003222, Name: Sanjay Krishna Bhat, Contact: 9986857345, Email: -, ParentPromoterID: =LEFT(N292, FIND(" -", N292)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 293: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003220, Name: khadeejath kubra, Contact: 9567471028, Email: -, ParentPromoterID: =LEFT(N293, FIND(" -", N293)-1), TeamName: DREAM
+----------------------------------------
+Error in row 294: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003200, Name: latheef KAK, Contact: 9663505886, Email: -, ParentPromoterID: =LEFT(N294, FIND(" -", N294)-1), TeamName: DREAM
+----------------------------------------
+Error in row 295: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003196, Name: Manjunath, Contact: 9606013168, Email: -, ParentPromoterID: =LEFT(N295, FIND(" -", N295)-1), TeamName: GAME
+----------------------------------------
+Error in row 296: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003184, Name: Hasan, Contact: 8147378509, Email: -, ParentPromoterID: =LEFT(N296, FIND(" -", N296)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 297: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003169, Name: Nasir, Contact: 7337845904, Email: -, ParentPromoterID: =LEFT(N297, FIND(" -", N297)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 298: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003068, Name: Samsheer, Contact: 8277480841, Email: -, ParentPromoterID: =LEFT(N298, FIND(" -", N298)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 299: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003055, Name: Nani, Contact: 9341078208, Email: -, ParentPromoterID: =LEFT(N299, FIND(" -", N299)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 300: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003012, Name: Adam Ansam, Contact: 8217075959, Email: -, ParentPromoterID: =LEFT(N300, FIND(" -", N300)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 301: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD003005, Name: Sadananda Acharya, Contact: 9008051838, Email: -, ParentPromoterID: =LEFT(N301, FIND(" -", N301)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 302: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002926, Name: Zaithun, Contact: 7022565696, Email: -, ParentPromoterID: =LEFT(N302, FIND(" -", N302)-1), TeamName: GAME
+----------------------------------------
+Error in row 303: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002886, Name: Shakir, Contact: 8971054344, Email: -, ParentPromoterID: =LEFT(N303, FIND(" -", N303)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 304: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002720, Name: Sulaiman Y, Contact: 8970195313, Email: -, ParentPromoterID: =LEFT(N304, FIND(" -", N304)-1), TeamName: DREAM
+----------------------------------------
+Error in row 305: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002664, Name: Irshad, Contact: 9035831640, Email: -, ParentPromoterID: =LEFT(N305, FIND(" -", N305)-1), TeamName: DREAM
+----------------------------------------
+Error in row 306: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002647, Name: Mustafa, Contact: 9964602191, Email: -, ParentPromoterID: =LEFT(N306, FIND(" -", N306)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 307: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002618, Name: Thahira, Contact: 8494858618, Email: -, ParentPromoterID: =LEFT(N307, FIND(" -", N307)-1), TeamName: TURBO
+----------------------------------------
+Error in row 308: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002475, Name: Maksood, Contact: 9972306152, Email: -, ParentPromoterID: =LEFT(N308, FIND(" -", N308)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 309: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002467, Name: mariyam, Contact: 8277406859, Email: -, ParentPromoterID: =LEFT(N309, FIND(" -", N309)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 310: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002374, Name: Sabeena, Contact: 9663717819, Email: -, ParentPromoterID: =LEFT(N310, FIND(" -", N310)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 311: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002367, Name: Maimuna, Contact: 7406750646, Email: -, ParentPromoterID: =LEFT(N311, FIND(" -", N311)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 312: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002360, Name: Fhathima, Contact: 7019001876, Email: -, ParentPromoterID: =LEFT(N312, FIND(" -", N312)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 313: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002352, Name: Saramma, Contact: 8971131471, Email: -, ParentPromoterID: =LEFT(N313, FIND(" -", N313)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 314: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002293, Name: Ayisha Banu, Contact: 7899703868, Email: -, ParentPromoterID: =LEFT(N314, FIND(" -", N314)-1), TeamName: DREAM
+----------------------------------------
+Error in row 315: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002174, Name: Naseema, Contact: 6366275255, Email: -, ParentPromoterID: =LEFT(N315, FIND(" -", N315)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 316: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002172, Name: Venkatesh H K, Contact: 7619531723, Email: -, ParentPromoterID: =LEFT(N316, FIND(" -", N316)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 317: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002167, Name: Sangeetha, Contact: 7353417214, Email: -, ParentPromoterID: =LEFT(N317, FIND(" -", N317)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 318: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD002077, Name: Dhana Murthi, Contact: 9945424596, Email: -, ParentPromoterID: =LEFT(N318, FIND(" -", N318)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 319: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001962, Name: Abdul jabbar, Contact: 9900545263, Email: -, ParentPromoterID: =LEFT(N319, FIND(" -", N319)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 320: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001929, Name: Mehroof, Contact: 7975081958, Email: -, ParentPromoterID: =LEFT(N320, FIND(" -", N320)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 321: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001927, Name: Saifulla, Contact: 8792127948, Email: -, ParentPromoterID: =LEFT(N321, FIND(" -", N321)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 322: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001856, Name: Jafer kH, Contact: 9741624304, Email: -, ParentPromoterID: =LEFT(N322, FIND(" -", N322)-1), TeamName: TURBO
+----------------------------------------
+Error in row 323: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001681, Name: Fathima, Contact: 9946468665, Email: -, ParentPromoterID: =LEFT(N323, FIND(" -", N323)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 324: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001624, Name: Mohammed Rihab, Contact: 8197212025, Email: -, ParentPromoterID: =LEFT(N324, FIND(" -", N324)-1), TeamName: TURBO
+----------------------------------------
+Error in row 325: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001616, Name: Maimunath Mishriya, Contact: 7619140811, Email: -, ParentPromoterID: =LEFT(N325, FIND(" -", N325)-1), TeamName: DREAM
+----------------------------------------
+Error in row 326: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001614, Name: Shabeer, Contact: 8105692110, Email: -, ParentPromoterID: =LEFT(N326, FIND(" -", N326)-1), TeamName: TURBO
+----------------------------------------
+Error in row 327: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001608, Name: Ibrahim, Contact: 9611453989, Email: -, ParentPromoterID: =LEFT(N327, FIND(" -", N327)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 328: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001598, Name: Mashoora, Contact: 8904161836, Email: -, ParentPromoterID: =LEFT(N328, FIND(" -", N328)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 329: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001579, Name: PA Mahammad shareef, Contact: 9448012299, Email: -, ParentPromoterID: =LEFT(N329, FIND(" -", N329)-1), TeamName: TURBO
+----------------------------------------
+Error in row 330: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001541, Name: Ibrahim suhail, Contact: 9880270538, Email: -, ParentPromoterID: =LEFT(N330, FIND(" -", N330)-1), TeamName: DREAM
+----------------------------------------
+Error in row 331: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001537, Name: Azeem, Contact: 8197682952, Email: -, ParentPromoterID: =LEFT(N331, FIND(" -", N331)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 332: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001450, Name: Abdul Muneer, Contact: 9686606252, Email: -, ParentPromoterID: =LEFT(N332, FIND(" -", N332)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 333: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001444, Name: Samna, Contact: 7624847661, Email: -, ParentPromoterID: =LEFT(N333, FIND(" -", N333)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 334: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001441, Name: Aysha ansira, Contact: 8722797610, Email: -, ParentPromoterID: =LEFT(N334, FIND(" -", N334)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 335: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001435, Name: Mohammed Nizamuddin, Contact: 9743890948, Email: -, ParentPromoterID: =LEFT(N335, FIND(" -", N335)-1), TeamName: DREAM
+----------------------------------------
+Error in row 336: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001434, Name: Musthafa, Contact: 9535201109, Email: -, ParentPromoterID: =LEFT(N336, FIND(" -", N336)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 337: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001406, Name: Rafeeq, Contact: 8105445962, Email: -, ParentPromoterID: =LEFT(N337, FIND(" -", N337)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 338: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001385, Name: Asma, Contact: 9900550896, Email: -, ParentPromoterID: =LEFT(N338, FIND(" -", N338)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 339: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001384, Name: Rehana, Contact: 8861756082, Email: -, ParentPromoterID: =LEFT(N339, FIND(" -", N339)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 340: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001366, Name: chandhanakumara SH, Contact: 8497005915, Email: -, ParentPromoterID: =LEFT(N340, FIND(" -", N340)-1), TeamName: TEAM HASSAN
+----------------------------------------
+Error in row 341: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001364, Name: B ISMAIL THASLEEM, Contact: 8277543803, Email: -, ParentPromoterID: =LEFT(N341, FIND(" -", N341)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 342: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001360, Name: S M Ashraf, Contact: 9036963544, Email: -, ParentPromoterID: =LEFT(N342, FIND(" -", N342)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 343: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001359, Name: Mohammad Basheer, Contact: 9448815531, Email: -, ParentPromoterID: =LEFT(N343, FIND(" -", N343)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 344: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001343, Name: Mohammad siraj, Contact: 7353324035, Email: -, ParentPromoterID: =LEFT(N344, FIND(" -", N344)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 345: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001338, Name: Bhavani Shankar, Contact: 9844703406, Email: -, ParentPromoterID: =LEFT(N345, FIND(" -", N345)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 346: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001336, Name: Hameed, Contact: 7353801202, Email: -, ParentPromoterID: =LEFT(N346, FIND(" -", N346)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 347: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001328, Name: Sanvi, Contact: 8497882734, Email: -, ParentPromoterID: =LEFT(N347, FIND(" -", N347)-1), TeamName: Chickmagaluru team
+----------------------------------------
+Error in row 348: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001325, Name: Rafeeq, Contact: 8147635765, Email: -, ParentPromoterID: =LEFT(N348, FIND(" -", N348)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 349: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001317, Name: Amreen banu, Contact: 9148602291, Email: -, ParentPromoterID: =LEFT(N349, FIND(" -", N349)-1), TeamName: DREAM
+----------------------------------------
+Error in row 350: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001300, Name: Rukiya, Contact: 8105454561, Email: -, ParentPromoterID: =LEFT(N350, FIND(" -", N350)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 351: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001294, Name: Rajesh Prabhu, Contact: 9945808325, Email: -, ParentPromoterID: =LEFT(N351, FIND(" -", N351)-1), TeamName: DREAM
+----------------------------------------
+Error in row 352: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001291, Name: mohammed swalhi, Contact: 7795637634, Email: -, ParentPromoterID: =LEFT(N352, FIND(" -", N352)-1), TeamName: DREAM
+----------------------------------------
+Error in row 353: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001288, Name: Ikthiii, Contact: 9742216872, Email: -, ParentPromoterID: =LEFT(N353, FIND(" -", N353)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 354: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001287, Name: Abdul Khader, Contact: 8123817971, Email: -, ParentPromoterID: =LEFT(N354, FIND(" -", N354)-1), TeamName: Chickmagaluru team
+----------------------------------------
+Error in row 355: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001283, Name: Shashikala, Contact: 6362038719, Email: -, ParentPromoterID: =LEFT(N355, FIND(" -", N355)-1), TeamName: A
+----------------------------------------
+Error in row 356: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001278, Name: Imran, Contact: 9945939532, Email: -, ParentPromoterID: =LEFT(N356, FIND(" -", N356)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 357: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001276, Name: Purandara Kulal, Contact: 9972760881, Email: -, ParentPromoterID: =LEFT(N357, FIND(" -", N357)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 358: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001272, Name: Thahira, Contact: 9611792196, Email: -, ParentPromoterID: =LEFT(N358, FIND(" -", N358)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 359: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001271, Name: Reshma, Contact: 9986277663, Email: -, ParentPromoterID: =LEFT(N359, FIND(" -", N359)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 360: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001270, Name: Neha, Contact: 9632940656, Email: -, ParentPromoterID: =LEFT(N360, FIND(" -", N360)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 361: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001264, Name: Bilal, Contact: 9513624542, Email: -, ParentPromoterID: =LEFT(N361, FIND(" -", N361)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 362: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001263, Name: Azmeen banu, Contact: 8310849144, Email: -, ParentPromoterID: =LEFT(N362, FIND(" -", N362)-1), TeamName: MUDIGERE
+----------------------------------------
+Error in row 363: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001261, Name: afrin, Contact: 9480872191, Email: -, ParentPromoterID: =LEFT(N363, FIND(" -", N363)-1), TeamName: DREAM
+----------------------------------------
+Error in row 364: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001253, Name: Shareef, Contact: 9591460669, Email: -, ParentPromoterID: =LEFT(N364, FIND(" -", N364)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 365: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001244, Name: Maimuna, Contact: 6362595066, Email: -, ParentPromoterID: =LEFT(N365, FIND(" -", N365)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 366: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001239, Name: Saleem k, Contact: 8197123820, Email: -, ParentPromoterID: =LEFT(N366, FIND(" -", N366)-1), TeamName: DREAM
+----------------------------------------
+Error in row 367: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001237, Name: Nizam, Contact: 8105968755, Email: -, ParentPromoterID: =LEFT(N367, FIND(" -", N367)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 368: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001233, Name: Muhammad shafeeq, Contact: 7259627243, Email: -, ParentPromoterID: =LEFT(N368, FIND(" -", N368)-1), TeamName: DREAM
+----------------------------------------
+Error in row 369: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001226, Name: Abdul Naseer, Contact: 8867686879, Email: -, ParentPromoterID: =LEFT(N369, FIND(" -", N369)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 370: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001217, Name: Aiza asif, Contact: 8310206916, Email: -, ParentPromoterID: =LEFT(N370, FIND(" -", N370)-1), TeamName: TURBO
+----------------------------------------
+Error in row 371: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001205, Name: Hameed latest, Contact: 8217813227, Email: -, ParentPromoterID: =LEFT(N371, FIND(" -", N371)-1), TeamName: DREAM
+----------------------------------------
+Error in row 372: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001200, Name: Guru, Contact: 9686338727, Email: -, ParentPromoterID: =LEFT(N372, FIND(" -", N372)-1), TeamName: TURBO
+----------------------------------------
+Error in row 373: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001189, Name: Mohammed ali, Contact: 9947549263, Email: -, ParentPromoterID: =LEFT(N373, FIND(" -", N373)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 374: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001176, Name: Beebi Khatheeja, Contact: 9740175338, Email: -, ParentPromoterID: =LEFT(N374, FIND(" -", N374)-1), TeamName: TURBO
+----------------------------------------
+Error in row 375: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001170, Name: Naushad Krishnapura, Contact: 8123686169, Email: -, ParentPromoterID: =LEFT(N375, FIND(" -", N375)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 376: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001169, Name: Nafeesha Thansheefa, Contact: 9844734279, Email: -, ParentPromoterID: =LEFT(N376, FIND(" -", N376)-1), TeamName: TURBO
+----------------------------------------
+Error in row 377: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001163, Name: Shafi, Contact: 7760760277, Email: -, ParentPromoterID: =LEFT(N377, FIND(" -", N377)-1), TeamName: DREAM
+----------------------------------------
+Error in row 378: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001159, Name: Asira, Contact: 8943180949, Email: -, ParentPromoterID: =LEFT(N378, FIND(" -", N378)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 379: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001154, Name: Abdul majeed, Contact: 9916533148, Email: -, ParentPromoterID: =LEFT(N379, FIND(" -", N379)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 380: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001148, Name: Mohammed isak, Contact: 9036194846, Email: -, ParentPromoterID: =LEFT(N380, FIND(" -", N380)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 381: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001147, Name: Umaira, Contact: 9746533772, Email: -, ParentPromoterID: =LEFT(N381, FIND(" -", N381)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 382: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001146, Name: Abdulla, Contact: 7558943772, Email: -, ParentPromoterID: =LEFT(N382, FIND(" -", N382)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 383: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001133, Name: Reemaz Abdul azeez, Contact: 8792423204, Email: -, ParentPromoterID: =LEFT(N383, FIND(" -", N383)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 384: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001128, Name: mahammad thouseef, Contact: 9591503266, Email: -, ParentPromoterID: =LEFT(N384, FIND(" -", N384)-1), TeamName: TURBO
+----------------------------------------
+Error in row 385: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001125, Name: Wilma Dsouza, Contact: 7019919887, Email: -, ParentPromoterID: =LEFT(N385, FIND(" -", N385)-1), TeamName: TURBO
+----------------------------------------
+Error in row 386: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001116, Name: Ayisha, Contact: 8105417456, Email: -, ParentPromoterID: =LEFT(N386, FIND(" -", N386)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 387: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001109, Name: Nasir B, Contact: 9740963311, Email: -, ParentPromoterID: =LEFT(N387, FIND(" -", N387)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 388: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001108, Name: Mohammed ADIL Ibrahim, Contact: 7204347442, Email: -, ParentPromoterID: =LEFT(N388, FIND(" -", N388)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 389: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001107, Name: Mahammad semir, Contact: 8660542439, Email: -, ParentPromoterID: =LEFT(N389, FIND(" -", N389)-1), TeamName: DREAM
+----------------------------------------
+Error in row 390: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001105, Name: Ibrahim, Contact: 8861041387, Email: -, ParentPromoterID: =LEFT(N390, FIND(" -", N390)-1), TeamName: DREAM
+----------------------------------------
+Error in row 391: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001103, Name: Imran, Contact: 8050935261, Email: -, ParentPromoterID: =LEFT(N391, FIND(" -", N391)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 392: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001101, Name: Mohammed Faisal, Contact: 7022565696, Email: -, ParentPromoterID: =LEFT(N392, FIND(" -", N392)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 393: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001100, Name: Mashitha Mehran, Contact: 9845786788, Email: -, ParentPromoterID: =LEFT(N393, FIND(" -", N393)-1), TeamName: TURBO
+----------------------------------------
+Error in row 394: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001099, Name: ishrath imran, Contact: 8123505055, Email: -, ParentPromoterID: =LEFT(N394, FIND(" -", N394)-1), TeamName: DREAM
+----------------------------------------
+Error in row 395: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001098, Name: Mohmmad Shahid, Contact: 8904681836, Email: -, ParentPromoterID: =LEFT(N395, FIND(" -", N395)-1), TeamName: INNOVATORS
+----------------------------------------
+Error in row 396: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001097, Name: Mohammad Ishaq, Contact: 9606869789, Email: -, ParentPromoterID: =LEFT(N396, FIND(" -", N396)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 397: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001091, Name: Zubaida@gail.com, Contact: 8971563779, Email: -, ParentPromoterID: =LEFT(N397, FIND(" -", N397)-1), TeamName: TURBO
+----------------------------------------
+Error in row 398: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001088, Name: Sefiya, Contact: 9148183045, Email: -, ParentPromoterID: =LEFT(N398, FIND(" -", N398)-1), TeamName: TURBO
+----------------------------------------
+Error in row 399: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001087, Name: Asif p, Contact: 8310895973, Email: -, ParentPromoterID: =LEFT(N399, FIND(" -", N399)-1), TeamName: DREAM
+----------------------------------------
+Error in row 400: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001077, Name: Ayesha kubra, Contact: 9164829078, Email: -, ParentPromoterID: =LEFT(N400, FIND(" -", N400)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 401: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001075, Name: Bhavith Kumar, Contact: 9535723024, Email: -, ParentPromoterID: =LEFT(N401, FIND(" -", N401)-1), TeamName: TURBO
+----------------------------------------
+Error in row 402: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001071, Name: Divya, Contact: 9113837151, Email: -, ParentPromoterID: =LEFT(N402, FIND(" -", N402)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 403: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001068, Name: Fauziya, Contact: 9845749858, Email: -, ParentPromoterID: =LEFT(N403, FIND(" -", N403)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 404: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001067, Name: Nalinakshi, Contact: 9620475965, Email: -, ParentPromoterID: =LEFT(N404, FIND(" -", N404)-1), TeamName: DREAM
+----------------------------------------
+Error in row 405: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001066, Name: Fazil ahmed, Contact: 8197846586, Email: -, ParentPromoterID: =LEFT(N405, FIND(" -", N405)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 406: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001065, Name: Jamaluddin, Contact: 9845591058, Email: -, ParentPromoterID: =LEFT(N406, FIND(" -", N406)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 407: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001062, Name: Asma, Contact: 9663638369, Email: -, ParentPromoterID: =LEFT(N407, FIND(" -", N407)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 408: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001057, Name: Ashiq sammas, Contact: 9632403482, Email: -, ParentPromoterID: =LEFT(N408, FIND(" -", N408)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 409: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001055, Name: Jaleel, Contact: 9945195553, Email: -, ParentPromoterID: =LEFT(N409, FIND(" -", N409)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 410: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001049, Name: Mohammed mansoor, Contact: 9731443639, Email: -, ParentPromoterID: =LEFT(N410, FIND(" -", N410)-1), TeamName: DREAM
+----------------------------------------
+Error in row 411: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001048, Name: Sowdhabi kamaruneesa, Contact: 9741237820, Email: -, ParentPromoterID: =LEFT(N411, FIND(" -", N411)-1), TeamName: DREAM
+----------------------------------------
+Error in row 412: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001047, Name: Fathimath sunera M, Contact: 9964424164, Email: -, ParentPromoterID: =LEFT(N412, FIND(" -", N412)-1), TeamName: DREAM
+----------------------------------------
+Error in row 413: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001043, Name: M.Shahin, Contact: 8123706619, Email: -, ParentPromoterID: =LEFT(N413, FIND(" -", N413)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 414: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001037, Name: Shamna, Contact: 9731285451, Email: -, ParentPromoterID: =LEFT(N414, FIND(" -", N414)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 415: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001036, Name: Sakeena Salman, Contact: 9902795202, Email: -, ParentPromoterID: =LEFT(N415, FIND(" -", N415)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 416: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001033, Name: HYDER ALI, Contact: 9902527476, Email: -, ParentPromoterID: =LEFT(N416, FIND(" -", N416)-1), TeamName: DYNAMIC
+----------------------------------------
+Error in row 417: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001031, Name: Sammu51, Contact: 9964475451, Email: -, ParentPromoterID: =LEFT(N417, FIND(" -", N417)-1), TeamName: MIRACLE
+----------------------------------------
+Error in row 418: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001029, Name: Anas.b, Contact: 9972535985, Email: -, ParentPromoterID: =LEFT(N418, FIND(" -", N418)-1), TeamName: DREAM
+----------------------------------------
+Error in row 419: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001027, Name: Thameem B, Contact: 7736830069, Email: -, ParentPromoterID: =LEFT(N419, FIND(" -", N419)-1), TeamName: DREAM
+----------------------------------------
+Error in row 420: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001026, Name: SAHARA, Contact: 9980752821, Email: -, ParentPromoterID: =LEFT(N420, FIND(" -", N420)-1), TeamName: DREAM
+----------------------------------------
+Error in row 421: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001025, Name: Hashim, Contact: 9995194472, Email: -, ParentPromoterID: =LEFT(N421, FIND(" -", N421)-1), TeamName: DREAM
+----------------------------------------
+Error in row 422: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001023, Name: Kelvin D Souza, Contact: 8296507883, Email: -, ParentPromoterID: =LEFT(N422, FIND(" -", N422)-1), TeamName: DREAM
+----------------------------------------
+Error in row 423: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001019, Name: Filza Hazik, Contact: 9611231011, Email: -, ParentPromoterID: =LEFT(N423, FIND(" -", N423)-1), TeamName: DREAM
+----------------------------------------
+Error in row 424: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001018, Name: Asif Muhammad, Contact: 9945445957, Email: -, ParentPromoterID: =LEFT(N424, FIND(" -", N424)-1), TeamName: DREAM
+----------------------------------------
+Error in row 425: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001017, Name: Afreena, Contact: 7411243459, Email: -, ParentPromoterID: =LEFT(N425, FIND(" -", N425)-1), TeamName: DREAM
+----------------------------------------
+Error in row 426: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001016, Name: Lubaba, Contact: 9481848931, Email: -, ParentPromoterID: =LEFT(N426, FIND(" -", N426)-1), TeamName: DREAM
+----------------------------------------
+Error in row 427: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001015, Name: Rushda, Contact: 7483925481, Email: -, ParentPromoterID: =LEFT(N427, FIND(" -", N427)-1), TeamName: DREAM
+----------------------------------------
+Error in row 428: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001014, Name: sirajuddin m, Contact: 8147410811, Email: -, ParentPromoterID: =LEFT(N428, FIND(" -", N428)-1), TeamName: DREAM
+----------------------------------------
+Error in row 429: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '-' for key 'Email'
+Data: PromoterUniqueID: GD001013, Name: Fathima, Contact: 9742282299, Email: -, ParentPromoterID: =LEFT(N429, FIND(" -", N429)-1), TeamName: DREAM
+----------------------------------------

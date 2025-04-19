@@ -1,6 +1,6 @@
-PromoterUniqueID,Name,Contact,Email,Password,Address,ProfileImageURL,BankAccountName,BankAccountNumber,IFSCCode,BankName
-PROM001,John Doe,9876543210,john.doe@example.com,password123,123 Main St. Mumbai,https://example.com/images/john.jpg,John Doe,123456789012,SBIN0001234,State Bank of India
-PROM002,Jane Smith,8765432109,jane.smith@example.com,password456,456 Park Ave. Delhi,https://example.com/images/jane.jpg,Jane Smith,234567890123,ICIC0005678,ICICI Bank
-PROM003,Robert Brown,7654321098,robert.b@example.com,password789,789 Oak Lane. Bangalore,https://example.com/images/robert.jpg,Robert Brown,345678901234,HDFC0009012,HDFC Bank
-PROM004,Alice Johnson,6543210987,alice.j@example.com,passwordabc,321 Pine St. Chennai,https://example.com/images/alice.jpg,Alice Johnson,456789012345,AXIS0003456,Axis Bank
-PROM005,Michael Wilson,5432109876,michael.w@example.com,passworddef,654 Maple Ave. Kolkata,https://example.com/images/michael.jpg,Michael Wilson,567890123456,UBIN0007890,Union Bank of India 
+PromoterUniqueID,Name,Contact,Email,Password,Address,ProfileImageURL,BankAccountName,BankAccountNumber,IFSCCode,BankName,ParentPromoterID,TeamName
+PROM001,John Doe,9876543210,john.doe@example.com,password123,123 Main St Mumbai,https://example.com/images/john.jpg,John Doe,123456789012,SBIN0001234,State Bank of India,,Team A
+PROM002,Jane Smith,8765432109,jane.smith@example.com,password456,456 Park Ave Delhi,https://example.com/images/jane.jpg,Jane Smith,234567890123,ICIC0005678,ICICI Bank,1,Team A
+PROM003,Robert Brown,7654321098,robert.b@example.com,password789,789 Oak Lane Bangalore,https://example.com/images/robert.jpg,Robert Brown,345678901234,HDFC0009012,HDFC Bank,1,Team B
+PROM004,Alice Johnson,6543210987,alice.j@example.com,passwordabc,321 Pine St Chennai,https://example.com/images/alice.jpg,Alice Johnson,456789012345,AXIS0003456,Axis Bank,2,Team B
+PROM005,Michael Wilson,5432109876,michael.w@example.com,passworddef,654 Park Street Kolkata,https://example.com/images/michael.jpg,Michael Wilson,567890123456,UBIN0007890,Union Bank of India,2,Team A 
