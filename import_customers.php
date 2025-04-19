@@ -4,10 +4,10 @@ require 'vendor/autoload.php';
 use PhpOffice\PhpSpreadsheet\IOFactory;
 
 // Database connection
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "goldendream";
+$servername = "srv1752.hstgr.io";
+$username = "u229215627_GoldenDream";
+$password = "Azl@n2002";
+$dbname = "u229215627_GoldenDream";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);

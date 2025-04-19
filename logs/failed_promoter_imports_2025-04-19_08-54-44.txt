@@ -1,0 +1,1289 @@
+Failed Promoter Records Log - 2025-04-19 08:54:44
+==========================================
+
+Original File: promoter_data.xlsx
+
+Error in row 2: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD014381' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD014381, Name: Panchami, Contact: GD012772 - JAGANNATH R, Email: 8431327345
+----------------------------------------
+Error in row 3: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD014240' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD014240, Name: ADI SHIVA REDDY, Contact: GD012009 - ADI ESWAR, Email: 9591038480
+----------------------------------------
+Error in row 4: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD014168' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD014168, Name: Ekanath shetty, Contact: GD011516 - MANU, Email: 9380769936
+----------------------------------------
+Error in row 5: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD014012' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD014012, Name: Harshad, Contact: GD010572 - FARSHINA SHAMA, Email: 9902777363
+----------------------------------------
+Error in row 6: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013997' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013997, Name: Uluva Ramanjineyulu, Contact: GD011521 - B KRISHNAVENI, Email: 8501922145
+----------------------------------------
+Error in row 7: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD013987, Name: A Basavaraja, Contact: GD011521 - B KRISHNAVENI, Email: 9480755098
+----------------------------------------
+Error in row 8: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013797' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013797, Name: UMME NOOH SUHAIL SAYYED, Contact: GD010684 - BIBI HAJEERA, Email: 9353426360
+----------------------------------------
+Error in row 9: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012009 - ADI ESWAR' for key 'Contact'
+Data: PromoterUniqueID: GD013761, Name: BUKKE NAGESWARA NAIK, Contact: GD012009 - ADI ESWAR, Email: 9393637788
+----------------------------------------
+Error in row 10: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013760' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013760, Name: Mohammed Navaz, Contact: GD010015 - Zainaba, Email: 9108799637
+----------------------------------------
+Error in row 11: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013627' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013627, Name: FATHIMA THAZIRA, Contact: GD001004 - GOLDENDREAM, Email: 8147034474
+----------------------------------------
+Error in row 12: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013625' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013625, Name: Sharanamma, Contact: GD013224 - Shivakumar Dhanshetty, Email: 9663435204
+----------------------------------------
+Error in row 13: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012009 - ADI ESWAR' for key 'Contact'
+Data: PromoterUniqueID: GD013607, Name: K SHEKSHAVALI, Contact: GD012009 - ADI ESWAR, Email: 9704039604
+----------------------------------------
+Error in row 14: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013562' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013562, Name: Ravi A, Contact: GD013454 - SUMITHRA HK, Email: 9945589511
+----------------------------------------
+Error in row 15: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010015 - Zainaba' for key 'Contact'
+Data: PromoterUniqueID: GD013559, Name: Ubaid sab, Contact: GD010015 - Zainaba, Email: 6364448778
+----------------------------------------
+Error in row 16: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD013553, Name: Sridhar Kuna, Contact: GD011521 - B KRISHNAVENI, Email: 9885883553
+----------------------------------------
+Error in row 17: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013486' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013486, Name: Kanike krishna, Contact: GD013485 - K.Vykunta, Email: 9849840017
+----------------------------------------
+Error in row 18: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD013485, Name: K.Vykunta, Contact: GD011521 - B KRISHNAVENI, Email: 9885595973
+----------------------------------------
+Error in row 19: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013484' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013484, Name: Ashwini, Contact: GD012071 - Manjunath swami, Email: 7760026340
+----------------------------------------
+Error in row 20: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013454' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013454, Name: SUMITHRA HK, Contact: GD011515 - ARSHAD, Email: 9902882799
+----------------------------------------
+Error in row 21: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011515 - ARSHAD' for key 'Contact'
+Data: PromoterUniqueID: GD013452, Name: Hemanth M, Contact: GD011515 - ARSHAD, Email: 8867741188
+----------------------------------------
+Error in row 22: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013449' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013449, Name: Davis.C.F, Contact: GD012689 - Sunil Scimon Lewis, Email: 9753955124
+----------------------------------------
+Error in row 23: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013448' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013448, Name: BHARAT BHUSHAN CHOWDHARY, Contact: GD012686 - George selvan, Email: 8962178745
+----------------------------------------
+Error in row 24: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013446' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013446, Name: Veerabhadrappa K C, Contact: GD013444 - MANJUNATH B S, Email: 9620536142
+----------------------------------------
+Error in row 25: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD013444, Name: MANJUNATH B S, Contact: GD011516 - MANU, Email: 8722688914
+----------------------------------------
+Error in row 26: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013388' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013388, Name: Anand, Contact: GD012120 - Devendra shetty, Email: 9986106742
+----------------------------------------
+Error in row 27: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012689 - Sunil Scimon Lewis' for key 'Contact'
+Data: PromoterUniqueID: GD013385, Name: Asha yadav, Contact: GD012689 - Sunil Scimon Lewis, Email: 9752329315
+----------------------------------------
+Error in row 28: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013376' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013376, Name: GANGADHAR, Contact: GD012157 - THOUSIF, Email: 6362131844
+----------------------------------------
+Error in row 29: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013374' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013374, Name: DARSHAN J NAIK, Contact: GD011558 - PRAKASH NAIK, Email: 9591523026
+----------------------------------------
+Error in row 30: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013262' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013262, Name: CHAITHANYA C L, Contact: GD013255 - SUMANTH U G, Email: 9448644563
+----------------------------------------
+Error in row 31: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD013255, Name: SUMANTH U G, Contact: GD011516 - MANU, Email: 8197303791
+----------------------------------------
+Error in row 32: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013231' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013231, Name: DEEPAK PANDURANG NAIK, Contact: GD011417 - BHASKAR, Email: 9449776702
+----------------------------------------
+Error in row 33: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012120 - Devendra shetty' for key 'Contact'
+Data: PromoterUniqueID: GD013224, Name: Shivakumar Dhanshetty, Contact: GD012120 - Devendra shetty, Email: 7899845597
+----------------------------------------
+Error in row 34: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012689 - Sunil Scimon Lewis' for key 'Contact'
+Data: PromoterUniqueID: GD013218, Name: Mohammad shahnawaz Khan, Contact: GD012689 - Sunil Scimon Lewis, Email: 8120918881
+----------------------------------------
+Error in row 35: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013215' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013215, Name: Allabakash.S nadaf Pin code 591129 District Belgaum Taluk yaragatti Mobile 6362816574, Contact: GD010433 - Rehana, Email: 6362816574
+----------------------------------------
+Error in row 36: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012689 - Sunil Scimon Lewis' for key 'Contact'
+Data: PromoterUniqueID: GD013208, Name: Biji Samuel, Contact: GD012689 - Sunil Scimon Lewis, Email: 9826377495
+----------------------------------------
+Error in row 37: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013092' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013092, Name: RAMESH, Contact: GD012121 - Santhosh kumar, Email: 6362383408
+----------------------------------------
+Error in row 38: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD013091, Name: Sridhar, Contact: GD011516 - MANU, Email: 9141882181
+----------------------------------------
+Error in row 39: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD013090' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD013090, Name: Arfaz, Contact: GD010449 - Shrithin, Email: 7259840607
+----------------------------------------
+Error in row 40: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012859' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012859, Name: AMOGHA G, Contact: GD012194 - Prasad Shetty, Email: 9448030882
+----------------------------------------
+Error in row 41: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012194 - Prasad Shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012858, Name: KAVITHA, Contact: GD012194 - Prasad Shetty, Email: 8971528162
+----------------------------------------
+Error in row 42: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012854' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012854, Name: VINAY S P, Contact: GD012204 - MADAN K S, Email: 8147848060
+----------------------------------------
+Error in row 43: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012120 - Devendra shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012799, Name: Anand, Contact: GD012120 - Devendra shetty, Email: 9986106742
+----------------------------------------
+Error in row 44: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012071 - Manjunath swami' for key 'Contact'
+Data: PromoterUniqueID: GD012779, Name: Ananta kumara, Contact: GD012071 - Manjunath swami, Email: 7975126995
+----------------------------------------
+Error in row 45: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012772, Name: JAGANNATH R, Contact: GD011516 - MANU, Email: 9731952588
+----------------------------------------
+Error in row 46: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012702' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012702, Name: KRISHNA N MESTA, Contact: GD010679 - VIJAY K, Email: 9730558998
+----------------------------------------
+Error in row 47: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012686 - George selvan' for key 'Contact'
+Data: PromoterUniqueID: GD012689, Name: Sunil Scimon Lewis, Contact: GD012686 - George selvan, Email: 9424543173
+----------------------------------------
+Error in row 48: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012686' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012686, Name: George selvan, Contact: GD012008 - MANVITHA RAJ, Email: 9981982610
+----------------------------------------
+Error in row 49: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012678' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012678, Name: Jagadeesha gowda gb, Contact: GD012169 - MUNEER, Email: 9880607055
+----------------------------------------
+Error in row 50: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012008 - MANVITHA RAJ' for key 'Contact'
+Data: PromoterUniqueID: GD012670, Name: Ellain fernandes, Contact: GD012008 - MANVITHA RAJ, Email: 8818510921
+----------------------------------------
+Error in row 51: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD012661, Name: Srinivas D, Contact: GD011521 - B KRISHNAVENI, Email: 7022523242
+----------------------------------------
+Error in row 52: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012635' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012635, Name: Sudha s, Contact: GD012155 - Parvathi Hiremath, Email: 9606675978
+----------------------------------------
+Error in row 53: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012155 - Parvathi Hiremath' for key 'Contact'
+Data: PromoterUniqueID: GD012634, Name: Ravindra s gindi, Contact: GD012155 - Parvathi Hiremath, Email: 8296252520
+----------------------------------------
+Error in row 54: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012575' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012575, Name: Mahadeav K Kammar, Contact: GD012198 - Fakkirappa T Chindi, Email: 7406611161
+----------------------------------------
+Error in row 55: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012120 - Devendra shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012572, Name: Shivakumar Kattimane, Contact: GD012120 - Devendra shetty, Email: 9916825324
+----------------------------------------
+Error in row 56: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012497' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012497, Name: Satish kanade, Contact: GD012474 - Prajwal mm, Email: 9986223753
+----------------------------------------
+Error in row 57: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012474 - Prajwal mm' for key 'Contact'
+Data: PromoterUniqueID: GD012492, Name: Vinayaka A S, Contact: GD012474 - Prajwal mm, Email: 9353931613
+----------------------------------------
+Error in row 58: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD012481, Name: Sadiq Ahemad, Contact: GD011521 - B KRISHNAVENI, Email: 9611202286
+----------------------------------------
+Error in row 59: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012474' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012474, Name: Prajwal mm, Contact: GD012319 - MOHAN KUMAR M B, Email: 8123924895
+----------------------------------------
+Error in row 60: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012157 - THOUSIF' for key 'Contact'
+Data: PromoterUniqueID: GD012395, Name: Ananda, Contact: GD012157 - THOUSIF, Email: 6363023197
+----------------------------------------
+Error in row 61: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012329' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012329, Name: PRASAD KODIYA, Contact: GD012322 - MANJUNATH J N, Email: 9448715687
+----------------------------------------
+Error in row 62: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012319 - MOHAN KUMAR M B' for key 'Contact'
+Data: PromoterUniqueID: GD012322, Name: MANJUNATH J N, Contact: GD012319 - MOHAN KUMAR M B, Email: 9916880237
+----------------------------------------
+Error in row 63: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012319' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012319, Name: MOHAN KUMAR M B, Contact: GD012304 - Lokesh P Pawaskar, Email: 9449379608
+----------------------------------------
+Error in row 64: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012304' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012304, Name: Lokesh P Pawaskar, Contact: GD012288 - Shivanand Joglekar, Email: 7019830063
+----------------------------------------
+Error in row 65: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012288' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012288, Name: Shivanand Joglekar, Contact: GD012266 - PRAVEEN, Email: 9986142424
+----------------------------------------
+Error in row 66: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012266' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012266, Name: PRAVEEN, Contact: GD012264 - Vignesh kharvi, Email: 8747089828
+----------------------------------------
+Error in row 67: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012264' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012264, Name: Vignesh kharvi, Contact: GD012253 - Uma Hugar, Email: 7619571172
+----------------------------------------
+Error in row 68: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012071 - Manjunath swami' for key 'Contact'
+Data: PromoterUniqueID: GD012253, Name: Uma Hugar, Contact: GD012071 - Manjunath swami, Email: 9986513043
+----------------------------------------
+Error in row 69: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012194 - Prasad Shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012206, Name: ARUNA, Contact: GD012194 - Prasad Shetty, Email: 8762109868
+----------------------------------------
+Error in row 70: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012194 - Prasad Shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012205, Name: CHAITHRA A K, Contact: GD012194 - Prasad Shetty, Email: 9108676952
+----------------------------------------
+Error in row 71: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012194 - Prasad Shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012204, Name: MADAN K S, Contact: GD012194 - Prasad Shetty, Email: 8277462279
+----------------------------------------
+Error in row 72: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD012198, Name: Fakkirappa T Chindi, Contact: GD011521 - B KRISHNAVENI, Email: 9972978110
+----------------------------------------
+Error in row 73: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012194' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012194, Name: Prasad Shetty, Contact: GD012111 - Sukesha s, Email: 8073791299
+----------------------------------------
+Error in row 74: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012173' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012173, Name: Latha, Contact: GD011819 - Veeresh N, Email: 8151833001
+----------------------------------------
+Error in row 75: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012157 - THOUSIF' for key 'Contact'
+Data: PromoterUniqueID: GD012170, Name: KAVISH, Contact: GD012157 - THOUSIF, Email: 8762747561
+----------------------------------------
+Error in row 76: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012157 - THOUSIF' for key 'Contact'
+Data: PromoterUniqueID: GD012169, Name: MUNEER, Contact: GD012157 - THOUSIF, Email: 8088164588
+----------------------------------------
+Error in row 77: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012168' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012168, Name: Shahid Shivamogga, Contact: GD010596 - Inzamam, Email: 6360185261
+----------------------------------------
+Error in row 78: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012157, Name: THOUSIF, Contact: GD011516 - MANU, Email: 9148617743
+----------------------------------------
+Error in row 79: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012120 - Devendra shetty' for key 'Contact'
+Data: PromoterUniqueID: GD012155, Name: Parvathi Hiremath, Contact: GD012120 - Devendra shetty, Email: 9741400245
+----------------------------------------
+Error in row 80: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012133' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012133, Name: Syed Hafeez, Contact: GD011811 - IQBAL GN, Email: 9880035716
+----------------------------------------
+Error in row 81: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD012122, Name: Jagadish G N, Contact: GD011521 - B KRISHNAVENI, Email: 9686375113
+----------------------------------------
+Error in row 82: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012071 - Manjunath swami' for key 'Contact'
+Data: PromoterUniqueID: GD012121, Name: Santhosh kumar, Contact: GD012071 - Manjunath swami, Email: 9113291465
+----------------------------------------
+Error in row 83: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012071 - Manjunath swami' for key 'Contact'
+Data: PromoterUniqueID: GD012120, Name: Devendra shetty, Contact: GD012071 - Manjunath swami, Email: 9972422279
+----------------------------------------
+Error in row 84: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012114' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012114, Name: Karthik k s, Contact: GD011736 - Arun c g, Email: 7483996735
+----------------------------------------
+Error in row 85: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011736 - Arun c g' for key 'Contact'
+Data: PromoterUniqueID: GD012111, Name: Sukesha s, Contact: GD011736 - Arun c g, Email: 7259848260
+----------------------------------------
+Error in row 86: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012108' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012108, Name: M N Gayatri, Contact: GD012083 - Ajaya s, Email: 9632199340
+----------------------------------------
+Error in row 87: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012083' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012083, Name: Ajaya s, Contact: GD012082 - Usha G, Email: 9060081926
+----------------------------------------
+Error in row 88: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD012082, Name: Usha G, Contact: GD011521 - B KRISHNAVENI, Email: 8197324201
+----------------------------------------
+Error in row 89: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010596 - Inzamam' for key 'Contact'
+Data: PromoterUniqueID: GD012073, Name: Imthiyaz, Contact: GD010596 - Inzamam, Email: 7259321358
+----------------------------------------
+Error in row 90: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012071, Name: Manjunath swami, Contact: GD011516 - MANU, Email: 9880807533
+----------------------------------------
+Error in row 91: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD012060, Name: LOHITH, Contact: GD010679 - VIJAY K, Email: 9611679336
+----------------------------------------
+Error in row 92: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012011, Name: GHOUSIYA KOUSER, Contact: GD011516 - MANU, Email: 9964709247
+----------------------------------------
+Error in row 93: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012010, Name: MANJUNATH H B, Contact: GD011516 - MANU, Email: 8549010373
+----------------------------------------
+Error in row 94: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012009, Name: ADI ESWAR, Contact: GD011516 - MANU, Email: 9742428288
+----------------------------------------
+Error in row 95: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD012008, Name: MANVITHA RAJ, Contact: GD011516 - MANU, Email: 9902882799
+----------------------------------------
+Error in row 96: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD012002' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD012002, Name: NANI RACHI, Contact: GD005173 - Dynamic, Email: 9341078208
+----------------------------------------
+Error in row 97: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011811 - IQBAL GN' for key 'Contact'
+Data: PromoterUniqueID: GD011946, Name: Heena kauser, Contact: GD011811 - IQBAL GN, Email: 9449014357
+----------------------------------------
+Error in row 98: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011940, Name: PRASHANTH, Contact: GD010679 - VIJAY K, Email: 9986229154
+----------------------------------------
+Error in row 99: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD011938, Name: Sheela, Contact: GD011516 - MANU, Email: 8217471031
+----------------------------------------
+Error in row 100: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011937, Name: Naveed Pasha, Contact: GD011521 - B KRISHNAVENI, Email: 9980190774
+----------------------------------------
+Error in row 101: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011819 - Veeresh N' for key 'Contact'
+Data: PromoterUniqueID: GD011882, Name: Ganesh SS, Contact: GD011819 - Veeresh N, Email: 9844665613
+----------------------------------------
+Error in row 102: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011835' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011835, Name: Kiran kumar M, Contact: GD011825 - H VEERESH, Email: 8904844498
+----------------------------------------
+Error in row 103: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011825, Name: H VEERESH, Contact: GD011521 - B KRISHNAVENI, Email: 8971680746
+----------------------------------------
+Error in row 104: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011819, Name: Veeresh N, Contact: GD011521 - B KRISHNAVENI, Email: 9538219106
+----------------------------------------
+Error in row 105: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD011817, Name: MANJU H R, Contact: GD011516 - MANU, Email: 8618596433
+----------------------------------------
+Error in row 106: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011816, Name: Vinay Kumar, Contact: GD011521 - B KRISHNAVENI, Email: 9902218947
+----------------------------------------
+Error in row 107: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011811, Name: IQBAL GN, Contact: GD011521 - B KRISHNAVENI, Email: 9980573090
+----------------------------------------
+Error in row 108: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011805' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011805, Name: Harisha P, Contact: GD010488 - Classic GD, Email: 7760112609
+----------------------------------------
+Error in row 109: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011752' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011752, Name: ARMAN, Contact: GD011739 - GEETA, Email: 9353485414
+----------------------------------------
+Error in row 110: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD011740, Name: Mahammad Nizamuddin, Contact: GD011516 - MANU, Email: 7338146813
+----------------------------------------
+Error in row 111: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011739, Name: GEETA, Contact: GD010679 - VIJAY K, Email: 9611376943
+----------------------------------------
+Error in row 112: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011738' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011738, Name: PRAKASH S, Contact: GD011551 - ASHOK T D, Email: 8073108362
+----------------------------------------
+Error in row 113: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011551 - ASHOK T D' for key 'Contact'
+Data: PromoterUniqueID: GD011737, Name: BHARATHI, Contact: GD011551 - ASHOK T D, Email: 9663996242
+----------------------------------------
+Error in row 114: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011551 - ASHOK T D' for key 'Contact'
+Data: PromoterUniqueID: GD011736, Name: Arun c g, Contact: GD011551 - ASHOK T D, Email: 7899026596
+----------------------------------------
+Error in row 115: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011521 - B KRISHNAVENI' for key 'Contact'
+Data: PromoterUniqueID: GD011705, Name: Naveena kumar B. V, Contact: GD011521 - B KRISHNAVENI, Email: 8277143445
+----------------------------------------
+Error in row 116: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011704, Name: USHA HEGDE, Contact: GD010679 - VIJAY K, Email: 8762455892
+----------------------------------------
+Error in row 117: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011558' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011558, Name: PRAKASH NAIK, Contact: GD011421 - SATHISH DAMODAR NAIK, Email: 9008650946
+----------------------------------------
+Error in row 118: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010596 - Inzamam' for key 'Contact'
+Data: PromoterUniqueID: GD011554, Name: Mohammad Abid Ali, Contact: GD010596 - Inzamam, Email: 9964457514
+----------------------------------------
+Error in row 119: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD011551, Name: ASHOK T D, Contact: GD011516 - MANU, Email: 9901143898
+----------------------------------------
+Error in row 120: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011541' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011541, Name: Kiran Kumar D, Contact: GD010670 - Guddappa, Email: 7975472940
+----------------------------------------
+Error in row 121: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011540' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011540, Name: K soudha, Contact: GD011416 - Noor Jahan, Email: 9741257118
+----------------------------------------
+Error in row 122: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD011539, Name: Lankesh Kumar, Contact: GD010433 - Rehana, Email: 9900077235
+----------------------------------------
+Error in row 123: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011536' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011536, Name: Manoj, Contact: GD001291 - mohammed swalhi, Email: 9916048908
+----------------------------------------
+Error in row 124: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011516 - MANU' for key 'Contact'
+Data: PromoterUniqueID: GD011521, Name: B KRISHNAVENI, Contact: GD011516 - MANU, Email: 7975784401
+----------------------------------------
+Error in row 125: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011519, Name: SUNIL BANDADKAR, Contact: GD010679 - VIJAY K, Email: 8310548193
+----------------------------------------
+Error in row 126: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011515 - ARSHAD' for key 'Contact'
+Data: PromoterUniqueID: GD011516, Name: MANU, Contact: GD011515 - ARSHAD, Email: 9632449276
+----------------------------------------
+Error in row 127: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010572 - FARSHINA SHAMA' for key 'Contact'
+Data: PromoterUniqueID: GD011515, Name: ARSHAD, Contact: GD010572 - FARSHINA SHAMA, Email: 9743631372
+----------------------------------------
+Error in row 128: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD011506, Name: Rahim shaikh, Contact: GD010433 - Rehana, Email: 8123808665
+----------------------------------------
+Error in row 129: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011501' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011501, Name: Mujahid jamadar, Contact: GD011474 - Nandihalli khalandar sab, Email: 9980741780
+----------------------------------------
+Error in row 130: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011474 - Nandihalli khalandar sab' for key 'Contact'
+Data: PromoterUniqueID: GD011500, Name: Tabassum, Contact: GD011474 - Nandihalli khalandar sab, Email: 9945587723
+----------------------------------------
+Error in row 131: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011474 - Nandihalli khalandar sab' for key 'Contact'
+Data: PromoterUniqueID: GD011490, Name: Maha bub basha, Contact: GD011474 - Nandihalli khalandar sab, Email: 9945587723
+----------------------------------------
+Error in row 132: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011485' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011485, Name: Ravinayka l, Contact: GD010943 - Somla nail, Email: 8494999577
+----------------------------------------
+Error in row 133: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011474' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011474, Name: Nandihalli khalandar sab, Contact: GD011469 - Hanumantappa uppar, Email: 919535003916
+----------------------------------------
+Error in row 134: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011469' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011469, Name: Hanumantappa uppar, Contact: GD011373 - Akhtar, Email: 918861940206
+----------------------------------------
+Error in row 135: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011467' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011467, Name: shakir, Contact: GD005172 - Game Changers, Email: 8123258783
+----------------------------------------
+Error in row 136: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011458, Name: PRASHANTH PATAGAR, Contact: GD010679 - VIJAY K, Email: 8971332875
+----------------------------------------
+Error in row 137: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011417 - BHASKAR' for key 'Contact'
+Data: PromoterUniqueID: GD011450, Name: ROHAN, Contact: GD011417 - BHASKAR, Email: 9632571321
+----------------------------------------
+Error in row 138: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010670 - Guddappa' for key 'Contact'
+Data: PromoterUniqueID: GD011436, Name: Yogendrappa, Contact: GD010670 - Guddappa, Email: 9945523312
+----------------------------------------
+Error in row 139: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011421, Name: SATHISH DAMODAR NAIK, Contact: GD010679 - VIJAY K, Email: 9611031557
+----------------------------------------
+Error in row 140: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011419' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011419, Name: Rahat unnisa, Contact: GD010580 - Roshan purdalli, Email: 9901819080
+----------------------------------------
+Error in row 141: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011417, Name: BHASKAR, Contact: GD010679 - VIJAY K, Email: 9480896362
+----------------------------------------
+Error in row 142: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011416' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011416, Name: Noor Jahan, Contact: GD010434 - Abdul Jabbar, Email: 8217636464
+----------------------------------------
+Error in row 143: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011411' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011411, Name: Tabassum, Contact: GD011382 - Nandihalli khalandar sab, Email: 7892697459
+----------------------------------------
+Error in row 144: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011382 - Nandihalli khalandar sab' for key 'Contact'
+Data: PromoterUniqueID: GD011410, Name: Maha bub basha, Contact: GD011382 - Nandihalli khalandar sab, Email: 9945587723
+----------------------------------------
+Error in row 145: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010684 - BIBI HAJEERA' for key 'Contact'
+Data: PromoterUniqueID: GD011403, Name: MASTI MUKRI, Contact: GD010684 - BIBI HAJEERA, Email: 9742427697
+----------------------------------------
+Error in row 146: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011382' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011382, Name: Nandihalli khalandar sab, Contact: GD011379 - Hanumantappa uppar, Email: 9535003916
+----------------------------------------
+Error in row 147: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011379' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011379, Name: Hanumantappa uppar, Contact: GD011366 - Mohammed hayath, Email: 8861940206
+----------------------------------------
+Error in row 148: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011366 - Mohammed hayath' for key 'Contact'
+Data: PromoterUniqueID: GD011373, Name: Akhtar, Contact: GD011366 - Mohammed hayath, Email: 8722996184
+----------------------------------------
+Error in row 149: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011366 - Mohammed hayath' for key 'Contact'
+Data: PromoterUniqueID: GD011370, Name: Abdulrahaman rattihalli, Contact: GD011366 - Mohammed hayath, Email: 9880808061
+----------------------------------------
+Error in row 150: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011366' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011366, Name: Mohammed hayath, Contact: GD011362 - Shayistabanu javali, Email: 9986979502
+----------------------------------------
+Error in row 151: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010580 - Roshan purdalli' for key 'Contact'
+Data: PromoterUniqueID: GD011362, Name: Shayistabanu javali, Contact: GD010580 - Roshan purdalli, Email: 9900750944
+----------------------------------------
+Error in row 152: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010670 - Guddappa' for key 'Contact'
+Data: PromoterUniqueID: GD011361, Name: Sedapa. MG, Contact: GD010670 - Guddappa, Email: 7829390322
+----------------------------------------
+Error in row 153: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943 - Somla nail' for key 'Contact'
+Data: PromoterUniqueID: GD011351, Name: Satheeh ds, Contact: GD010943 - Somla nail, Email: 9535227696
+----------------------------------------
+Error in row 154: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943 - Somla nail' for key 'Contact'
+Data: PromoterUniqueID: GD011349, Name: Yankya naik, Contact: GD010943 - Somla nail, Email: 9480283215
+----------------------------------------
+Error in row 155: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943 - Somla nail' for key 'Contact'
+Data: PromoterUniqueID: GD011348, Name: Kumar naik, Contact: GD010943 - Somla nail, Email: 9591273764
+----------------------------------------
+Error in row 156: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943 - Somla nail' for key 'Contact'
+Data: PromoterUniqueID: GD011345, Name: Arun naik, Contact: GD010943 - Somla nail, Email: 9148221447
+----------------------------------------
+Error in row 157: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943 - Somla nail' for key 'Contact'
+Data: PromoterUniqueID: GD011343, Name: Gurumurthy nayak, Contact: GD010943 - Somla nail, Email: 9740491883
+----------------------------------------
+Error in row 158: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD011339, Name: VIJAY SUBRAYA MOHALE, Contact: GD010679 - VIJAY K, Email: 9741583477
+----------------------------------------
+Error in row 159: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD011268, Name: Saifan, Contact: GD010433 - Rehana, Email: 7795056520
+----------------------------------------
+Error in row 160: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011258' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011258, Name: Mahesh mesta, Contact: GD010509 - Manjunath s nayak, Email: 9902002683
+----------------------------------------
+Error in row 161: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD011207, Name: MASHOORA, Contact: GD005173 - Dynamic, Email: 8904161836
+----------------------------------------
+Error in row 162: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010572 - FARSHINA SHAMA' for key 'Contact'
+Data: PromoterUniqueID: GD011194, Name: MOHAMMED SATHAR, Contact: GD010572 - FARSHINA SHAMA, Email: 9745373143
+----------------------------------------
+Error in row 163: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001291 - mohammed swalhi' for key 'Contact'
+Data: PromoterUniqueID: GD011175, Name: Mohammad Kanz Islam, Contact: GD001291 - mohammed swalhi, Email: 9844077856
+----------------------------------------
+Error in row 164: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010684 - BIBI HAJEERA' for key 'Contact'
+Data: PromoterUniqueID: GD011139, Name: SAMREEN FAKARDI, Contact: GD010684 - BIBI HAJEERA, Email: 9986421264
+----------------------------------------
+Error in row 165: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD011134' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD011134, Name: Rahmath ali sab khazi, Contact: GD011088 - Nasrulla siddi Mohammed, Email: 8105583646
+----------------------------------------
+Error in row 166: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010509 - Manjunath s nayak' for key 'Contact'
+Data: PromoterUniqueID: GD011122, Name: Pradeep, Contact: GD010509 - Manjunath s nayak, Email: 9916578388
+----------------------------------------
+Error in row 167: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010509 - Manjunath s nayak' for key 'Contact'
+Data: PromoterUniqueID: GD011088, Name: Nasrulla siddi Mohammed, Contact: GD010509 - Manjunath s nayak, Email: 9110616676
+----------------------------------------
+Error in row 168: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010943' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010943, Name: Somla nail, Contact: GD010868 - SE nageshwar, Email: 919448985092
+----------------------------------------
+Error in row 169: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010868 - SE nageshwar' for key 'Contact'
+Data: PromoterUniqueID: GD010928, Name: Manikanta mv, Contact: GD010868 - SE nageshwar, Email: 917760473762
+----------------------------------------
+Error in row 170: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010910' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010910, Name: Zohra s, Contact: GD010600 - Siraj Hijamadi, Email: 9880655975
+----------------------------------------
+Error in row 171: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010897' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010897, Name: ISMAIL, Contact: GD010799 - DREAM HUBLI, Email: 9980382817
+----------------------------------------
+Error in row 172: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010799 - DREAM HUBLI' for key 'Contact'
+Data: PromoterUniqueID: GD010895, Name: MAQBOOL DODMANI, Contact: GD010799 - DREAM HUBLI, Email: 7795853026
+----------------------------------------
+Error in row 173: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010891' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010891, Name: SAKSHI SHETTY, Contact: GD010709 - SAHIRA KHAZI, Email: 9480990985
+----------------------------------------
+Error in row 174: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010888, Name: Iburaim Hijamadi, Contact: GD010600 - Siraj Hijamadi, Email: 7019181692
+----------------------------------------
+Error in row 175: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010887, Name: Imran sagar, Contact: GD010600 - Siraj Hijamadi, Email: 9632175941
+----------------------------------------
+Error in row 176: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010881, Name: Mhameed sarif, Contact: GD010600 - Siraj Hijamadi, Email: 9632439117
+----------------------------------------
+Error in row 177: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010876' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010876, Name: VEENA SHET, Contact: GD010680 - SRI GANESH, Email: 9448089929
+----------------------------------------
+Error in row 178: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010875, Name: SHAMMAS, Contact: GD005173 - Dynamic, Email: 6362965301
+----------------------------------------
+Error in row 179: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010670 - Guddappa' for key 'Contact'
+Data: PromoterUniqueID: GD010871, Name: Thippesha, Contact: GD010670 - Guddappa, Email: 6886577166
+----------------------------------------
+Error in row 180: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010580 - Roshan purdalli' for key 'Contact'
+Data: PromoterUniqueID: GD010868, Name: SE nageshwar, Contact: GD010580 - Roshan purdalli, Email: 9945896460
+----------------------------------------
+Error in row 181: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010860, Name: Mohammed rafil, Contact: GD010600 - Siraj Hijamadi, Email: 9741481966
+----------------------------------------
+Error in row 182: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010855' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010855, Name: Mohammed yuaan, Contact: GD010775 - Tazbiya, Email: 9916009943
+----------------------------------------
+Error in row 183: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010846, Name: PRISHA S SUVARNA, Contact: GD005173 - Dynamic, Email: 8050118139
+----------------------------------------
+Error in row 184: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010810, Name: Alima Mohammad Ashraf, Contact: GD005173 - Dynamic, Email: 7019522674
+----------------------------------------
+Error in row 185: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010799, Name: DREAM HUBLI, Contact: GD005173 - Dynamic, Email: 9620777141
+----------------------------------------
+Error in row 186: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD010795, Name: Noor saba, Contact: GD010433 - Rehana, Email: 8217652044
+----------------------------------------
+Error in row 187: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010775, Name: Tazbiya, Contact: GD010600 - Siraj Hijamadi, Email: 9036680784
+----------------------------------------
+Error in row 188: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010772' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010772, Name: ONKARAPPA, BM,, Contact: GD010586 - Syed Isak, Email: 8197762625
+----------------------------------------
+Error in row 189: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010759, Name: Mohammed auf, Contact: GD005172 - Game Changers, Email: 8050935261
+----------------------------------------
+Error in row 190: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010744' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010744, Name: Fahiza Fatima, Contact: GD010637 - Shahil, Email: 9901236679
+----------------------------------------
+Error in row 191: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010684 - BIBI HAJEERA' for key 'Contact'
+Data: PromoterUniqueID: GD010709, Name: SAHIRA KHAZI, Contact: GD010684 - BIBI HAJEERA, Email: 9880113822
+----------------------------------------
+Error in row 192: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010684 - BIBI HAJEERA' for key 'Contact'
+Data: PromoterUniqueID: GD010708, Name: SMITHA ANAND, Contact: GD010684 - BIBI HAJEERA, Email: 7676774301
+----------------------------------------
+Error in row 193: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010707, Name: Shashidhar mulki shimanthoor, Contact: GD010600 - Siraj Hijamadi, Email: 9108310330
+----------------------------------------
+Error in row 194: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010706, Name: Aashiq, Contact: GD010600 - Siraj Hijamadi, Email: 6362862258
+----------------------------------------
+Error in row 195: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD010685, Name: SATHISH MAHADEVA NAIK, Contact: GD010679 - VIJAY K, Email: 8792022903
+----------------------------------------
+Error in row 196: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010684' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010684, Name: BIBI HAJEERA, Contact: GD010677 - SANJAY KRISHNA BHAT, Email: 9901095427
+----------------------------------------
+Error in row 197: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010679 - VIJAY K' for key 'Contact'
+Data: PromoterUniqueID: GD010680, Name: SRI GANESH, Contact: GD010679 - VIJAY K, Email: 7760909391
+----------------------------------------
+Error in row 198: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010677 - SANJAY KRISHNA BHAT' for key 'Contact'
+Data: PromoterUniqueID: GD010679, Name: VIJAY K, Contact: GD010677 - SANJAY KRISHNA BHAT, Email: 9482204425
+----------------------------------------
+Error in row 199: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010677' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010677, Name: SANJAY KRISHNA BHAT, Contact: GD010660 - SHREYA BHAT, Email: 9986857345
+----------------------------------------
+Error in row 200: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010673' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010673, Name: Chidananda. Nj, Contact: GD010672 - Manjappa, Email: 9880645690
+----------------------------------------
+Error in row 201: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010580 - Roshan purdalli' for key 'Contact'
+Data: PromoterUniqueID: GD010672, Name: Manjappa, Contact: GD010580 - Roshan purdalli, Email: 9945668790
+----------------------------------------
+Error in row 202: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010580 - Roshan purdalli' for key 'Contact'
+Data: PromoterUniqueID: GD010670, Name: Guddappa, Contact: GD010580 - Roshan purdalli, Email: 9980232166
+----------------------------------------
+Error in row 203: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010664' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010664, Name: MATEENA, Contact: GD010628 - Syed Shamshuzama, Email: 9036456614
+----------------------------------------
+Error in row 204: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010628 - Syed Shamshuzama' for key 'Contact'
+Data: PromoterUniqueID: GD010663, Name: Suhail ahamed, Contact: GD010628 - Syed Shamshuzama, Email: 9980057869
+----------------------------------------
+Error in row 205: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010586 - Syed Isak' for key 'Contact'
+Data: PromoterUniqueID: GD010662, Name: Haseena Begum, Contact: GD010586 - Syed Isak, Email: 7892243694
+----------------------------------------
+Error in row 206: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010660, Name: SHREYA BHAT, Contact: GD005173 - Dynamic, Email: 7892205160
+----------------------------------------
+Error in row 207: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010646' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010646, Name: Laksmi, Contact: GD010615 - Mohan dy, Email: 9845634300
+----------------------------------------
+Error in row 208: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010600 - Siraj Hijamadi' for key 'Contact'
+Data: PromoterUniqueID: GD010637, Name: Shahil, Contact: GD010600 - Siraj Hijamadi, Email: 8496849573
+----------------------------------------
+Error in row 209: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010631, Name: Asif, Contact: GD005173 - Dynamic, Email: 9972177779
+----------------------------------------
+Error in row 210: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010586 - Syed Isak' for key 'Contact'
+Data: PromoterUniqueID: GD010630, Name: Mohammed Azeem M, Contact: GD010586 - Syed Isak, Email: 9972932877
+----------------------------------------
+Error in row 211: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010596 - Inzamam' for key 'Contact'
+Data: PromoterUniqueID: GD010629, Name: Kalandar Abdul Khadar, Contact: GD010596 - Inzamam, Email: 9060000741
+----------------------------------------
+Error in row 212: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010586 - Syed Isak' for key 'Contact'
+Data: PromoterUniqueID: GD010628, Name: Syed Shamshuzama, Contact: GD010586 - Syed Isak, Email: 9036456614
+----------------------------------------
+Error in row 213: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD010626, Name: Suresh H R, Contact: GD010433 - Rehana, Email: 7676968177
+----------------------------------------
+Error in row 214: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010617, Name: Manju chikmangaluru, Contact: GD005172 - Game Changers, Email: 9740703723
+----------------------------------------
+Error in row 215: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010615, Name: Mohan dy, Contact: GD005172 - Game Changers, Email: 7348974863
+----------------------------------------
+Error in row 216: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010613, Name: druthi, Contact: GD005172 - Game Changers, Email: 9482562339
+----------------------------------------
+Error in row 217: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010596 - Inzamam' for key 'Contact'
+Data: PromoterUniqueID: GD010600, Name: Siraj Hijamadi, Contact: GD010596 - Inzamam, Email: 8296784958
+----------------------------------------
+Error in row 218: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD010598, Name: jainaba murshida, Contact: GD001004 - GOLDENDREAM, Email: 9148157481
+----------------------------------------
+Error in row 219: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD010597, Name: fathimath samna, Contact: GD001004 - GOLDENDREAM, Email: 8971830318
+----------------------------------------
+Error in row 220: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010572 - FARSHINA SHAMA' for key 'Contact'
+Data: PromoterUniqueID: GD010596, Name: Inzamam, Contact: GD010572 - FARSHINA SHAMA, Email: 7019325136
+----------------------------------------
+Error in row 221: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010586' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010586, Name: Syed Isak, Contact: GD010584 - Mohammed jaffar sadik, Email: 9019191281
+----------------------------------------
+Error in row 222: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010584' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010584, Name: Mohammed jaffar sadik, Contact: GD005171 - Royal Diamond, Email: 9902033201
+----------------------------------------
+Error in row 223: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005171 - Royal Diamond' for key 'Contact'
+Data: PromoterUniqueID: GD010580, Name: Roshan purdalli, Contact: GD005171 - Royal Diamond, Email: 8660542899
+----------------------------------------
+Error in row 224: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005171 - Royal Diamond' for key 'Contact'
+Data: PromoterUniqueID: GD010572, Name: FARSHINA SHAMA, Contact: GD005171 - Royal Diamond, Email: 6362329389
+----------------------------------------
+Error in row 225: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010433 - Rehana' for key 'Contact'
+Data: PromoterUniqueID: GD010564, Name: IMRAN BHATKAL, Contact: GD010433 - Rehana, Email: 8792692663
+----------------------------------------
+Error in row 226: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010563' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010563, Name: Santhosh koneri, Contact: GD010527 - Ramyashree k, Email: 8884745929
+----------------------------------------
+Error in row 227: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010527 - Ramyashree k' for key 'Contact'
+Data: PromoterUniqueID: GD010562, Name: Santhosh, Contact: GD010527 - Ramyashree k, Email: 6362898214
+----------------------------------------
+Error in row 228: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010527 - Ramyashree k' for key 'Contact'
+Data: PromoterUniqueID: GD010532, Name: Santosh S. Mesta, Contact: GD010527 - Ramyashree k, Email: 8867312870
+----------------------------------------
+Error in row 229: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010509 - Manjunath s nayak' for key 'Contact'
+Data: PromoterUniqueID: GD010527, Name: Ramyashree k, Contact: GD010509 - Manjunath s nayak, Email: 9108507677
+----------------------------------------
+Error in row 230: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010510, Name: Abdul hameed, Contact: GD005172 - Game Changers, Email: 9731158313
+----------------------------------------
+Error in row 231: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010509, Name: Manjunath s nayak, Contact: GD005172 - Game Changers, Email: 8217620507
+----------------------------------------
+Error in row 232: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010497, Name: SHAHIDA, Contact: GD005173 - Dynamic, Email: 9663355784
+----------------------------------------
+Error in row 233: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010490, Name: Arfaz, Contact: GD005172 - Game Changers, Email: 7259840608
+----------------------------------------
+Error in row 234: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010488, Name: Classic GD, Contact: GD005173 - Dynamic, Email: 9986994680
+----------------------------------------
+Error in row 235: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010487, Name: MUSTAFA, Contact: GD005173 - Dynamic, Email: 9964602191
+----------------------------------------
+Error in row 236: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010479' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010479, Name: ASIRA, Contact: GD010475 - ABDULLAH, Email: 8943180949
+----------------------------------------
+Error in row 237: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010475, Name: ABDULLAH, Contact: GD005173 - Dynamic, Email: 7558943772
+----------------------------------------
+Error in row 238: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010464, Name: Abu Hanfa, Contact: GD005172 - Game Changers, Email: 9164328344
+----------------------------------------
+Error in row 239: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010015 - Zainaba' for key 'Contact'
+Data: PromoterUniqueID: GD010462, Name: Imthiyaz, Contact: GD010015 - Zainaba, Email: 9886208376
+----------------------------------------
+Error in row 240: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005171 - Royal Diamond' for key 'Contact'
+Data: PromoterUniqueID: GD010458, Name: Hasainar asif, Contact: GD005171 - Royal Diamond, Email: 8951348610
+----------------------------------------
+Error in row 241: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010453, Name: Ayisha aizal, Contact: GD005172 - Game Changers, Email: 8197124383
+----------------------------------------
+Error in row 242: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD010449' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD010449, Name: Shrithin, Contact: GD010008 - Naman, Email: 9880764210
+----------------------------------------
+Error in row 243: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010448, Name: MOHAMMAD BASHEER, Contact: GD005173 - Dynamic, Email: 9448815531
+----------------------------------------
+Error in row 244: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010444, Name: Isak, Contact: GD005172 - Game Changers, Email: 9880374611
+----------------------------------------
+Error in row 245: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010442, Name: SHAMEEMA, Contact: GD005173 - Dynamic, Email: 8050355421
+----------------------------------------
+Error in row 246: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005173 - Dynamic' for key 'Contact'
+Data: PromoterUniqueID: GD010435, Name: MAIMUNA, Contact: GD005173 - Dynamic, Email: 6362595066
+----------------------------------------
+Error in row 247: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010434, Name: Abdul Jabbar, Contact: GD005172 - Game Changers, Email: 9535668850
+----------------------------------------
+Error in row 248: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005171 - Royal Diamond' for key 'Contact'
+Data: PromoterUniqueID: GD010433, Name: Rehana, Contact: GD005171 - Royal Diamond, Email: 9108974397
+----------------------------------------
+Error in row 249: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010015, Name: Zainaba, Contact: GD005172 - Game Changers, Email: 9481872851
+----------------------------------------
+Error in row 250: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010014, Name: Mohammed Anees, Contact: GD005172 - Game Changers, Email: 8971593803
+----------------------------------------
+Error in row 251: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005172 - Game Changers' for key 'Contact'
+Data: PromoterUniqueID: GD010008, Name: Naman, Contact: GD005172 - Game Changers, Email: 9972760881
+----------------------------------------
+Error in row 252: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD10001' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD10001, Name: TEST ID, Contact: GD10000 - TEST, Email: 9840697693
+----------------------------------------
+Error in row 253: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005165' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD005165, Name: Samshuddin, Contact: GD003220 - khadeejath kubra, Email: 7356722799
+----------------------------------------
+Error in row 254: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD005151' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD005151, Name: sneha bhaskar, Contact: GD001025 - Hashim, Email: 7025594792
+----------------------------------------
+Error in row 255: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD004975, Name: Nihal, Contact: GD001004 - GOLDENDREAM, Email: 9740237285
+----------------------------------------
+Error in row 256: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD004957, Name: shekh mohammad Abrar, Contact: GD001004 - GOLDENDREAM, Email: 7795730086
+----------------------------------------
+Error in row 257: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004912' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004912, Name: MOHAMMED IMRAN, Contact: GD001005 - TEAM DYNAMIC, Email: 9886883663
+----------------------------------------
+Error in row 258: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004765' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004765, Name: VIDYA CHIKKMATH, Contact: GD003366 - DREAM HUBLI, Email: 9164211138
+----------------------------------------
+Error in row 259: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD004720, Name: Praveen, Contact: GD001004 - GOLDENDREAM, Email: 9591058185
+----------------------------------------
+Error in row 260: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD004716, Name: Murshad, Contact: GD001004 - GOLDENDREAM, Email: 8792750243
+----------------------------------------
+Error in row 261: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD004649, Name: Sanidha, Contact: GD001004 - GOLDENDREAM, Email: 9449542267
+----------------------------------------
+Error in row 262: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004627' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004627, Name: SANDEEP NAYAK, Contact: GD003533 - B B HAJEERA, Email: 8861554494
+----------------------------------------
+Error in row 263: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004448' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004448, Name: Tanish, Contact: GD001037 - Shamna, Email: 7348906703
+----------------------------------------
+Error in row 264: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004395' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004395, Name: IQBAL, Contact: GD002647 - Mustafa, Email: 7795690296
+----------------------------------------
+Error in row 265: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004353' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004353, Name: Thohid Arsh, Contact: GD001036 - Sakeena Salman, Email: 9482025765
+----------------------------------------
+Error in row 266: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002647 - Mustafa' for key 'Contact'
+Data: PromoterUniqueID: GD004348, Name: MOHAMMED ANSAR, Contact: GD002647 - Mustafa, Email: 7760710758
+----------------------------------------
+Error in row 267: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004342' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004342, Name: Manju, Contact: GD001105 - Ibrahim, Email: 9740703723
+----------------------------------------
+Error in row 268: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002647 - Mustafa' for key 'Contact'
+Data: PromoterUniqueID: GD004341, Name: NIZAMUDDIN, Contact: GD002647 - Mustafa, Email: 8971624480
+----------------------------------------
+Error in row 269: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004305' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004305, Name: Sumayya, Contact: GD001077 - Ayesha kubra, Email: 7483210906
+----------------------------------------
+Error in row 270: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001077 - Ayesha kubra' for key 'Contact'
+Data: PromoterUniqueID: GD004174, Name: Rizma rishma, Contact: GD001077 - Ayesha kubra, Email: 9901176703
+----------------------------------------
+Error in row 271: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004168' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004168, Name: Arfaz, Contact: GD003883 - mohammed fazil, Email: 9606799764
+----------------------------------------
+Error in row 272: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD004082' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD004082, Name: fathimathul batool, Contact: GD001047 - Fathimath sunera M, Email: 7259037151
+----------------------------------------
+Error in row 273: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD003950, Name: RAUSHINA, Contact: GD001005 - TEAM DYNAMIC, Email: 8921882910
+----------------------------------------
+Error in row 274: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003533 - B B HAJEERA' for key 'Contact'
+Data: PromoterUniqueID: GD003922, Name: SAMRIN FAKARDI, Contact: GD003533 - B B HAJEERA, Email: 9986421264
+----------------------------------------
+Error in row 275: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003883 - mohammed fazil' for key 'Contact'
+Data: PromoterUniqueID: GD003896, Name: Mohammed shammas, Contact: GD003883 - mohammed fazil, Email: 6366216747
+----------------------------------------
+Error in row 276: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD003883, Name: mohammed fazil, Contact: GD001004 - GOLDENDREAM, Email: 9591555608
+----------------------------------------
+Error in row 277: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003759' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003759, Name: Ayisha, Contact: GD001008 - TEAM INNOVATORS, Email: 8197184409
+----------------------------------------
+Error in row 278: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001025 - Hashim' for key 'Contact'
+Data: PromoterUniqueID: GD003626, Name: muhammed shafeeq, Contact: GD001025 - Hashim, Email: 7204955400
+----------------------------------------
+Error in row 279: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003615' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003615, Name: MUMTHAZ, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9481871220
+----------------------------------------
+Error in row 280: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003595' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003595, Name: Althaf, Contact: GD001006 - TEAM MIRACLE, Email: 8197385147
+----------------------------------------
+Error in row 281: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003222 - Sanjay Krishna Bhat' for key 'Contact'
+Data: PromoterUniqueID: GD003562, Name: VIJAY K, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9482204425
+----------------------------------------
+Error in row 282: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003222 - Sanjay Krishna Bhat' for key 'Contact'
+Data: PromoterUniqueID: GD003557, Name: SHANKER MESTA, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9538529033
+----------------------------------------
+Error in row 283: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003222 - Sanjay Krishna Bhat' for key 'Contact'
+Data: PromoterUniqueID: GD003550, Name: PRABAKAR, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9738834355
+----------------------------------------
+Error in row 284: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003222 - Sanjay Krishna Bhat' for key 'Contact'
+Data: PromoterUniqueID: GD003533, Name: B B HAJEERA, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9901095427
+----------------------------------------
+Error in row 285: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003532' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003532, Name: ANKITHA SHET, Contact: GD003528 - MALATHI SHET, Email: 7022130718
+----------------------------------------
+Error in row 286: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003222 - Sanjay Krishna Bhat' for key 'Contact'
+Data: PromoterUniqueID: GD003528, Name: MALATHI SHET, Contact: GD003222 - Sanjay Krishna Bhat, Email: 9480506604
+----------------------------------------
+Error in row 287: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003387' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003387, Name: Abdul Rahiman k, Contact: GD001013 - Fathima, Email: 9733369198
+----------------------------------------
+Error in row 288: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD003366, Name: DREAM HUBLI, Contact: GD001005 - TEAM DYNAMIC, Email: 9620777141
+----------------------------------------
+Error in row 289: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD003362, Name: Hameed nithu, Contact: GD001006 - TEAM MIRACLE, Email: 9538897163
+----------------------------------------
+Error in row 290: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003288' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003288, Name: Mufeeda, Contact: GD001598 - Mashoora, Email: 8549905587
+----------------------------------------
+Error in row 291: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003254' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003254, Name: Thameem, Contact: GD003184 - Hasan, Email: 7338058523
+----------------------------------------
+Error in row 292: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD003222, Name: Sanjay Krishna Bhat, Contact: GD001005 - TEAM DYNAMIC, Email: 9986857345
+----------------------------------------
+Error in row 293: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD003220, Name: khadeejath kubra, Contact: GD001004 - GOLDENDREAM, Email: 9567471028
+----------------------------------------
+Error in row 294: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003200' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003200, Name: latheef KAK, Contact: GD001014 - sirajuddin m, Email: 9663505886
+----------------------------------------
+Error in row 295: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003196' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003196, Name: Manjunath, Contact: GD001009 - GAME CHANGER, Email: 9606013168
+----------------------------------------
+Error in row 296: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD003184, Name: Hasan, Contact: GD001006 - TEAM MIRACLE, Email: 8147378509
+----------------------------------------
+Error in row 297: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD003169, Name: Nasir, Contact: GD001006 - TEAM MIRACLE, Email: 7337845904
+----------------------------------------
+Error in row 298: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD003068, Name: Samsheer, Contact: GD001008 - TEAM INNOVATORS, Email: 8277480841
+----------------------------------------
+Error in row 299: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD003055, Name: Nani, Contact: GD001008 - TEAM INNOVATORS, Email: 9341078208
+----------------------------------------
+Error in row 300: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD003012, Name: Adam Ansam, Contact: GD001005 - TEAM DYNAMIC, Email: 8217075959
+----------------------------------------
+Error in row 301: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD003005' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD003005, Name: Sadananda Acharya, Contact: GD001068 - Fauziya, Email: 9008051838
+----------------------------------------
+Error in row 302: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001009 - GAME CHANGER' for key 'Contact'
+Data: PromoterUniqueID: GD002926, Name: Zaithun, Contact: GD001009 - GAME CHANGER, Email: 7022565696
+----------------------------------------
+Error in row 303: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD002886, Name: Shakir, Contact: GD001006 - TEAM MIRACLE, Email: 8971054344
+----------------------------------------
+Error in row 304: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD002720, Name: Sulaiman Y, Contact: GD001004 - GOLDENDREAM, Email: 8970195313
+----------------------------------------
+Error in row 305: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002664' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD002664, Name: Irshad, Contact: GD001317 - Amreen banu, Email: 9035831640
+----------------------------------------
+Error in row 306: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD002647, Name: Mustafa, Contact: GD001005 - TEAM DYNAMIC, Email: 9964602191
+----------------------------------------
+Error in row 307: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002618' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD002618, Name: Thahira, Contact: GD001007 - TEAM TURBO, Email: 8494858618
+----------------------------------------
+Error in row 308: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD002475, Name: Maksood, Contact: GD001005 - TEAM DYNAMIC, Email: 9972306152
+----------------------------------------
+Error in row 309: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002467' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD002467, Name: mariyam, Contact: GD001927 - Saifulla, Email: 8277406859
+----------------------------------------
+Error in row 310: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002374' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD002374, Name: Sabeena, Contact: GD002352 - Saramma, Email: 9663717819
+----------------------------------------
+Error in row 311: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD002352 - Saramma' for key 'Contact'
+Data: PromoterUniqueID: GD002367, Name: Maimuna, Contact: GD002352 - Saramma, Email: 7406750646
+----------------------------------------
+Error in row 312: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD002360, Name: Fhathima, Contact: GD001008 - TEAM INNOVATORS, Email: 7019001876
+----------------------------------------
+Error in row 313: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD002352, Name: Saramma, Contact: GD001005 - TEAM DYNAMIC, Email: 8971131471
+----------------------------------------
+Error in row 314: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD002293, Name: Ayisha Banu, Contact: GD001004 - GOLDENDREAM, Email: 7899703868
+----------------------------------------
+Error in row 315: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001068 - Fauziya' for key 'Contact'
+Data: PromoterUniqueID: GD002174, Name: Naseema, Contact: GD001068 - Fauziya, Email: 6366275255
+----------------------------------------
+Error in row 316: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD002172, Name: Venkatesh H K, Contact: GD001005 - TEAM DYNAMIC, Email: 7619531723
+----------------------------------------
+Error in row 317: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD002167, Name: Sangeetha, Contact: GD001037 - Shamna, Email: 7353417214
+----------------------------------------
+Error in row 318: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD002077, Name: Dhana Murthi, Contact: GD001005 - TEAM DYNAMIC, Email: 9945424596
+----------------------------------------
+Error in row 319: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001598 - Mashoora' for key 'Contact'
+Data: PromoterUniqueID: GD001962, Name: Abdul jabbar, Contact: GD001598 - Mashoora, Email: 9900545263
+----------------------------------------
+Error in row 320: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD001929, Name: Mehroof, Contact: GD001008 - TEAM INNOVATORS, Email: 7975081958
+----------------------------------------
+Error in row 321: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001598 - Mashoora' for key 'Contact'
+Data: PromoterUniqueID: GD001927, Name: Saifulla, Contact: GD001598 - Mashoora, Email: 8792127948
+----------------------------------------
+Error in row 322: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001856, Name: Jafer kH, Contact: GD001007 - TEAM TURBO, Email: 9741624304
+----------------------------------------
+Error in row 323: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001681, Name: Fathima, Contact: GD001006 - TEAM MIRACLE, Email: 9946468665
+----------------------------------------
+Error in row 324: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001624, Name: Mohammed Rihab, Contact: GD001007 - TEAM TURBO, Email: 8197212025
+----------------------------------------
+Error in row 325: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001014 - sirajuddin m' for key 'Contact'
+Data: PromoterUniqueID: GD001616, Name: Maimunath Mishriya, Contact: GD001014 - sirajuddin m, Email: 7619140811
+----------------------------------------
+Error in row 326: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001614, Name: Shabeer, Contact: GD001007 - TEAM TURBO, Email: 8105692110
+----------------------------------------
+Error in row 327: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001608, Name: Ibrahim, Contact: GD001037 - Shamna, Email: 9611453989
+----------------------------------------
+Error in row 328: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD001598, Name: Mashoora, Contact: GD001008 - TEAM INNOVATORS, Email: 8904161836
+----------------------------------------
+Error in row 329: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001579, Name: PA Mahammad shareef, Contact: GD001007 - TEAM TURBO, Email: 9448012299
+----------------------------------------
+Error in row 330: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001105 - Ibrahim' for key 'Contact'
+Data: PromoterUniqueID: GD001541, Name: Ibrahim suhail, Contact: GD001105 - Ibrahim, Email: 9880270538
+----------------------------------------
+Error in row 331: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD001537, Name: Azeem, Contact: GD001008 - TEAM INNOVATORS, Email: 8197682952
+----------------------------------------
+Error in row 332: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001450' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001450, Name: Abdul Muneer, Contact: GD001434 - Musthafa, Email: 9686606252
+----------------------------------------
+Error in row 333: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001444, Name: Samna, Contact: GD001006 - TEAM MIRACLE, Email: 7624847661
+----------------------------------------
+Error in row 334: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001441, Name: Aysha ansira, Contact: GD001005 - TEAM DYNAMIC, Email: 8722797610
+----------------------------------------
+Error in row 335: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001291 - mohammed swalhi' for key 'Contact'
+Data: PromoterUniqueID: GD001435, Name: Mohammed Nizamuddin, Contact: GD001291 - mohammed swalhi, Email: 9743890948
+----------------------------------------
+Error in row 336: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001434, Name: Musthafa, Contact: GD001005 - TEAM DYNAMIC, Email: 9535201109
+----------------------------------------
+Error in row 337: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001406' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001406, Name: Rafeeq, Contact: GD001343 - Mohammad siraj, Email: 8105445962
+----------------------------------------
+Error in row 338: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001385' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001385, Name: Asma, Contact: GD001384 - Rehana, Email: 9900550896
+----------------------------------------
+Error in row 339: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001068 - Fauziya' for key 'Contact'
+Data: PromoterUniqueID: GD001384, Name: Rehana, Contact: GD001068 - Fauziya, Email: 8861756082
+----------------------------------------
+Error in row 340: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001366' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001366, Name: chandhanakumara SH, Contact: GD001365 - TEAM HASSAN, Email: 8497005915
+----------------------------------------
+Error in row 341: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001364' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001364, Name: B ISMAIL THASLEEM, Contact: GD001278 - Imran, Email: 8277543803
+----------------------------------------
+Error in row 342: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001360' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001360, Name: S M Ashraf, Contact: GD001359 - Mohammad Basheer, Email: 9036963544
+----------------------------------------
+Error in row 343: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001359, Name: Mohammad Basheer, Contact: GD001005 - TEAM DYNAMIC, Email: 9448815531
+----------------------------------------
+Error in row 344: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001343, Name: Mohammad siraj, Contact: GD001037 - Shamna, Email: 7353324035
+----------------------------------------
+Error in row 345: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001338, Name: Bhavani Shankar, Contact: GD001006 - TEAM MIRACLE, Email: 9844703406
+----------------------------------------
+Error in row 346: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001336, Name: Hameed, Contact: GD001037 - Shamna, Email: 7353801202
+----------------------------------------
+Error in row 347: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001328' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001328, Name: Sanvi, Contact: GD001281 - TEAM CHICKMAGALURU, Email: 8497882734
+----------------------------------------
+Error in row 348: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001325, Name: Rafeeq, Contact: GD001037 - Shamna, Email: 8147635765
+----------------------------------------
+Error in row 349: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001013 - Fathima' for key 'Contact'
+Data: PromoterUniqueID: GD001317, Name: Amreen banu, Contact: GD001013 - Fathima, Email: 9148602291
+----------------------------------------
+Error in row 350: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001068 - Fauziya' for key 'Contact'
+Data: PromoterUniqueID: GD001300, Name: Rukiya, Contact: GD001068 - Fauziya, Email: 8105454561
+----------------------------------------
+Error in row 351: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001291 - mohammed swalhi' for key 'Contact'
+Data: PromoterUniqueID: GD001294, Name: Rajesh Prabhu, Contact: GD001291 - mohammed swalhi, Email: 9945808325
+----------------------------------------
+Error in row 352: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001291, Name: mohammed swalhi, Contact: GD001004 - GOLDENDREAM, Email: 7795637634
+----------------------------------------
+Error in row 353: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001288, Name: Ikthiii, Contact: GD001005 - TEAM DYNAMIC, Email: 9742216872
+----------------------------------------
+Error in row 354: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001281 - TEAM CHICKMAGALURU' for key 'Contact'
+Data: PromoterUniqueID: GD001287, Name: Abdul Khader, Contact: GD001281 - TEAM CHICKMAGALURU, Email: 8123817971
+----------------------------------------
+Error in row 355: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001281 - TEAM CHICKMAGALURU' for key 'Contact'
+Data: PromoterUniqueID: GD001283, Name: Shashikala, Contact: GD001281 - TEAM CHICKMAGALURU, Email: 6362038719
+----------------------------------------
+Error in row 356: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001278, Name: Imran, Contact: GD001005 - TEAM DYNAMIC, Email: 9945939532
+----------------------------------------
+Error in row 357: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001276, Name: Purandara Kulal, Contact: GD001006 - TEAM MIRACLE, Email: 9972760881
+----------------------------------------
+Error in row 358: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001272, Name: Thahira, Contact: GD001005 - TEAM DYNAMIC, Email: 9611792196
+----------------------------------------
+Error in row 359: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001271' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001271, Name: Reshma, Contact: GD001103 - Imran, Email: 9986277663
+----------------------------------------
+Error in row 360: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001103 - Imran' for key 'Contact'
+Data: PromoterUniqueID: GD001270, Name: Neha, Contact: GD001103 - Imran, Email: 9632940656
+----------------------------------------
+Error in row 361: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001264, Name: Bilal, Contact: GD001006 - TEAM MIRACLE, Email: 9513624542
+----------------------------------------
+Error in row 362: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001263' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001263, Name: Azmeen banu, Contact: GD001262 - TEAM MUDIGERE, Email: 8310849144
+----------------------------------------
+Error in row 363: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001261, Name: afrin, Contact: GD001004 - GOLDENDREAM, Email: 9480872191
+----------------------------------------
+Error in row 364: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001253' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001253, Name: Shareef, Contact: GD001170 - Naushad Krishnapura, Email: 9591460669
+----------------------------------------
+Error in row 365: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001244' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001244, Name: Maimuna, Contact: GD001147 - Umaira, Email: 6362595066
+----------------------------------------
+Error in row 366: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001239' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001239, Name: Saleem k, Contact: GD001107 - Mahammad semir, Email: 8197123820
+----------------------------------------
+Error in row 367: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001237, Name: Nizam, Contact: GD001006 - TEAM MIRACLE, Email: 8105968755
+----------------------------------------
+Error in row 368: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001233, Name: Muhammad shafeeq, Contact: GD001004 - GOLDENDREAM, Email: 7259627243
+----------------------------------------
+Error in row 369: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001226, Name: Abdul Naseer, Contact: GD001006 - TEAM MIRACLE, Email: 8867686879
+----------------------------------------
+Error in row 370: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001217, Name: Aiza asif, Contact: GD001007 - TEAM TURBO, Email: 8310206916
+----------------------------------------
+Error in row 371: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001205' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001205, Name: Hameed latest, Contact: GD001026 - SAHARA, Email: 8217813227
+----------------------------------------
+Error in row 372: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001200, Name: Guru, Contact: GD001007 - TEAM TURBO, Email: 9686338727
+----------------------------------------
+Error in row 373: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001147 - Umaira' for key 'Contact'
+Data: PromoterUniqueID: GD001189, Name: Mohammed ali, Contact: GD001147 - Umaira, Email: 9947549263
+----------------------------------------
+Error in row 374: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001176, Name: Beebi Khatheeja, Contact: GD001007 - TEAM TURBO, Email: 9740175338
+----------------------------------------
+Error in row 375: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001170, Name: Naushad Krishnapura, Contact: GD001005 - TEAM DYNAMIC, Email: 8123686169
+----------------------------------------
+Error in row 376: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001169, Name: Nafeesha Thansheefa, Contact: GD001007 - TEAM TURBO, Email: 9844734279
+----------------------------------------
+Error in row 377: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001163' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001163, Name: Shafi, Contact: GD001019 - Filza Hazik, Email: 7760760277
+----------------------------------------
+Error in row 378: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001147 - Umaira' for key 'Contact'
+Data: PromoterUniqueID: GD001159, Name: Asira, Contact: GD001147 - Umaira, Email: 8943180949
+----------------------------------------
+Error in row 379: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001154, Name: Abdul majeed, Contact: GD001006 - TEAM MIRACLE, Email: 9916533148
+----------------------------------------
+Error in row 380: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001148, Name: Mohammed isak, Contact: GD001006 - TEAM MIRACLE, Email: 9036194846
+----------------------------------------
+Error in row 381: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001147' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001147, Name: Umaira, Contact: GD001146 - Abdulla, Email: 9746533772
+----------------------------------------
+Error in row 382: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001146, Name: Abdulla, Contact: GD001005 - TEAM DYNAMIC, Email: 7558943772
+----------------------------------------
+Error in row 383: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001133' for key 'PromoterUniqueID'
+Data: PromoterUniqueID: GD001133, Name: Reemaz Abdul azeez, Contact: GD001097 - Mohammad Ishaq, Email: 8792423204
+----------------------------------------
+Error in row 384: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001128, Name: mahammad thouseef, Contact: GD001007 - TEAM TURBO, Email: 9591503266
+----------------------------------------
+Error in row 385: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001125, Name: Wilma Dsouza, Contact: GD001007 - TEAM TURBO, Email: 7019919887
+----------------------------------------
+Error in row 386: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001116, Name: Ayisha, Contact: GD001037 - Shamna, Email: 8105417456
+----------------------------------------
+Error in row 387: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001109, Name: Nasir B, Contact: GD001005 - TEAM DYNAMIC, Email: 9740963311
+----------------------------------------
+Error in row 388: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001108, Name: Mohammed ADIL Ibrahim, Contact: GD001005 - TEAM DYNAMIC, Email: 7204347442
+----------------------------------------
+Error in row 389: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001026 - SAHARA' for key 'Contact'
+Data: PromoterUniqueID: GD001107, Name: Mahammad semir, Contact: GD001026 - SAHARA, Email: 8660542439
+----------------------------------------
+Error in row 390: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001105, Name: Ibrahim, Contact: GD001004 - GOLDENDREAM, Email: 8861041387
+----------------------------------------
+Error in row 391: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001103, Name: Imran, Contact: GD001006 - TEAM MIRACLE, Email: 8050935261
+----------------------------------------
+Error in row 392: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001101, Name: Mohammed Faisal, Contact: GD001005 - TEAM DYNAMIC, Email: 7022565696
+----------------------------------------
+Error in row 393: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001100, Name: Mashitha Mehran, Contact: GD001007 - TEAM TURBO, Email: 9845786788
+----------------------------------------
+Error in row 394: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001026 - SAHARA' for key 'Contact'
+Data: PromoterUniqueID: GD001099, Name: ishrath imran, Contact: GD001026 - SAHARA, Email: 8123505055
+----------------------------------------
+Error in row 395: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001008 - TEAM INNOVATORS' for key 'Contact'
+Data: PromoterUniqueID: GD001098, Name: Mohmmad Shahid, Contact: GD001008 - TEAM INNOVATORS, Email: 8904681836
+----------------------------------------
+Error in row 396: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001097, Name: Mohammad Ishaq, Contact: GD001006 - TEAM MIRACLE, Email: 9606869789
+----------------------------------------
+Error in row 397: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001091, Name: Zubaida@gail.com, Contact: GD001007 - TEAM TURBO, Email: 8971563779
+----------------------------------------
+Error in row 398: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001088, Name: Sefiya, Contact: GD001007 - TEAM TURBO, Email: 9148183045
+----------------------------------------
+Error in row 399: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001013 - Fathima' for key 'Contact'
+Data: PromoterUniqueID: GD001087, Name: Asif p, Contact: GD001013 - Fathima, Email: 8310895973
+----------------------------------------
+Error in row 400: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001037 - Shamna' for key 'Contact'
+Data: PromoterUniqueID: GD001077, Name: Ayesha kubra, Contact: GD001037 - Shamna, Email: 9164829078
+----------------------------------------
+Error in row 401: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001007 - TEAM TURBO' for key 'Contact'
+Data: PromoterUniqueID: GD001075, Name: Bhavith Kumar, Contact: GD001007 - TEAM TURBO, Email: 9535723024
+----------------------------------------
+Error in row 402: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001071, Name: Divya, Contact: GD001006 - TEAM MIRACLE, Email: 9113837151
+----------------------------------------
+Error in row 403: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001068, Name: Fauziya, Contact: GD001005 - TEAM DYNAMIC, Email: 9845749858
+----------------------------------------
+Error in row 404: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001019 - Filza Hazik' for key 'Contact'
+Data: PromoterUniqueID: GD001067, Name: Nalinakshi, Contact: GD001019 - Filza Hazik, Email: 9620475965
+----------------------------------------
+Error in row 405: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001066, Name: Fazil ahmed, Contact: GD001006 - TEAM MIRACLE, Email: 8197846586
+----------------------------------------
+Error in row 406: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001065, Name: Jamaluddin, Contact: GD001005 - TEAM DYNAMIC, Email: 9845591058
+----------------------------------------
+Error in row 407: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001062, Name: Asma, Contact: GD001006 - TEAM MIRACLE, Email: 9663638369
+----------------------------------------
+Error in row 408: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001057, Name: Ashiq sammas, Contact: GD001006 - TEAM MIRACLE, Email: 9632403482
+----------------------------------------
+Error in row 409: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001055, Name: Jaleel, Contact: GD001006 - TEAM MIRACLE, Email: 9945195553
+----------------------------------------
+Error in row 410: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001025 - Hashim' for key 'Contact'
+Data: PromoterUniqueID: GD001049, Name: Mohammed mansoor, Contact: GD001025 - Hashim, Email: 9731443639
+----------------------------------------
+Error in row 411: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001047 - Fathimath sunera M' for key 'Contact'
+Data: PromoterUniqueID: GD001048, Name: Sowdhabi kamaruneesa, Contact: GD001047 - Fathimath sunera M, Email: 9741237820
+----------------------------------------
+Error in row 412: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001014 - sirajuddin m' for key 'Contact'
+Data: PromoterUniqueID: GD001047, Name: Fathimath sunera M, Contact: GD001014 - sirajuddin m, Email: 9964424164
+----------------------------------------
+Error in row 413: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001043, Name: M.Shahin, Contact: GD001005 - TEAM DYNAMIC, Email: 8123706619
+----------------------------------------
+Error in row 414: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001037, Name: Shamna, Contact: GD001006 - TEAM MIRACLE, Email: 9731285451
+----------------------------------------
+Error in row 415: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001036, Name: Sakeena Salman, Contact: GD001006 - TEAM MIRACLE, Email: 9902795202
+----------------------------------------
+Error in row 416: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001005 - TEAM DYNAMIC' for key 'Contact'
+Data: PromoterUniqueID: GD001033, Name: HYDER ALI, Contact: GD001005 - TEAM DYNAMIC, Email: 9902527476
+----------------------------------------
+Error in row 417: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001006 - TEAM MIRACLE' for key 'Contact'
+Data: PromoterUniqueID: GD001031, Name: Sammu51, Contact: GD001006 - TEAM MIRACLE, Email: 9964475451
+----------------------------------------
+Error in row 418: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001014 - sirajuddin m' for key 'Contact'
+Data: PromoterUniqueID: GD001029, Name: Anas.b, Contact: GD001014 - sirajuddin m, Email: 9972535985
+----------------------------------------
+Error in row 419: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001027, Name: Thameem B, Contact: GD001004 - GOLDENDREAM, Email: 7736830069
+----------------------------------------
+Error in row 420: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001026, Name: SAHARA, Contact: GD001004 - GOLDENDREAM, Email: 9980752821
+----------------------------------------
+Error in row 421: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001025, Name: Hashim, Contact: GD001004 - GOLDENDREAM, Email: 9995194472
+----------------------------------------
+Error in row 422: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001014 - sirajuddin m' for key 'Contact'
+Data: PromoterUniqueID: GD001023, Name: Kelvin D Souza, Contact: GD001014 - sirajuddin m, Email: 8296507883
+----------------------------------------
+Error in row 423: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001019, Name: Filza Hazik, Contact: GD001004 - GOLDENDREAM, Email: 9611231011
+----------------------------------------
+Error in row 424: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001018, Name: Asif Muhammad, Contact: GD001004 - GOLDENDREAM, Email: 9945445957
+----------------------------------------
+Error in row 425: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001017, Name: Afreena, Contact: GD001004 - GOLDENDREAM, Email: 7411243459
+----------------------------------------
+Error in row 426: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001016, Name: Lubaba, Contact: GD001004 - GOLDENDREAM, Email: 9481848931
+----------------------------------------
+Error in row 427: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001015, Name: Rushda, Contact: GD001004 - GOLDENDREAM, Email: 7483925481
+----------------------------------------
+Error in row 428: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001014, Name: sirajuddin m, Contact: GD001004 - GOLDENDREAM, Email: 8147410811
+----------------------------------------
+Error in row 429: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'GD001004 - GOLDENDREAM' for key 'Contact'
+Data: PromoterUniqueID: GD001013, Name: Fathima, Contact: GD001004 - GOLDENDREAM, Email: 9742282299
+----------------------------------------
