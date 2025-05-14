@@ -5,9 +5,9 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 
 // Database connection
 $servername = "srv1752.hstgr.io";
-$username = "u229215627_GoldenDream";
+$username = "u229215627_GoldenDreamSQL";
 $password = "Azl@n2002";
-$dbname = "u229215627_GoldenDream";
+$dbname = "u229215627_goldenDreamSQL";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);

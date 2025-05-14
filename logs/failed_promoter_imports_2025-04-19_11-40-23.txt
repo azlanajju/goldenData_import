@@ -1,0 +1,5 @@
+Failed Promoter Records Log - 2025-04-19 11:40:23
+==========================================
+
+Original File: promoter_data.xlsx
+

@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
     }
 
     // Create log file with current date
-    $logFileName = $logsDir . '/failed_imports_' . date('Y-m-d_H-i-s') . '.txt';
+    $logFileName = $logsDir . '/failed_payment_imports_' . date('Y-m-d_H-i-s') . '.txt';
 
     // Debug information
     echo "Attempting to create log file at: " . $logFileName . "<br>";
@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
     }
 
     // Write header to log file
-    fwrite($logFile, "Failed Records Log - " . date('Y-m-d H:i:s') . "\n");
+    fwrite($logFile, "Failed Payment Records Log - " . date('Y-m-d H:i:s') . "\n");
     fwrite($logFile, "==========================================\n\n");
     fwrite($logFile, "Original File: " . $fileName . "\n\n");
 
@@ -72,40 +72,60 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
         $successCount = 0;
         $errorCount = 0;
 
-        // Prepare the SQL statement
-        $stmt = $conn->prepare("INSERT INTO Customers (CustomerUniqueID, Name, Contact, Email, PasswordHash, Address, ProfileImageURL, BankAccountName, BankAccountNumber, IFSCCode, BankName, PromoterID, ReferredBy, Status, JoinedDate) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        // Hardcoded values
+        $schemeID = 5;
+        $installmentID = 22;
+        $amount = 1000;
+        $paymentStatus = 'Verified';
+        $screenshotURL = 'uploads/payments/fromExcel.png';
+        $verifierRemark = 'Verified via Excel automation';
+        $payerRemark = 'Payment added from Excel automation';
+
+        // Prepare the SQL statement for getting CustomerID
+        $customerStmt = $conn->prepare("SELECT CustomerID FROM Customers WHERE CustomerUniqueID = ?");
+
+        // Prepare the SQL statement for inserting payment
+        $paymentStmt = $conn->prepare("INSERT INTO Payments (CustomerID, SchemeID, InstallmentID, Amount, Status, SubmittedAt, VerifiedAt, ScreenshotURL, VerifierRemark, PayerRemark) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
         // Start from row 2 to skip header
         for ($row = 2; $row <= $highestRow; $row++) {
             $customerUniqueID = $worksheet->getCellByColumnAndRow(1, $row)->getValue();
-            $name = $worksheet->getCellByColumnAndRow(2, $row)->getValue();
-            $contact = $worksheet->getCellByColumnAndRow(3, $row)->getValue();
-            $email = $worksheet->getCellByColumnAndRow(4, $row)->getValue();
-            $password = $worksheet->getCellByColumnAndRow(5, $row)->getValue();
-            $address = $worksheet->getCellByColumnAndRow(6, $row)->getValue();
-            $profileImageURL = $worksheet->getCellByColumnAndRow(7, $row)->getValue();
-            $bankAccountName = $worksheet->getCellByColumnAndRow(8, $row)->getValue();
-            $bankAccountNumber = $worksheet->getCellByColumnAndRow(9, $row)->getValue();
-            $ifscCode = $worksheet->getCellByColumnAndRow(10, $row)->getValue();
-            $bankName = $worksheet->getCellByColumnAndRow(11, $row)->getValue();
-            $promoterID = $worksheet->getCellByColumnAndRow(12, $row)->getValue();
-            $referredBy = $worksheet->getCellByColumnAndRow(13, $row)->getValue();
-            $status = $worksheet->getCellByColumnAndRow(14, $row)->getValue() ?: 'Active';
-            $joinedDate = $worksheet->getCellByColumnAndRow(15, $row)->getValue();
-
-            // Hash the password
-            $passwordHash = password_hash($password, PASSWORD_DEFAULT);
+            $submittedDate = $worksheet->getCellByColumnAndRow(2, $row)->getValue();
+            $today = date('Y-m-d'); // Today's date for VerifiedAt
 
             try {
-                $stmt->execute([$customerUniqueID, $name, $contact, $email, $passwordHash, $address, $profileImageURL, $bankAccountName, $bankAccountNumber, $ifscCode, $bankName, $promoterID, $referredBy, $status, $joinedDate]);
+                // Convert date from DD-MM-YYYY to YYYY-MM-DD
+                if ($submittedDate) {
+                    $dateObj = DateTime::createFromFormat('d-m-Y', $submittedDate);
+                    if ($dateObj) {
+                        $submittedDate = $dateObj->format('Y-m-d');
+                    } else {
+                        throw new Exception("Invalid date format. Expected DD-MM-YYYY, got: " . $submittedDate);
+                    }
+                } else {
+                    $submittedDate = date('Y-m-d'); // Use current date if no date provided
+                }
+
+                // Get CustomerID from CustomerUniqueID
+                $customerStmt->execute([$customerUniqueID]);
+                $customerResult = $customerStmt->fetch(PDO::FETCH_ASSOC);
+
+                if (!$customerResult) {
+                    throw new Exception("Customer not found with UniqueID: " . $customerUniqueID);
+                }
+
+                $customerID = $customerResult['CustomerID'];
+
+                // Insert payment record
+                $paymentStmt->execute([$customerID, $schemeID, $installmentID, $amount, $paymentStatus, $submittedDate, $today, $screenshotURL, $verifierRemark, $payerRemark]);
                 $successCount++;
-            } catch (PDOException $e) {
+            } catch (Exception $e) {
                 $errorCount++;
                 $errorMessage = "Error in row $row: " . $e->getMessage() . "\n";
-                $errorMessage .= "Data: CustomerUniqueID: $customerUniqueID, Name: $name, Contact: $contact, Email: $email, Status: $status, JoinedDate: $joinedDate\n";
+                $errorMessage .= "Data: CustomerUniqueID: $customerUniqueID, SubmittedDate: $submittedDate, VerifiedAt: $today\n";
                 $errorMessage .= "----------------------------------------\n";
                 fwrite($logFile, $errorMessage);
-                echo "Error inserting row $row: " . $e->getMessage() . "<br>";
+                echo "Error processing row $row: " . $e->getMessage() . "<br>";
             }
         }
 
@@ -133,7 +153,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
 <html>
 
 <head>
-    <title>Import Customers from Excel/CSV</title>
+    <title>Import Payments from Excel/CSV</title>
     <style>
         .format-info {
             margin: 20px;
@@ -170,7 +190,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
 </head>
 
 <body>
-    <h2>Import Customers from Excel/CSV</h2>
+    <h2>Import Payments from Excel/CSV</h2>
 
     <?php if (isset($error)): ?>
         <div class="error-message">
@@ -194,76 +214,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["excelFile"])) {
             </tr>
             <tr>
                 <td>B</td>
-                <td>Name</td>
-                <td>Yes</td>
-            </tr>
-            <tr>
-                <td>C</td>
-                <td>Contact</td>
-                <td>Yes</td>
-            </tr>
-            <tr>
-                <td>D</td>
-                <td>Email</td>
-                <td>Yes</td>
-            </tr>
-            <tr>
-                <td>E</td>
-                <td>Password</td>
-                <td>Yes</td>
-            </tr>
-            <tr>
-                <td>F</td>
-                <td>Address</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>G</td>
-                <td>ProfileImageURL</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>H</td>
-                <td>BankAccountName</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>I</td>
-                <td>BankAccountNumber</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>J</td>
-                <td>IFSCCode</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>K</td>
-                <td>BankName</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>L</td>
-                <td>PromoterID</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>M</td>
-                <td>ReferredBy</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>N</td>
-                <td>Status (Active/Inactive/Suspended)</td>
-                <td>No</td>
-            </tr>
-            <tr>
-                <td>O</td>
-                <td>JoinedDate</td>
+                <td>SubmittedDate (DD-MM-YYYY)</td>
                 <td>No</td>
             </tr>
         </table>
         <p><strong>Note:</strong> The first row should contain headers. Data should start from the second row.</p>
+        <p><strong>Additional Information:</strong></p>
+        <ul>
+            <li>SchemeID is set to: 5</li>
+            <li>InstallmentID is set to: 22</li>
+            <li>Amount is set to: 1000</li>
+            <li>Payment Status is set to: Verified</li>
+            <li>If no date is provided, current date will be used for SubmittedAt</li>
+            <li>VerifiedAt will be set to today's date</li>
+            <li>Screenshot URL is set to: payments/fromExcel.png</li>
+            <li>Verifier Remark is set to: Verified via Excel automation</li>
+            <li>Payer Remark is set to: Payment added from Excel automation</li>
+        </ul>
     </div>
 
     <form method="post" enctype="multipart/form-data">

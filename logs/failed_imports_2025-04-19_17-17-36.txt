@@ -1,0 +1,371 @@
+Failed Records Log - 2025-04-19 17:17:36
+==========================================
+
+Original File: customerData other half.xlsx
+
+Error in row 2024: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003038, Name: Ananda, Contact: 9902614662, Email: -, Status: Active, JoinedDate: 2024-10-06 14:24:04
+----------------------------------------
+Error in row 2025: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003039, Name: kamarunnisa, Contact: 9980531845, Email: -, Status: Active, JoinedDate: 2024-10-06 14:50:18
+----------------------------------------
+Error in row 2026: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003040, Name: Abdula razak, Contact: 9591557455, Email: -, Status: Active, JoinedDate: 2024-10-06 15:13:37
+----------------------------------------
+Error in row 2027: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003041, Name: Jaleeluddeen, Contact: 9535056313, Email: -, Status: Active, JoinedDate: 2024-10-06 15:13:41
+----------------------------------------
+Error in row 2028: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003042, Name: Khairunnisa, Contact: 9895348429, Email: -, Status: Active, JoinedDate: 2024-10-06 15:19:02
+----------------------------------------
+Error in row 2029: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003043, Name: Abdul rahman, Contact: 9995230206, Email: -, Status: Active, JoinedDate: 2024-10-06 15:24:28
+----------------------------------------
+Error in row 2030: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003044, Name: Sadeeq, Contact: 7558062696, Email: -, Status: Active, JoinedDate: 2024-10-06 15:37:42
+----------------------------------------
+Error in row 2031: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003045, Name: Ashraf, Contact: 8148522659, Email: -, Status: Active, JoinedDate: 2024-10-06 15:49:19
+----------------------------------------
+Error in row 2032: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003046, Name: Afreena, Contact: 7034162693, Email: -, Status: Active, JoinedDate: 2024-10-06 15:54:38
+----------------------------------------
+Error in row 2033: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003047, Name: Haydar, Contact: 9972760935, Email: -, Status: Active, JoinedDate: 2024-10-06 15:55:26
+----------------------------------------
+Error in row 2034: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003048, Name: Praveen, Contact: 9743208819, Email: -, Status: Active, JoinedDate: 2024-10-06 15:57:22
+----------------------------------------
+Error in row 2035: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003049, Name: Ismail, Contact: 7975240196, Email: -, Status: Active, JoinedDate: 2024-10-06 16:02:38
+----------------------------------------
+Error in row 2036: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003050, Name: Mohammed Ashfak, Contact: 8151086127, Email: -, Status: Active, JoinedDate: 2024-10-06 16:03:02
+----------------------------------------
+Error in row 2037: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003051, Name: Ahmad Safwan, Contact: 8123302510, Email: -, Status: Active, JoinedDate: 2024-10-06 16:12:57
+----------------------------------------
+Error in row 2038: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003052, Name: Safiya, Contact: 9739765126, Email: -, Status: Active, JoinedDate: 2024-10-06 16:14:32
+----------------------------------------
+Error in row 2039: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003053, Name: Nasir, Contact: 9986065845, Email: -, Status: Active, JoinedDate: 2024-10-06 16:24:41
+----------------------------------------
+Error in row 2040: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003054, Name: Abdul Kareem, Contact: 8088642014, Email: -, Status: Active, JoinedDate: 2024-10-06 17:01:06
+----------------------------------------
+Error in row 2041: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003055, Name: Nani, Contact: 9341078208, Email: -, Status: Active, JoinedDate: 2024-10-06 17:42:28
+----------------------------------------
+Error in row 2042: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003056, Name: Ismail, Contact: 9341755342, Email: -, Status: Active, JoinedDate: 2024-10-06 17:53:39
+----------------------------------------
+Error in row 2043: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003057, Name: Misriya, Contact: 9380936433, Email: -, Status: Active, JoinedDate: 2024-10-06 18:06:10
+----------------------------------------
+Error in row 2044: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003058, Name: Mohammed sawaif, Contact: 9113093606, Email: -, Status: Active, JoinedDate: 2024-10-06 18:10:38
+----------------------------------------
+Error in row 2045: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003059, Name: Farooq, Contact: 9844953040, Email: -, Status: Active, JoinedDate: 2024-10-06 18:11:54
+----------------------------------------
+Error in row 2046: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003060, Name: Muthaq, Contact: 9008117004, Email: -, Status: Active, JoinedDate: 2024-10-06 18:12:59
+----------------------------------------
+Error in row 2047: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003061, Name: Muhammad nouman, Contact: 9663938096, Email: -, Status: Active, JoinedDate: 2024-10-06 18:19:22
+----------------------------------------
+Error in row 2048: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003062, Name: Naushad, Contact: 8123159475, Email: -, Status: Active, JoinedDate: 2024-10-06 18:22:03
+----------------------------------------
+Error in row 2049: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003063, Name: Mufeeza, Contact: 7795407780, Email: -, Status: Active, JoinedDate: 2024-10-06 18:22:59
+----------------------------------------
+Error in row 2050: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003064, Name: Ramlath banu, Contact: 8296826844, Email: -, Status: Active, JoinedDate: 2024-10-06 18:23:28
+----------------------------------------
+Error in row 2051: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003065, Name: Umesh, Contact: 9353080844, Email: -, Status: Active, JoinedDate: 2024-10-06 18:27:02
+----------------------------------------
+Error in row 2052: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003066, Name: Athif, Contact: 9482095701, Email: -, Status: Active, JoinedDate: 2024-10-06 18:28:31
+----------------------------------------
+Error in row 2053: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003067, Name: Asgar, Contact: 9663725262, Email: -, Status: Active, JoinedDate: 2024-10-06 18:29:41
+----------------------------------------
+Error in row 2054: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003068, Name: Samsheer, Contact: 8277480841, Email: -, Status: Active, JoinedDate: 2024-10-06 18:31:54
+----------------------------------------
+Error in row 2055: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003069, Name: Mohammed Haneef, Contact: 9945900247, Email: -, Status: Active, JoinedDate: 2024-10-06 18:53:08
+----------------------------------------
+Error in row 2056: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003070, Name: Mohammed Mansoor, Contact: 8310032609, Email: -, Status: Active, JoinedDate: 2024-10-06 19:14:10
+----------------------------------------
+Error in row 2057: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003071, Name: Irsha, Contact: 9535976337, Email: -, Status: Active, JoinedDate: 2024-10-06 20:30:57
+----------------------------------------
+Error in row 2058: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003072, Name: Mohammed Azeem, Contact: 9880327334, Email: -, Status: Active, JoinedDate: 2024-10-07 11:52:43
+----------------------------------------
+Error in row 2059: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003073, Name: Nasir, Contact: 9945912020, Email: -, Status: Active, JoinedDate: 2024-10-07 11:54:37
+----------------------------------------
+Error in row 2060: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003074, Name: Basheer Ahmad, Contact: 9995441850, Email: -, Status: Active, JoinedDate: 2024-10-07 11:56:23
+----------------------------------------
+Error in row 2061: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003075, Name: Bathish, Contact: 8088246490, Email: -, Status: Active, JoinedDate: 2024-10-07 11:58:00
+----------------------------------------
+Error in row 2062: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003076, Name: Sahala, Contact: 8590356687, Email: -, Status: Active, JoinedDate: 2024-10-07 12:11:34
+----------------------------------------
+Error in row 2063: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003077, Name: Raziya, Contact: 7760727819, Email: -, Status: Active, JoinedDate: 2024-10-07 12:14:00
+----------------------------------------
+Error in row 2064: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003078, Name: Mubeena, Contact: 8867971065, Email: -, Status: Suspended, JoinedDate: 2024-10-07 12:20:50
+----------------------------------------
+Error in row 2065: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003079, Name: Haneef, Contact: 8105814287, Email: -, Status: Active, JoinedDate: 2024-10-07 12:29:01
+----------------------------------------
+Error in row 2066: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003080, Name: Sudeep, Contact: 8073470296, Email: -, Status: Active, JoinedDate: 2024-10-07 12:38:06
+----------------------------------------
+Error in row 2067: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003081, Name: Mahiza Mahira Mashitha, Contact: 9353232159, Email: -, Status: Active, JoinedDate: 2024-10-07 12:42:52
+----------------------------------------
+Error in row 2068: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003082, Name: Swafwan k m, Contact: 9731476664, Email: -, Status: Active, JoinedDate: 2024-10-07 12:48:56
+----------------------------------------
+Error in row 2069: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003083, Name: Ajith, Contact: 9113612607, Email: -, Status: Active, JoinedDate: 2024-10-07 13:19:15
+----------------------------------------
+Error in row 2070: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003084, Name: Asif, Contact: 8050126224, Email: -, Status: Active, JoinedDate: 2024-10-07 13:31:27
+----------------------------------------
+Error in row 2071: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003085, Name: Rayhana, Contact: 9113236173, Email: -, Status: Active, JoinedDate: 2024-10-07 14:58:26
+----------------------------------------
+Error in row 2072: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003086, Name: Salah faliha, Contact: 7411552712, Email: -, Status: Active, JoinedDate: 2024-10-07 15:20:51
+----------------------------------------
+Error in row 2073: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003087, Name: Apusali, Contact: 9844381465, Email: -, Status: Active, JoinedDate: 2024-10-07 15:22:06
+----------------------------------------
+Error in row 2074: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003088, Name: Bathi, Contact: 7899235923, Email: -, Status: Active, JoinedDate: 2024-10-07 15:30:55
+----------------------------------------
+Error in row 2075: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003089, Name: Bashir, Contact: 6364433195, Email: -, Status: Active, JoinedDate: 2024-10-07 15:37:49
+----------------------------------------
+Error in row 2076: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003090, Name: Harish, Contact: 6366513263, Email: -, Status: Active, JoinedDate: 2024-10-07 15:46:20
+----------------------------------------
+Error in row 2077: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003091, Name: Faizal, Contact: 8197606921, Email: -, Status: Active, JoinedDate: 2024-10-07 15:59:34
+----------------------------------------
+Error in row 2078: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003092, Name: Aboobakker Siddik, Contact: 8970093285, Email: -, Status: Active, JoinedDate: 2024-10-07 16:32:14
+----------------------------------------
+Error in row 2079: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003093, Name: Haneef, Contact: 917619260345, Email: -, Status: Active, JoinedDate: 2024-10-07 16:32:29
+----------------------------------------
+Error in row 2080: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003094, Name: Sahara harshida, Contact: 8089382372, Email: -, Status: Active, JoinedDate: 2024-10-07 16:34:34
+----------------------------------------
+Error in row 2081: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003095, Name: Naveed, Contact: 6364749256, Email: -, Status: Active, JoinedDate: 2024-10-07 16:38:37
+----------------------------------------
+Error in row 2082: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003096, Name: Ashraf, Contact: 9980256548, Email: -, Status: Active, JoinedDate: 2024-10-07 16:45:38
+----------------------------------------
+Error in row 2083: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003097, Name: Murshid, Contact: 8792731195, Email: -, Status: Active, JoinedDate: 2024-10-07 16:48:34
+----------------------------------------
+Error in row 2084: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003098, Name: Yaseer, Contact: 9916172776, Email: -, Status: Active, JoinedDate: 2024-10-07 16:52:57
+----------------------------------------
+Error in row 2085: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003099, Name: Kasim, Contact: 9880876557, Email: -, Status: Active, JoinedDate: 2024-10-07 16:53:55
+----------------------------------------
+Error in row 2086: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003100, Name: Arfaz, Contact: 9108915044, Email: -, Status: Active, JoinedDate: 2024-10-07 16:54:33
+----------------------------------------
+Error in row 2087: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003101, Name: Aysha sadeedah, Contact: 9035035053, Email: -, Status: Active, JoinedDate: 2024-10-07 17:10:18
+----------------------------------------
+Error in row 2088: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003102, Name: Bashith, Contact: 73494302255, Email: -, Status: Active, JoinedDate: 2024-10-07 17:32:53
+----------------------------------------
+Error in row 2089: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003103, Name: Mustafa, Contact: 9448888219, Email: -, Status: Active, JoinedDate: 2024-10-07 17:34:27
+----------------------------------------
+Error in row 2090: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003104, Name: Ashraf, Contact: 8971401729, Email: -, Status: Active, JoinedDate: 2024-10-07 17:34:30
+----------------------------------------
+Error in row 2091: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003105, Name: Javid, Contact: 8105975035, Email: -, Status: Active, JoinedDate: 2024-10-07 17:46:04
+----------------------------------------
+Error in row 2092: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003106, Name: Sadiq, Contact: 9686053720, Email: -, Status: Active, JoinedDate: 2024-10-07 17:48:57
+----------------------------------------
+Error in row 2093: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003107, Name: Nazeer, Contact: 9980098409, Email: -, Status: Active, JoinedDate: 2024-10-07 17:51:42
+----------------------------------------
+Error in row 2094: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003108, Name: Mehraz, Contact: 7483627206, Email: -, Status: Active, JoinedDate: 2024-10-07 19:19:30
+----------------------------------------
+Error in row 2095: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003109, Name: Shakeel, Contact: 9739193158, Email: -, Status: Active, JoinedDate: 2024-10-07 19:26:16
+----------------------------------------
+Error in row 2096: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003110, Name: Ashraf, Contact: 8762568958, Email: -, Status: Active, JoinedDate: 2024-10-07 19:27:37
+----------------------------------------
+Error in row 2097: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003111, Name: Ashraf, Contact: 9986843163, Email: -, Status: Active, JoinedDate: 2024-10-07 19:29:25
+----------------------------------------
+Error in row 2098: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003112, Name: Charanraj, Contact: 8971758277, Email: -, Status: Active, JoinedDate: 2024-10-07 19:34:13
+----------------------------------------
+Error in row 2099: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003113, Name: Ahmad kunhi, Contact: 9035988034, Email: -, Status: Active, JoinedDate: 2024-10-07 19:37:41
+----------------------------------------
+Error in row 2100: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003114, Name: Mohammed illiyas, Contact: 7411882127, Email: -, Status: Active, JoinedDate: 2024-10-07 19:47:41
+----------------------------------------
+Error in row 2101: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003115, Name: Fareed k, Contact: 8714033633, Email: -, Status: Active, JoinedDate: 2024-10-07 19:48:51
+----------------------------------------
+Error in row 2102: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003116, Name: HYDER ALI, Contact: 09902527476, Email: -, Status: Suspended, JoinedDate: 2024-10-07 19:52:45
+----------------------------------------
+Error in row 2103: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003117, Name: Haneef, Contact: 8618882811, Email: -, Status: Active, JoinedDate: 2024-10-07 19:55:25
+----------------------------------------
+Error in row 2104: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003118, Name: Ibrahim, Contact: 9995624703, Email: -, Status: Suspended, JoinedDate: 2024-10-07 20:01:04
+----------------------------------------
+Error in row 2105: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003119, Name: Yusuf, Contact: 8123739363, Email: -, Status: Active, JoinedDate: 2024-10-07 20:08:55
+----------------------------------------
+Error in row 2106: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003120, Name: zhaid, Contact: 918904485503, Email: -, Status: Active, JoinedDate: 2024-10-07 21:54:27
+----------------------------------------
+Error in row 2107: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003121, Name: Arjun Kumar Yadav, Contact: 9686458492, Email: -, Status: Active, JoinedDate: 2024-10-07 22:04:33
+----------------------------------------
+Error in row 2108: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003122, Name: Sharmila, Contact: 8050970721, Email: -, Status: Active, JoinedDate: 2024-10-07 22:25:03
+----------------------------------------
+Error in row 2109: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003123, Name: Praveen R, Contact: 919741974589, Email: -, Status: Active, JoinedDate: 2024-10-07 23:48:56
+----------------------------------------
+Error in row 2110: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003124, Name: Jaleel, Contact: 9743901976, Email: -, Status: Active, JoinedDate: 2024-10-08 01:06:58
+----------------------------------------
+Error in row 2111: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003125, Name: Pavan, Contact: 9731113710, Email: -, Status: Active, JoinedDate: 2024-10-08 12:10:15
+----------------------------------------
+Error in row 2112: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003126, Name: Naveen, Contact: 8088552119, Email: -, Status: Active, JoinedDate: 2024-10-08 12:28:32
+----------------------------------------
+Error in row 2113: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003127, Name: Chickabasavaya, Contact: 9742889660, Email: -, Status: Active, JoinedDate: 2024-10-08 12:32:52
+----------------------------------------
+Error in row 2114: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003128, Name: Haleema, Contact: 9591374027, Email: -, Status: Suspended, JoinedDate: 2024-10-08 13:05:48
+----------------------------------------
+Error in row 2115: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003129, Name: Mishriya, Contact: 9606708411, Email: -, Status: Active, JoinedDate: 2024-10-08 14:41:48
+----------------------------------------
+Error in row 2116: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003130, Name: Ibrahi, Contact: 9740321367, Email: -, Status: Active, JoinedDate: 2024-10-08 15:09:08
+----------------------------------------
+Error in row 2117: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003131, Name: Kareem, Contact: 9980881999, Email: -, Status: Active, JoinedDate: 2024-10-08 15:12:46
+----------------------------------------
+Error in row 2118: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003132, Name: Mahammad shahim, Contact: 8746028862, Email: -, Status: Active, JoinedDate: 2024-10-08 15:13:46
+----------------------------------------
+Error in row 2119: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003133, Name: Sahala, Contact: 7624837986, Email: -, Status: Active, JoinedDate: 2024-10-08 15:20:00
+----------------------------------------
+Error in row 2120: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003134, Name: Ganesh Shetty, Contact: 9538326544, Email: -, Status: Active, JoinedDate: 2024-10-08 16:03:10
+----------------------------------------
+Error in row 2121: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003135, Name: Abdul hameed, Contact: 7618717469, Email: -, Status: Active, JoinedDate: 2024-10-08 16:17:51
+----------------------------------------
+Error in row 2122: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003136, Name: Safwan, Contact: 7760288283, Email: -, Status: Active, JoinedDate: 2024-10-08 16:22:39
+----------------------------------------
+Error in row 2123: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003137, Name: Mahammad darvish, Contact: 9901954674, Email: -, Status: Active, JoinedDate: 2024-10-08 16:23:08
+----------------------------------------
+Error in row 2124: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003138, Name: Ismail, Contact: 9483464941, Email: -, Status: Active, JoinedDate: 2024-10-08 16:26:22
+----------------------------------------
+Error in row 2125: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003139, Name: Khalid, Contact: 8277613798, Email: -, Status: Active, JoinedDate: 2024-10-08 16:32:35
+----------------------------------------
+Error in row 2126: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003140, Name: Shivram, Contact: 9901682004, Email: -, Status: Active, JoinedDate: 2024-10-08 16:47:17
+----------------------------------------
+Error in row 2127: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003141, Name: Mohammed Ali, Contact: 9945415713, Email: -, Status: Active, JoinedDate: 2024-10-08 16:53:00
+----------------------------------------
+Error in row 2128: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003142, Name: Rizwan, Contact: 9741993644, Email: -, Status: Active, JoinedDate: 2024-10-08 16:56:06
+----------------------------------------
+Error in row 2129: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003143, Name: Samsuddin, Contact: 9902242328, Email: -, Status: Active, JoinedDate: 2024-10-08 16:57:06
+----------------------------------------
+Error in row 2130: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003144, Name: Purandara, Contact: 9972989070, Email: -, Status: Active, JoinedDate: 2024-10-08 17:00:19
+----------------------------------------
+Error in row 2131: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003145, Name: Thajuddin, Contact: 8971020456, Email: -, Status: Active, JoinedDate: 2024-10-08 17:03:24
+----------------------------------------
+Error in row 2132: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003146, Name: Kevin, Contact: 7022198078, Email: -, Status: Active, JoinedDate: 2024-10-08 17:09:26
+----------------------------------------
+Error in row 2133: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003147, Name: Siraj, Contact: 7349382036, Email: -, Status: Active, JoinedDate: 2024-10-08 17:13:44
+----------------------------------------
+Error in row 2134: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003148, Name: Ashraf, Contact: 8971897153, Email: -, Status: Active, JoinedDate: 2024-10-08 17:20:56
+----------------------------------------
+Error in row 2135: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003149, Name: Naufal, Contact: 9740846426, Email: -, Status: Active, JoinedDate: 2024-10-08 17:31:25
+----------------------------------------
+Error in row 2136: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003150, Name: Sharif, Contact: 6360230438, Email: -, Status: Active, JoinedDate: 2024-10-08 17:43:38
+----------------------------------------
+Error in row 2137: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003151, Name: MOHAMMED Ali, Contact: 9790834253, Email: -, Status: Active, JoinedDate: 2024-10-08 17:47:40
+----------------------------------------
+Error in row 2138: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003152, Name: Naushad, Contact: 7676294504, Email: -, Status: Active, JoinedDate: 2024-10-08 17:49:39
+----------------------------------------
+Error in row 2139: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003153, Name: Shankar, Contact: 9148277267, Email: -, Status: Active, JoinedDate: 2024-10-08 18:12:25
+----------------------------------------
+Error in row 2140: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003154, Name: Misthah, Contact: 8123826576, Email: -, Status: Active, JoinedDate: 2024-10-08 18:22:34
+----------------------------------------
+Error in row 2141: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003155, Name: Ma sareef, Contact: 9740221861, Email: -, Status: Active, JoinedDate: 2024-10-08 18:49:56
+----------------------------------------
+Error in row 2142: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003156, Name: Sourav, Contact: 6362055075, Email: -, Status: Active, JoinedDate: 2024-10-08 19:17:35
+----------------------------------------
+Error in row 2143: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003157, Name: Abdul Razak, Contact: 9880188507, Email: -, Status: Active, JoinedDate: 2024-10-08 19:34:53
+----------------------------------------
+Error in row 2144: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003158, Name: Muthalib, Contact: 9986281430, Email: -, Status: Active, JoinedDate: 2024-10-08 19:37:36
+----------------------------------------
+Error in row 2145: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u229215627_GoldenDream.Customers' doesn't exist
+Data: CustomerUniqueID: GD003159, Name: Azeez, Contact: 9343572839, Email: -, Status: Active, JoinedDate: 2024-10-08 19:43:16
+----------------------------------------

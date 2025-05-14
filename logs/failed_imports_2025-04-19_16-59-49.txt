@@ -1,0 +1,1097 @@
+Failed Records Log - 2025-04-19 16:59:49
+==========================================
+
+Original File: customerDataxlsx.xlsx
+
+Error in row 2: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001012, Name: Farhan Mohammad, Contact: 8147410811, Email: -, Status: Active, JoinedDate: 2024-08-27 14:28:40
+----------------------------------------
+Error in row 3: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001013, Name: Fathima, Contact: 9742282299, Email: -, Status: Active, JoinedDate: 2024-08-27 14:29:36
+----------------------------------------
+Error in row 4: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001014, Name: sirajuddin m, Contact: 8147410811, Email: -, Status: Active, JoinedDate: 2024-08-27 14:44:40
+----------------------------------------
+Error in row 5: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001015, Name: Rushda, Contact: 7483925481, Email: -, Status: Active, JoinedDate: 2024-08-27 15:00:44
+----------------------------------------
+Error in row 6: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001016, Name: Lubaba, Contact: 9481848931, Email: -, Status: Active, JoinedDate: 2024-08-27 15:02:58
+----------------------------------------
+Error in row 7: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001017, Name: Afreena, Contact: 7411243459, Email: -, Status: Active, JoinedDate: 2024-08-27 15:03:23
+----------------------------------------
+Error in row 8: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001018, Name: Asif Muhammad, Contact: 9945445957, Email: -, Status: Active, JoinedDate: 2024-08-27 15:04:26
+----------------------------------------
+Error in row 9: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001019, Name: Filza Hazik, Contact: 9611231011, Email: -, Status: Active, JoinedDate: 2024-08-27 15:06:20
+----------------------------------------
+Error in row 10: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001020, Name: Fayaz, Contact: 9611231011, Email: -, Status: Suspended, JoinedDate: 2024-08-27 15:08:47
+----------------------------------------
+Error in row 11: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001021, Name: Ibrahim thaleki, Contact: 8861041387, Email: -, Status: Suspended, JoinedDate: 2024-08-28 12:04:27
+----------------------------------------
+Error in row 12: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001022, Name: Isham, Contact: 9995194472, Email: -, Status: Suspended, JoinedDate: 2024-08-28 12:08:10
+----------------------------------------
+Error in row 13: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001023, Name: Kelvin D Souza, Contact: 8296507883, Email: -, Status: Active, JoinedDate: 2024-08-28 14:13:18
+----------------------------------------
+Error in row 14: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001024, Name: SAHARA, Contact: 9980752821, Email: -, Status: Suspended, JoinedDate: 2024-08-28 15:34:21
+----------------------------------------
+Error in row 15: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001025, Name: Hashim, Contact: 9995194472, Email: -, Status: Active, JoinedDate: 2024-08-28 16:09:41
+----------------------------------------
+Error in row 16: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001026, Name: SAHARA, Contact: 9980752821, Email: -, Status: Active, JoinedDate: 2024-08-28 16:12:05
+----------------------------------------
+Error in row 17: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001027, Name: Thameem B, Contact: 7736830069, Email: -, Status: Active, JoinedDate: 2024-08-28 16:50:46
+----------------------------------------
+Error in row 18: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001028, Name: Raya, Contact: 9995194472, Email: -, Status: Active, JoinedDate: 2024-08-28 19:06:10
+----------------------------------------
+Error in row 19: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001029, Name: Anas.b, Contact: 9972535985, Email: -, Status: Suspended, JoinedDate: 2024-08-29 21:51:18
+----------------------------------------
+Error in row 20: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001030, Name: Fulail, Contact: 9844135095, Email: -, Status: Active, JoinedDate: 2024-08-30 17:28:48
+----------------------------------------
+Error in row 21: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001031, Name: Sammu51, Contact: 9964475451, Email: -, Status: Active, JoinedDate: 2024-08-31 15:41:52
+----------------------------------------
+Error in row 22: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001032, Name: ibrahim, Contact: 9995194472, Email: -, Status: Suspended, JoinedDate: 2024-08-31 15:44:18
+----------------------------------------
+Error in row 23: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001033, Name: HYDER ALI, Contact: 09902527476, Email: -, Status: Active, JoinedDate: 2024-08-31 15:47:27
+----------------------------------------
+Error in row 24: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001034, Name: Shruthika, Contact: 7619224464, Email: -, Status: Active, JoinedDate: 2024-08-31 16:01:43
+----------------------------------------
+Error in row 25: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001035, Name: Jafar sadiq, Contact: 7760198029, Email: -, Status: Active, JoinedDate: 2024-08-31 16:05:31
+----------------------------------------
+Error in row 26: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001036, Name: Sakeena Salman, Contact: 9902795202, Email: -, Status: Active, JoinedDate: 2024-08-31 21:00:07
+----------------------------------------
+Error in row 27: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001037, Name: Shamna, Contact: 9731285451, Email: -, Status: Active, JoinedDate: 2024-08-31 23:32:38
+----------------------------------------
+Error in row 28: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001038, Name: Ali Ahmed, Contact: 9035418219, Email: -, Status: Active, JoinedDate: 2024-09-01 10:50:13
+----------------------------------------
+Error in row 29: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001039, Name: Muhammad shafeeq, Contact: 7259627243, Email: -, Status: Suspended, JoinedDate: 2024-09-01 10:51:16
+----------------------------------------
+Error in row 30: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001040, Name: Muhammad shafeeq, Contact: 7259627243, Email: -, Status: Active, JoinedDate: 2024-09-01 10:52:09
+----------------------------------------
+Error in row 31: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001041, Name: Muhammad shafeeq, Contact: 6361375630, Email: -, Status: Suspended, JoinedDate: 2024-09-01 10:52:59
+----------------------------------------
+Error in row 32: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001042, Name: Mohmmad Shahid, Contact: 8904681836, Email: -, Status: Suspended, JoinedDate: 2024-09-01 10:55:08
+----------------------------------------
+Error in row 33: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001043, Name: M.Shahin, Contact: 8123706619, Email: -, Status: Active, JoinedDate: 2024-09-01 12:10:27
+----------------------------------------
+Error in row 34: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001044, Name: Mohammed Yoonus, Contact: 966508585276, Email: -, Status: Active, JoinedDate: 2024-09-01 13:26:53
+----------------------------------------
+Error in row 35: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001045, Name: Rizwan, Contact: 9663560382, Email: -, Status: Active, JoinedDate: 2024-09-01 14:29:56
+----------------------------------------
+Error in row 36: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001046, Name: Asira, Contact: 8943180949, Email: -, Status: Suspended, JoinedDate: 2024-09-01 14:54:44
+----------------------------------------
+Error in row 37: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001047, Name: Fathimath sunera M, Contact: 9964424164, Email: -, Status: Suspended, JoinedDate: 2024-09-01 17:37:02
+----------------------------------------
+Error in row 38: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001048, Name: Sowdhabi kamaruneesa, Contact: 9741237820, Email: -, Status: Suspended, JoinedDate: 2024-09-01 19:19:13
+----------------------------------------
+Error in row 39: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001049, Name: Mohammed mansoor, Contact: 9731443639, Email: -, Status: Active, JoinedDate: 2024-09-01 19:22:48
+----------------------------------------
+Error in row 40: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001050, Name: Sowdhabi kamaruneesa, Contact: 6360037820, Email: -, Status: Active, JoinedDate: 2024-09-01 19:30:26
+----------------------------------------
+Error in row 41: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001051, Name: Abdul Khadar, Contact: 9900484943, Email: -, Status: Active, JoinedDate: 2024-09-01 19:57:40
+----------------------------------------
+Error in row 42: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001052, Name: Akshatha gowda, Contact: 7349629448, Email: -, Status: Active, JoinedDate: 2024-09-01 20:13:09
+----------------------------------------
+Error in row 43: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001053, Name: Fathimath shahina, Contact: 9980688712, Email: -, Status: Active, JoinedDate: 2024-09-01 20:25:51
+----------------------------------------
+Error in row 44: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001054, Name: Naseema, Contact: 08197089182, Email: -, Status: Suspended, JoinedDate: 2024-09-01 20:57:58
+----------------------------------------
+Error in row 45: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001055, Name: Jaleel, Contact: 9945195553, Email: -, Status: Active, JoinedDate: 2024-09-01 22:45:57
+----------------------------------------
+Error in row 46: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001056, Name: Mahammad Afnan, Contact: 8296982332, Email: -, Status: Active, JoinedDate: 2024-09-02 11:06:59
+----------------------------------------
+Error in row 47: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001057, Name: Ashiq sammas, Contact: 9632403482, Email: -, Status: Active, JoinedDate: 2024-09-02 11:38:27
+----------------------------------------
+Error in row 48: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001058, Name: Abdul javad, Contact: 9164357873, Email: -, Status: Active, JoinedDate: 2024-09-02 11:43:30
+----------------------------------------
+Error in row 49: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001059, Name: Fazil, Contact: 9591555608, Email: -, Status: Active, JoinedDate: 2024-09-02 13:04:17
+----------------------------------------
+Error in row 50: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001060, Name: Musthaq suhail Sanwaz, Contact: 7411158884, Email: -, Status: Active, JoinedDate: 2024-09-02 13:19:40
+----------------------------------------
+Error in row 51: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001061, Name: Thwayyib, Contact: 9611856327, Email: -, Status: Active, JoinedDate: 2024-09-02 14:06:10
+----------------------------------------
+Error in row 52: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001062, Name: Asma, Contact: 9663638369, Email: -, Status: Active, JoinedDate: 2024-09-02 15:08:53
+----------------------------------------
+Error in row 53: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001063, Name: Mohammad asif k, Contact: 8884243377, Email: -, Status: Active, JoinedDate: 2024-09-02 16:17:08
+----------------------------------------
+Error in row 54: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001064, Name: Jamaluddin, Contact: 00971508597584, Email: -, Status: Active, JoinedDate: 2024-09-02 16:19:25
+----------------------------------------
+Error in row 55: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001065, Name: Jamaluddin, Contact: 9845591058, Email: -, Status: Active, JoinedDate: 2024-09-02 16:25:19
+----------------------------------------
+Error in row 56: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001066, Name: Fazil ahmed, Contact: 8197846586, Email: -, Status: Active, JoinedDate: 2024-09-02 16:51:54
+----------------------------------------
+Error in row 57: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001067, Name: Nalinakshi, Contact: 9620475965, Email: -, Status: Active, JoinedDate: 2024-09-02 17:31:56
+----------------------------------------
+Error in row 58: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001068, Name: Fauziya, Contact: 9845749858, Email: -, Status: Active, JoinedDate: 2024-09-02 18:24:04
+----------------------------------------
+Error in row 59: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001069, Name: Hafsa P, Contact: 8088155212, Email: -, Status: Active, JoinedDate: 2024-09-02 18:31:50
+----------------------------------------
+Error in row 60: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001070, Name: Abdul khdar, Contact: 9731148856, Email: -, Status: Active, JoinedDate: 2024-09-02 19:11:26
+----------------------------------------
+Error in row 61: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001071, Name: Divya, Contact: 9113837151, Email: -, Status: Active, JoinedDate: 2024-09-02 19:47:47
+----------------------------------------
+Error in row 62: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001072, Name: Shekh Mohammed masood, Contact: 9844035343, Email: -, Status: Active, JoinedDate: 2024-09-02 20:51:00
+----------------------------------------
+Error in row 63: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001073, Name: Zohara, Contact: 9880439067, Email: -, Status: Active, JoinedDate: 2024-09-02 21:18:04
+----------------------------------------
+Error in row 64: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001074, Name: Aleeza, Contact: 8861498006, Email: -, Status: Active, JoinedDate: 2024-09-02 21:20:40
+----------------------------------------
+Error in row 65: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001075, Name: Bhavith Kumar, Contact: 9535723024, Email: -, Status: Active, JoinedDate: 2024-09-02 21:46:46
+----------------------------------------
+Error in row 66: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001076, Name: Ayesha kubra, Contact: 64829078, Email: -, Status: Active, JoinedDate: 2024-09-02 22:01:54
+----------------------------------------
+Error in row 67: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001077, Name: Ayesha kubra, Contact: 9164829078, Email: -, Status: Active, JoinedDate: 2024-09-02 22:06:03
+----------------------------------------
+Error in row 68: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001078, Name: B.Fathima, Contact: 9481848931, Email: -, Status: Suspended, JoinedDate: 2024-09-02 22:10:42
+----------------------------------------
+Error in row 69: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001079, Name: Shemeema .T, Contact: 9880867537, Email: -, Status: Active, JoinedDate: 2024-09-02 22:46:36
+----------------------------------------
+Error in row 70: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001080, Name: Fathima Rimsha, Contact: 9481848931, Email: -, Status: Active, JoinedDate: 2024-09-02 22:53:59
+----------------------------------------
+Error in row 71: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001081, Name: MAHAMMAD shafi, Contact: 8088100085, Email: -, Status: Active, JoinedDate: 2024-09-02 22:57:36
+----------------------------------------
+Error in row 72: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001082, Name: Mahammad Kasim, Contact: 8217585425, Email: -, Status: Active, JoinedDate: 2024-09-02 23:13:50
+----------------------------------------
+Error in row 73: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001083, Name: Afreed, Contact: 9741027608, Email: -, Status: Active, JoinedDate: 2024-09-03 01:12:17
+----------------------------------------
+Error in row 74: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001084, Name: Ayshath Missrya, Contact: 8105550057, Email: -, Status: Active, JoinedDate: 2024-09-03 06:58:42
+----------------------------------------
+Error in row 75: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001085, Name: Namana M, Contact: 8606737982, Email: -, Status: Active, JoinedDate: 2024-09-03 09:55:34
+----------------------------------------
+Error in row 76: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001086, Name: Jameela, Contact: 9964384732, Email: -, Status: Active, JoinedDate: 2024-09-03 11:28:51
+----------------------------------------
+Error in row 77: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001087, Name: Asif p, Contact: 8310895973, Email: -, Status: Active, JoinedDate: 2024-09-03 12:24:27
+----------------------------------------
+Error in row 78: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001088, Name: Sefiya, Contact: 9148183045, Email: -, Status: Active, JoinedDate: 2024-09-03 12:27:05
+----------------------------------------
+Error in row 79: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001089, Name: Muhammad shareef, Contact: 9164282235, Email: -, Status: Active, JoinedDate: 2024-09-03 12:44:27
+----------------------------------------
+Error in row 80: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001090, Name: Rahamathua, Contact: 7760274301, Email: -, Status: Active, JoinedDate: 2024-09-03 13:27:30
+----------------------------------------
+Error in row 81: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001091, Name: Zubaida@gail.com, Contact: 8971563779, Email: -, Status: Active, JoinedDate: 2024-09-03 13:37:57
+----------------------------------------
+Error in row 82: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001092, Name: Shazna shazil, Contact: 9741739228, Email: -, Status: Suspended, JoinedDate: 2024-09-03 14:01:18
+----------------------------------------
+Error in row 83: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001093, Name: Mariyamma Nasiya, Contact: 9591138263, Email: -, Status: Active, JoinedDate: 2024-09-03 14:03:40
+----------------------------------------
+Error in row 84: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001094, Name: Shazmanshazin, Contact: 9741739228, Email: -, Status: Active, JoinedDate: 2024-09-03 14:06:37
+----------------------------------------
+Error in row 85: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001095, Name: Abdul Asif, Contact: 8495091301, Email: -, Status: Active, JoinedDate: 2024-09-03 14:08:10
+----------------------------------------
+Error in row 86: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001096, Name: Shahid, Contact: 8904681836, Email: -, Status: Suspended, JoinedDate: 2024-09-03 14:10:22
+----------------------------------------
+Error in row 87: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001097, Name: Mohammad Ishaq, Contact: 9606869789, Email: -, Status: Active, JoinedDate: 2024-09-03 14:25:40
+----------------------------------------
+Error in row 88: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001098, Name: Mohmmad Shahid, Contact: 8904681836, Email: -, Status: Active, JoinedDate: 2024-09-03 14:36:22
+----------------------------------------
+Error in row 89: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001099, Name: ishrath imran, Contact: 8123505055, Email: -, Status: Active, JoinedDate: 2024-09-03 14:37:15
+----------------------------------------
+Error in row 90: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001100, Name: Mashitha Mehran, Contact: 9845786788, Email: -, Status: Active, JoinedDate: 2024-09-03 14:55:39
+----------------------------------------
+Error in row 91: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001101, Name: Mohammed Faisal, Contact: 7022565696, Email: -, Status: Suspended, JoinedDate: 2024-09-03 15:01:37
+----------------------------------------
+Error in row 92: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001102, Name: Shafi azar, Contact: 9980547894, Email: -, Status: Active, JoinedDate: 2024-09-03 15:09:53
+----------------------------------------
+Error in row 93: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001103, Name: Imran, Contact: 8050935261, Email: -, Status: Active, JoinedDate: 2024-09-03 15:16:28
+----------------------------------------
+Error in row 94: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001104, Name: Nafiya chemmi, Contact: 6366634046, Email: -, Status: Active, JoinedDate: 2024-09-03 15:40:10
+----------------------------------------
+Error in row 95: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001105, Name: Ibrahim, Contact: 8861041387, Email: -, Status: Active, JoinedDate: 2024-09-03 15:57:47
+----------------------------------------
+Error in row 96: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001106, Name: Shameema alekala, Contact: 8310859994, Email: -, Status: Active, JoinedDate: 2024-09-03 16:14:03
+----------------------------------------
+Error in row 97: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001107, Name: Mahammad semir, Contact: 8660542439, Email: -, Status: Active, JoinedDate: 2024-09-03 16:41:48
+----------------------------------------
+Error in row 98: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001108, Name: Mohammed ADIL Ibrahim, Contact: 7204347442, Email: -, Status: Active, JoinedDate: 2024-09-03 17:01:29
+----------------------------------------
+Error in row 99: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001109, Name: Nasir B, Contact: 9740963311, Email: -, Status: Active, JoinedDate: 2024-09-03 17:10:47
+----------------------------------------
+Error in row 100: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001110, Name: Mariyam, Contact: 9741353814, Email: -, Status: Active, JoinedDate: 2024-09-03 17:43:21
+----------------------------------------
+Error in row 101: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001111, Name: Shiridhara p, Contact: 7019079219, Email: -, Status: Active, JoinedDate: 2024-09-03 18:17:24
+----------------------------------------
+Error in row 102: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001112, Name: Shareef, Contact: 9633138015, Email: -, Status: Active, JoinedDate: 2024-09-03 18:34:09
+----------------------------------------
+Error in row 103: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001113, Name: Sekunji, Contact: 9632981846, Email: -, Status: Active, JoinedDate: 2024-09-03 19:43:39
+----------------------------------------
+Error in row 104: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001114, Name: Fathima Wafiya, Contact: 9663611479, Email: -, Status: Active, JoinedDate: 2024-09-03 19:54:24
+----------------------------------------
+Error in row 105: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001115, Name: Rafeek DM, Contact: 7353843997, Email: -, Status: Active, JoinedDate: 2024-09-03 20:00:27
+----------------------------------------
+Error in row 106: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001116, Name: Ayisha, Contact: 8105417456, Email: -, Status: Active, JoinedDate: 2024-09-03 20:33:01
+----------------------------------------
+Error in row 107: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001117, Name: Anchu, Contact: 8970944646, Email: -, Status: Active, JoinedDate: 2024-09-03 20:48:16
+----------------------------------------
+Error in row 108: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001118, Name: Afeefa, Contact: 9686422586, Email: -, Status: Active, JoinedDate: 2024-09-03 20:55:34
+----------------------------------------
+Error in row 109: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001119, Name: Aysha Mahroofa, Contact: 8722260891, Email: -, Status: Active, JoinedDate: 2024-09-03 21:07:00
+----------------------------------------
+Error in row 110: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001120, Name: Zayan Arsh, Contact: 8722260891, Email: -, Status: Active, JoinedDate: 2024-09-03 21:14:04
+----------------------------------------
+Error in row 111: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001121, Name: Shruthika, Contact: 7619224464, Email: -, Status: Active, JoinedDate: 2024-09-03 21:24:09
+----------------------------------------
+Error in row 112: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001122, Name: Ramesh shetty, Contact: 9448549042, Email: -, Status: Active, JoinedDate: 2024-09-03 23:53:12
+----------------------------------------
+Error in row 113: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001123, Name: Dr.Ayisha Ishana, Contact: 7338305327, Email: -, Status: Active, JoinedDate: 2024-09-04 00:00:46
+----------------------------------------
+Error in row 114: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001124, Name: Ayshath zunaira, Contact: 6364161695, Email: -, Status: Active, JoinedDate: 2024-09-04 00:06:11
+----------------------------------------
+Error in row 115: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001125, Name: Wilma Dsouza, Contact: 7019919887, Email: -, Status: Active, JoinedDate: 2024-09-04 11:41:55
+----------------------------------------
+Error in row 116: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001126, Name: Ibrahim Bathish, Contact: 9113043085, Email: -, Status: Active, JoinedDate: 2024-09-04 12:07:02
+----------------------------------------
+Error in row 117: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001127, Name: Abdul Shakeel, Contact: 9035384247, Email: -, Status: Active, JoinedDate: 2024-09-04 12:39:02
+----------------------------------------
+Error in row 118: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001128, Name: mahammad thouseef, Contact: 9591503266, Email: -, Status: Active, JoinedDate: 2024-09-04 13:09:56
+----------------------------------------
+Error in row 119: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001129, Name: Thasleem Moidu Kunhi, Contact: 9535333502, Email: -, Status: Active, JoinedDate: 2024-09-04 13:11:22
+----------------------------------------
+Error in row 120: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001130, Name: Aboobakkar, Contact: 8548035260, Email: -, Status: Active, JoinedDate: 2024-09-04 13:35:40
+----------------------------------------
+Error in row 121: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001131, Name: Mahammad Basheer, Contact: 9591077871, Email: -, Status: Active, JoinedDate: 2024-09-04 14:25:43
+----------------------------------------
+Error in row 122: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001132, Name: Hajara, Contact: 9844081086, Email: -, Status: Active, JoinedDate: 2024-09-04 14:33:26
+----------------------------------------
+Error in row 123: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001133, Name: Reemaz Abdul azeez, Contact: 8792423204, Email: -, Status: Active, JoinedDate: 2024-09-04 14:34:09
+----------------------------------------
+Error in row 124: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001134, Name: Irfan, Contact: 8073930938, Email: -, Status: Active, JoinedDate: 2024-09-04 15:03:43
+----------------------------------------
+Error in row 125: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001135, Name: Niza fathima, Contact: 9731289310, Email: -, Status: Active, JoinedDate: 2024-09-04 15:04:46
+----------------------------------------
+Error in row 126: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001136, Name: Shamyashi, Contact: 8088601181, Email: -, Status: Active, JoinedDate: 2024-09-04 15:04:52
+----------------------------------------
+Error in row 127: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001137, Name: Mohammed sahad, Contact: 9740069081, Email: -, Status: Active, JoinedDate: 2024-09-04 15:09:28
+----------------------------------------
+Error in row 128: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001138, Name: Nitin kumar singh, Contact: 8197410631, Email: -, Status: Active, JoinedDate: 2024-09-04 15:28:57
+----------------------------------------
+Error in row 129: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001139, Name: Mohammed Muneef, Contact: 9620172339, Email: -, Status: Active, JoinedDate: 2024-09-04 16:17:41
+----------------------------------------
+Error in row 130: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001140, Name: Abdul unais, Contact: 8970188494, Email: -, Status: Active, JoinedDate: 2024-09-04 16:21:12
+----------------------------------------
+Error in row 131: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001141, Name: Khaleel, Contact: 9686674773, Email: -, Status: Suspended, JoinedDate: 2024-09-04 16:28:40
+----------------------------------------
+Error in row 132: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001142, Name: Siraj, Contact: 9113816593, Email: -, Status: Active, JoinedDate: 2024-09-04 16:31:14
+----------------------------------------
+Error in row 133: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001143, Name: Mohammed Shamnan Musthafa, Contact: 8050845093, Email: -, Status: Active, JoinedDate: 2024-09-04 16:36:26
+----------------------------------------
+Error in row 134: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001144, Name: Riyaz, Contact: 9900551397, Email: -, Status: Active, JoinedDate: 2024-09-04 16:40:56
+----------------------------------------
+Error in row 135: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001145, Name: Riyab, Contact: 9741225930, Email: -, Status: Active, JoinedDate: 2024-09-04 16:45:29
+----------------------------------------
+Error in row 136: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001146, Name: Abdulla, Contact: 7558943772, Email: -, Status: Active, JoinedDate: 2024-09-04 17:10:48
+----------------------------------------
+Error in row 137: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001147, Name: Umaira, Contact: 9746533772, Email: -, Status: Active, JoinedDate: 2024-09-04 17:42:11
+----------------------------------------
+Error in row 138: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001148, Name: Mohammed isak, Contact: 9036194846, Email: -, Status: Active, JoinedDate: 2024-09-04 18:33:17
+----------------------------------------
+Error in row 139: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001149, Name: Abdul Lathif, Contact: 9632184264, Email: -, Status: Active, JoinedDate: 2024-09-04 18:43:31
+----------------------------------------
+Error in row 140: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001150, Name: M Subramani, Contact: 9481508763, Email: -, Status: Active, JoinedDate: 2024-09-04 18:55:38
+----------------------------------------
+Error in row 141: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001151, Name: Shafeena, Contact: 9731192822, Email: -, Status: Active, JoinedDate: 2024-09-04 19:08:53
+----------------------------------------
+Error in row 142: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001152, Name: Harish, Contact: 9895255136, Email: -, Status: Active, JoinedDate: 2024-09-04 19:36:01
+----------------------------------------
+Error in row 143: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001153, Name: Mohammad junaid, Contact: 8549916075, Email: -, Status: Active, JoinedDate: 2024-09-04 19:39:16
+----------------------------------------
+Error in row 144: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001154, Name: Abdul majeed, Contact: 9916533148, Email: -, Status: Active, JoinedDate: 2024-09-04 20:04:14
+----------------------------------------
+Error in row 145: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001155, Name: Shaheer, Contact: 9901732441, Email: -, Status: Active, JoinedDate: 2024-09-04 21:21:50
+----------------------------------------
+Error in row 146: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001156, Name: Mariam mashitha, Contact: 919567702287, Email: -, Status: Active, JoinedDate: 2024-09-04 21:27:05
+----------------------------------------
+Error in row 147: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001157, Name: Nafla, Contact: 918281708699, Email: -, Status: Active, JoinedDate: 2024-09-04 22:19:48
+----------------------------------------
+Error in row 148: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001158, Name: Mohammed Arfaz, Contact: 7975656610, Email: -, Status: Active, JoinedDate: 2024-09-04 22:38:17
+----------------------------------------
+Error in row 149: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001159, Name: Asira, Contact: 8943180949, Email: -, Status: Active, JoinedDate: 2024-09-04 22:46:48
+----------------------------------------
+Error in row 150: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001160, Name: Minaziya, Contact: 6282666238, Email: -, Status: Active, JoinedDate: 2024-09-05 08:40:26
+----------------------------------------
+Error in row 151: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001161, Name: Murshid, Contact: 9400128599, Email: -, Status: Active, JoinedDate: 2024-09-05 11:09:45
+----------------------------------------
+Error in row 152: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001162, Name: Gopalakrishna Shetty K, Contact: 9902993803, Email: -, Status: Active, JoinedDate: 2024-09-05 11:16:16
+----------------------------------------
+Error in row 153: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001163, Name: Shafi, Contact: 7760760277, Email: -, Status: Active, JoinedDate: 2024-09-05 13:17:05
+----------------------------------------
+Error in row 154: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001164, Name: Nadeem Hussain, Contact: 9108205899, Email: -, Status: Active, JoinedDate: 2024-09-05 13:22:45
+----------------------------------------
+Error in row 155: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001165, Name: Mohammed Anis, Contact: 9611932716, Email: -, Status: Active, JoinedDate: 2024-09-05 13:39:05
+----------------------------------------
+Error in row 156: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001166, Name: Roshal Dsouza, Contact: 8197419269, Email: -, Status: Active, JoinedDate: 2024-09-05 13:52:38
+----------------------------------------
+Error in row 157: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001167, Name: Nafeesa Abiha, Contact: 7022026050, Email: -, Status: Active, JoinedDate: 2024-09-05 14:01:59
+----------------------------------------
+Error in row 158: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001168, Name: Laiba, Contact: 7899071227, Email: -, Status: Active, JoinedDate: 2024-09-05 14:08:07
+----------------------------------------
+Error in row 159: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001169, Name: Nafeesha Thansheefa, Contact: 9844734279, Email: -, Status: Active, JoinedDate: 2024-09-05 14:42:40
+----------------------------------------
+Error in row 160: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001170, Name: Naushad Krishnapura, Contact: 8123686169, Email: -, Status: Active, JoinedDate: 2024-09-05 15:23:20
+----------------------------------------
+Error in row 161: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001171, Name: Safwan, Contact: 7204018261, Email: -, Status: Active, JoinedDate: 2024-09-05 15:47:32
+----------------------------------------
+Error in row 162: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001172, Name: Usman Sa-ady, Contact: 9449385679, Email: -, Status: Active, JoinedDate: 2024-09-05 16:35:53
+----------------------------------------
+Error in row 163: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001173, Name: Mohammad bashir, Contact: 9741703847, Email: -, Status: Active, JoinedDate: 2024-09-05 16:43:28
+----------------------------------------
+Error in row 164: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001174, Name: Shamil, Contact: 8722367040, Email: -, Status: Active, JoinedDate: 2024-09-05 16:50:30
+----------------------------------------
+Error in row 165: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001175, Name: KT Jagadish, Contact: 9343575928, Email: -, Status: Active, JoinedDate: 2024-09-05 16:58:06
+----------------------------------------
+Error in row 166: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001176, Name: Beebi Khatheeja, Contact: 9740175338, Email: -, Status: Active, JoinedDate: 2024-09-05 17:08:59
+----------------------------------------
+Error in row 167: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001177, Name: Shahil, Contact: 9353836084, Email: -, Status: Active, JoinedDate: 2024-09-05 17:44:40
+----------------------------------------
+Error in row 168: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001178, Name: Ziyad, Contact: 9148487188, Email: -, Status: Active, JoinedDate: 2024-09-05 19:03:25
+----------------------------------------
+Error in row 169: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001179, Name: Ziyad, Contact: 9148487188, Email: -, Status: Active, JoinedDate: 2024-09-05 19:10:42
+----------------------------------------
+Error in row 170: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001180, Name: Abdul Azeez, Contact: 9448132699, Email: -, Status: Active, JoinedDate: 2024-09-05 19:13:00
+----------------------------------------
+Error in row 171: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001181, Name: Mohammed asif, Contact: 9743308114, Email: -, Status: Active, JoinedDate: 2024-09-05 19:16:11
+----------------------------------------
+Error in row 172: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001182, Name: Jayiz, Contact: 9972719048, Email: -, Status: Active, JoinedDate: 2024-09-05 19:31:42
+----------------------------------------
+Error in row 173: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001183, Name: Haneef, Contact: 8138849290, Email: -, Status: Active, JoinedDate: 2024-09-05 19:55:00
+----------------------------------------
+Error in row 174: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001184, Name: Shabeer, Contact: 8089719320, Email: -, Status: Active, JoinedDate: 2024-09-05 20:10:27
+----------------------------------------
+Error in row 175: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001185, Name: Thousif Ali, Contact: 7259902662, Email: -, Status: Active, JoinedDate: 2024-09-05 20:58:40
+----------------------------------------
+Error in row 176: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001186, Name: Kamarunnisa, Contact: 8904054399, Email: -, Status: Active, JoinedDate: 2024-09-05 21:02:26
+----------------------------------------
+Error in row 177: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001187, Name: Ansar, Contact: 9743941127, Email: -, Status: Active, JoinedDate: 2024-09-05 21:15:39
+----------------------------------------
+Error in row 178: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001188, Name: Kavitha Patel, Contact: 9481848931, Email: -, Status: Suspended, JoinedDate: 2024-09-05 21:34:35
+----------------------------------------
+Error in row 179: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001189, Name: Mohammed ali, Contact: 9947549263, Email: -, Status: Active, JoinedDate: 2024-09-05 21:43:18
+----------------------------------------
+Error in row 180: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001190, Name: Kavitha Patel, Contact: 9901318395, Email: -, Status: Active, JoinedDate: 2024-09-05 21:44:20
+----------------------------------------
+Error in row 181: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001191, Name: M K Abdul Kareem, Contact: 9880780277, Email: -, Status: Active, JoinedDate: 2024-09-05 22:08:52
+----------------------------------------
+Error in row 182: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001192, Name: Nashweef, Contact: 9611860950, Email: -, Status: Active, JoinedDate: 2024-09-05 22:11:37
+----------------------------------------
+Error in row 183: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001193, Name: Nawaz, Contact: 8153933663, Email: -, Status: Active, JoinedDate: 2024-09-05 22:17:45
+----------------------------------------
+Error in row 184: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001194, Name: Aflah mohammed, Contact: 9611608131, Email: -, Status: Active, JoinedDate: 2024-09-05 22:25:58
+----------------------------------------
+Error in row 185: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001195, Name: Muhaz, Contact: 9110446240, Email: -, Status: Active, JoinedDate: 2024-09-05 22:29:04
+----------------------------------------
+Error in row 186: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001196, Name: Fathima k.v, Contact: 8547147754, Email: -, Status: Active, JoinedDate: 2024-09-05 22:44:15
+----------------------------------------
+Error in row 187: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001197, Name: Ismail, Contact: 7353137290, Email: -, Status: Active, JoinedDate: 2024-09-05 22:59:57
+----------------------------------------
+Error in row 188: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001198, Name: Asif, Contact: 8970099278, Email: -, Status: Active, JoinedDate: 2024-09-05 23:02:07
+----------------------------------------
+Error in row 189: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001199, Name: Iqbal, Contact: 8861738192, Email: -, Status: Active, JoinedDate: 2024-09-05 23:08:52
+----------------------------------------
+Error in row 190: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001200, Name: Guru, Contact: 9686338727, Email: -, Status: Active, JoinedDate: 2024-09-06 11:43:04
+----------------------------------------
+Error in row 191: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001201, Name: Abdul samad, Contact: 7406715936, Email: -, Status: Active, JoinedDate: 2024-09-06 12:15:12
+----------------------------------------
+Error in row 192: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001202, Name: Shaheed, Contact: 8792017398, Email: -, Status: Suspended, JoinedDate: 2024-09-06 12:25:41
+----------------------------------------
+Error in row 193: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001203, Name: Safwan, Contact: 9980645221, Email: -, Status: Active, JoinedDate: 2024-09-06 12:40:48
+----------------------------------------
+Error in row 194: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001204, Name: Ahmed shaaz, Contact: 7306266637, Email: -, Status: Active, JoinedDate: 2024-09-06 14:05:50
+----------------------------------------
+Error in row 195: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001205, Name: Hameed latest, Contact: 8217813227, Email: -, Status: Active, JoinedDate: 2024-09-06 14:29:23
+----------------------------------------
+Error in row 196: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001206, Name: Faizan, Contact: 8281720818, Email: -, Status: Active, JoinedDate: 2024-09-06 14:52:18
+----------------------------------------
+Error in row 197: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001207, Name: Ibrahim irfan, Contact: 7907614049, Email: -, Status: Active, JoinedDate: 2024-09-06 16:45:42
+----------------------------------------
+Error in row 198: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001208, Name: Nafi, Contact: 9945556852, Email: -, Status: Suspended, JoinedDate: 2024-09-06 17:35:45
+----------------------------------------
+Error in row 199: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001209, Name: Arman, Contact: 7026651051, Email: -, Status: Active, JoinedDate: 2024-09-06 18:49:45
+----------------------------------------
+Error in row 200: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001210, Name: Kamil, Contact: 8147130916, Email: -, Status: Active, JoinedDate: 2024-09-06 19:50:49
+----------------------------------------
+Error in row 201: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001211, Name: Surah aayah, Contact: 7483474599, Email: -, Status: Active, JoinedDate: 2024-09-06 22:11:49
+----------------------------------------
+Error in row 202: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001212, Name: Jamsheera, Contact: 9611690313, Email: -, Status: Active, JoinedDate: 2024-09-06 22:49:31
+----------------------------------------
+Error in row 203: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001213, Name: Jamsheera, Contact: 9611690313, Email: -, Status: Active, JoinedDate: 2024-09-06 23:00:55
+----------------------------------------
+Error in row 204: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001214, Name: Ashiq, Contact: 9483641951, Email: -, Status: Active, JoinedDate: 2024-09-06 23:09:49
+----------------------------------------
+Error in row 205: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001215, Name: Naseema Nazeer, Contact: 9620461349, Email: -, Status: Active, JoinedDate: 2024-09-06 23:39:34
+----------------------------------------
+Error in row 206: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001216, Name: mokshitha, Contact: 7899893492, Email: -, Status: Active, JoinedDate: 2024-09-07 11:13:03
+----------------------------------------
+Error in row 207: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001217, Name: Aiza asif, Contact: 8310206916, Email: -, Status: Active, JoinedDate: 2024-09-07 12:32:12
+----------------------------------------
+Error in row 208: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001218, Name: Mahammad Musthaq, Contact: 9108308506, Email: -, Status: Active, JoinedDate: 2024-09-07 12:55:33
+----------------------------------------
+Error in row 209: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001219, Name: B Abdul Jabbar, Contact: 9036177323, Email: -, Status: Active, JoinedDate: 2024-09-07 13:02:07
+----------------------------------------
+Error in row 210: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001221, Name: Mahammad apnan, Contact: 9364110524, Email: -, Status: Active, JoinedDate: 2024-09-07 13:22:26
+----------------------------------------
+Error in row 211: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001222, Name: Mohammed Ashraf, Contact: 9686356050, Email: -, Status: Active, JoinedDate: 2024-09-07 14:17:53
+----------------------------------------
+Error in row 212: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001223, Name: Thwayub, Contact: 9611856327, Email: -, Status: Active, JoinedDate: 2024-09-07 14:23:35
+----------------------------------------
+Error in row 213: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001224, Name: Rehana, Contact: 8050014129, Email: -, Status: Active, JoinedDate: 2024-09-07 15:24:31
+----------------------------------------
+Error in row 214: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001225, Name: Salam, Contact: 9900558190, Email: -, Status: Active, JoinedDate: 2024-09-07 16:45:07
+----------------------------------------
+Error in row 215: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001226, Name: Abdul Naseer, Contact: 8867686879, Email: -, Status: Active, JoinedDate: 2024-09-07 16:49:34
+----------------------------------------
+Error in row 216: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001227, Name: Asif, Contact: 9742937058, Email: -, Status: Active, JoinedDate: 2024-09-07 17:09:44
+----------------------------------------
+Error in row 217: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001228, Name: Ismail noushad, Contact: 8197731724, Email: -, Status: Active, JoinedDate: 2024-09-07 18:10:35
+----------------------------------------
+Error in row 218: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001229, Name: Rafeek, Contact: 8431767208, Email: -, Status: Active, JoinedDate: 2024-09-07 20:02:07
+----------------------------------------
+Error in row 219: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001230, Name: Santhosh, Contact: 9880962073, Email: -, Status: Active, JoinedDate: 2024-09-07 20:28:59
+----------------------------------------
+Error in row 220: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001231, Name: Zakariya, Contact: 9731262252, Email: -, Status: Active, JoinedDate: 2024-09-07 21:37:16
+----------------------------------------
+Error in row 221: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001232, Name: Nishma, Contact: 9686156900, Email: -, Status: Active, JoinedDate: 2024-09-07 22:20:09
+----------------------------------------
+Error in row 222: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001233, Name: Muhammad shafeeq, Contact: 7259627243, Email: -, Status: Active, JoinedDate: 2024-09-08 00:48:40
+----------------------------------------
+Error in row 223: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001234, Name: Salim, Contact: 9731053692, Email: -, Status: Active, JoinedDate: 2024-09-08 11:48:22
+----------------------------------------
+Error in row 224: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001235, Name: NOUFAL ISMAIL, Contact: 9663626286, Email: -, Status: Suspended, JoinedDate: 2024-09-08 11:52:31
+----------------------------------------
+Error in row 225: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001236, Name: Noufal ismail, Contact: 9663626286, Email: -, Status: Active, JoinedDate: 2024-09-08 11:54:15
+----------------------------------------
+Error in row 226: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001237, Name: Nizam, Contact: 8105968755, Email: -, Status: Active, JoinedDate: 2024-09-08 11:55:05
+----------------------------------------
+Error in row 227: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001238, Name: Imthiyaz ahmed, Contact: 9945350816, Email: -, Status: Active, JoinedDate: 2024-09-08 12:00:04
+----------------------------------------
+Error in row 228: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001239, Name: Saleem k, Contact: 8197123820, Email: -, Status: Active, JoinedDate: 2024-09-08 12:24:23
+----------------------------------------
+Error in row 229: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001240, Name: Saleem madani, Contact: 8136915898, Email: -, Status: Active, JoinedDate: 2024-09-08 12:42:40
+----------------------------------------
+Error in row 230: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001241, Name: Mohammed Shamil GK, Contact: 9663577195, Email: -, Status: Active, JoinedDate: 2024-09-08 12:52:20
+----------------------------------------
+Error in row 231: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001242, Name: Mohammed Mustafa, Contact: 8495062717, Email: -, Status: Active, JoinedDate: 2024-09-08 13:29:26
+----------------------------------------
+Error in row 232: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001243, Name: SHABANA, Contact: 8660785855, Email: -, Status: Active, JoinedDate: 2024-09-08 13:31:35
+----------------------------------------
+Error in row 233: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001244, Name: Maimuna, Contact: 6362595066, Email: -, Status: Active, JoinedDate: 2024-09-08 14:24:31
+----------------------------------------
+Error in row 234: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001245, Name: Mohammed shahid, Contact: 9148375105, Email: -, Status: Active, JoinedDate: 2024-09-08 15:41:44
+----------------------------------------
+Error in row 235: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001246, Name: Mohammed Ali, Contact: 8589965007, Email: -, Status: Active, JoinedDate: 2024-09-08 16:00:20
+----------------------------------------
+Error in row 236: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001247, Name: ravi k.s niduvale, Contact: 9632641284, Email: -, Status: Active, JoinedDate: 2024-09-08 16:35:23
+----------------------------------------
+Error in row 237: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001248, Name: Rachan Shetty, Contact: 6361584308, Email: -, Status: Active, JoinedDate: 2024-09-08 16:40:05
+----------------------------------------
+Error in row 238: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001249, Name: S Ismail, Contact: 9591112790, Email: -, Status: Active, JoinedDate: 2024-09-08 17:05:16
+----------------------------------------
+Error in row 239: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001250, Name: Abdul kadar, Contact: 8749011818, Email: -, Status: Active, JoinedDate: 2024-09-08 17:18:21
+----------------------------------------
+Error in row 240: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001251, Name: Faizal BEARY, Contact: 8105915047, Email: -, Status: Active, JoinedDate: 2024-09-08 17:50:44
+----------------------------------------
+Error in row 241: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001252, Name: Afreez.k, Contact: 9148723345, Email: -, Status: Active, JoinedDate: 2024-09-08 17:53:49
+----------------------------------------
+Error in row 242: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001253, Name: Shareef, Contact: 9591460669, Email: -, Status: Active, JoinedDate: 2024-09-08 19:14:54
+----------------------------------------
+Error in row 243: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001254, Name: Abdul khadar AM, Contact: 9844956373, Email: -, Status: Active, JoinedDate: 2024-09-08 19:21:01
+----------------------------------------
+Error in row 244: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001255, Name: Nizamuddin, Contact: 9743227841, Email: -, Status: Active, JoinedDate: 2024-09-08 19:39:54
+----------------------------------------
+Error in row 245: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001256, Name: Sabeena, Contact: 9663134355, Email: -, Status: Active, JoinedDate: 2024-09-08 19:53:33
+----------------------------------------
+Error in row 246: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001257, Name: suresha k., Contact: 6360596538, Email: -, Status: Active, JoinedDate: 2024-09-08 20:01:13
+----------------------------------------
+Error in row 247: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001258, Name: Nameeza, Contact: 8123686169, Email: -, Status: Active, JoinedDate: 2024-09-08 20:41:47
+----------------------------------------
+Error in row 248: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001259, Name: Munisha, Contact: 8075431667, Email: -, Status: Active, JoinedDate: 2024-09-08 20:53:42
+----------------------------------------
+Error in row 249: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001260, Name: Fathima, Contact: 9745741718, Email: -, Status: Active, JoinedDate: 2024-09-08 21:08:40
+----------------------------------------
+Error in row 250: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001261, Name: afrin, Contact: 9480872191, Email: -, Status: Active, JoinedDate: 2024-09-08 22:36:51
+----------------------------------------
+Error in row 251: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001263, Name: Azmeen banu, Contact: 8310849144, Email: -, Status: Active, JoinedDate: 2024-09-09 11:30:03
+----------------------------------------
+Error in row 252: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001264, Name: Bilal, Contact: 9513624542, Email: -, Status: Active, JoinedDate: 2024-09-09 11:37:48
+----------------------------------------
+Error in row 253: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001265, Name: MUHAMMAD SAKEER, Contact: 9740867714, Email: -, Status: Active, JoinedDate: 2024-09-09 11:41:25
+----------------------------------------
+Error in row 254: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001266, Name: Siyab, Contact: 9972696175, Email: -, Status: Active, JoinedDate: 2024-09-09 11:52:36
+----------------------------------------
+Error in row 255: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001267, Name: Suhail saam, Contact: 6362355904, Email: -, Status: Active, JoinedDate: 2024-09-09 11:58:17
+----------------------------------------
+Error in row 256: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001268, Name: Jayashree, Contact: 8971519357, Email: -, Status: Active, JoinedDate: 2024-09-09 12:41:13
+----------------------------------------
+Error in row 257: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001269, Name: Afeeza, Contact: 8550082213, Email: -, Status: Active, JoinedDate: 2024-09-09 12:56:15
+----------------------------------------
+Error in row 258: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001270, Name: Neha, Contact: 9632940656, Email: -, Status: Active, JoinedDate: 2024-09-09 13:21:29
+----------------------------------------
+Error in row 259: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001271, Name: Reshma, Contact: 9986277663, Email: -, Status: Active, JoinedDate: 2024-09-09 14:30:44
+----------------------------------------
+Error in row 260: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001272, Name: Thahira, Contact: 9611792196, Email: -, Status: Active, JoinedDate: 2024-09-09 15:52:29
+----------------------------------------
+Error in row 261: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001273, Name: Rakeeb, Contact: 7483932224, Email: -, Status: Active, JoinedDate: 2024-09-09 15:55:08
+----------------------------------------
+Error in row 262: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001274, Name: Hauf, Contact: 8050935261, Email: -, Status: Suspended, JoinedDate: 2024-09-09 16:15:14
+----------------------------------------
+Error in row 263: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001275, Name: mohammed akram, Contact: 9980030293, Email: -, Status: Active, JoinedDate: 2024-09-09 16:51:39
+----------------------------------------
+Error in row 264: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001276, Name: Purandara Kulal, Contact: 9972760881, Email: -, Status: Active, JoinedDate: 2024-09-09 16:58:12
+----------------------------------------
+Error in row 265: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001277, Name: Ramya v, Contact: 9972104102, Email: -, Status: Active, JoinedDate: 2024-09-09 17:46:33
+----------------------------------------
+Error in row 266: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001278, Name: Imran, Contact: 9945939532, Email: -, Status: Active, JoinedDate: 2024-09-09 18:28:02
+----------------------------------------
+Error in row 267: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001279, Name: Sammu51, Contact: 09964475451, Email: -, Status: Active, JoinedDate: 2024-09-09 18:48:51
+----------------------------------------
+Error in row 268: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001280, Name: Pavitra, Contact: 9036138851, Email: -, Status: Active, JoinedDate: 2024-09-09 18:51:48
+----------------------------------------
+Error in row 269: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001282, Name: Shashikala, Contact: 6362038719, Email: -, Status: Suspended, JoinedDate: 2024-09-09 19:24:04
+----------------------------------------
+Error in row 270: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001283, Name: Shashikala, Contact: 6362038719, Email: -, Status: Active, JoinedDate: 2024-09-09 19:27:43
+----------------------------------------
+Error in row 271: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001284, Name: Saman, Contact: 8891304533, Email: -, Status: Active, JoinedDate: 2024-09-09 20:38:01
+----------------------------------------
+Error in row 272: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001285, Name: Siddiq, Contact: 7353845896, Email: -, Status: Active, JoinedDate: 2024-09-09 21:08:50
+----------------------------------------
+Error in row 273: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001286, Name: Sayed sameer, Contact: 7019378022, Email: -, Status: Active, JoinedDate: 2024-09-09 21:36:48
+----------------------------------------
+Error in row 274: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001287, Name: Abdul Khader, Contact: 8123817971, Email: -, Status: Active, JoinedDate: 2024-09-09 21:40:03
+----------------------------------------
+Error in row 275: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001288, Name: Ikthiii, Contact: 9742216872, Email: -, Status: Active, JoinedDate: 2024-09-09 22:54:35
+----------------------------------------
+Error in row 276: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001289, Name: Rakshith Shetty, Contact: 7760224755, Email: -, Status: Active, JoinedDate: 2024-09-10 12:15:55
+----------------------------------------
+Error in row 277: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001290, Name: Sajee SK, Contact: 9900350939, Email: -, Status: Active, JoinedDate: 2024-09-10 13:13:09
+----------------------------------------
+Error in row 278: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001291, Name: mohammed swalhi, Contact: 7795637634, Email: -, Status: Active, JoinedDate: 2024-09-10 13:14:39
+----------------------------------------
+Error in row 279: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001292, Name: Sajee SK, Contact: 9900350939, Email: -, Status: Active, JoinedDate: 2024-09-10 13:23:17
+----------------------------------------
+Error in row 280: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001293, Name: Fathimath Sana, Contact: 8867683361, Email: -, Status: Active, JoinedDate: 2024-09-10 13:49:11
+----------------------------------------
+Error in row 281: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001294, Name: Rajesh Prabhu, Contact: 9945808325, Email: -, Status: Active, JoinedDate: 2024-09-10 13:58:12
+----------------------------------------
+Error in row 282: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001295, Name: Mohammed hithaf, Contact: 7899418237, Email: -, Status: Active, JoinedDate: 2024-09-10 14:10:44
+----------------------------------------
+Error in row 283: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001296, Name: Mohammed nizam, Contact: 7348816487, Email: -, Status: Active, JoinedDate: 2024-09-10 15:09:36
+----------------------------------------
+Error in row 284: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001297, Name: Shamreena shabeer, Contact: 9901381146, Email: -, Status: Active, JoinedDate: 2024-09-10 15:52:17
+----------------------------------------
+Error in row 285: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001298, Name: Ashifa, Contact: 8123218584, Email: -, Status: Active, JoinedDate: 2024-09-10 16:59:22
+----------------------------------------
+Error in row 286: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001299, Name: Mohammad thanveer, Contact: 09743598159, Email: -, Status: Active, JoinedDate: 2024-09-10 17:12:18
+----------------------------------------
+Error in row 287: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001300, Name: Rukiya, Contact: 8105454561, Email: -, Status: Active, JoinedDate: 2024-09-10 17:56:35
+----------------------------------------
+Error in row 288: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001301, Name: Abdulla, Contact: 6363079110, Email: -, Status: Active, JoinedDate: 2024-09-10 18:17:50
+----------------------------------------
+Error in row 289: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001302, Name: Aysha, Contact: 8296233699, Email: -, Status: Active, JoinedDate: 2024-09-10 18:20:52
+----------------------------------------
+Error in row 290: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001303, Name: Mansoor, Contact: 9902749348, Email: -, Status: Active, JoinedDate: 2024-09-10 19:02:32
+----------------------------------------
+Error in row 291: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001304, Name: Sinan, Contact: 9482697341, Email: -, Status: Active, JoinedDate: 2024-09-10 19:16:32
+----------------------------------------
+Error in row 292: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001305, Name: Mohammed Kabeer, Contact: 7349357964, Email: -, Status: Active, JoinedDate: 2024-09-10 19:20:54
+----------------------------------------
+Error in row 293: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001306, Name: Shahida, Contact: 8296737691, Email: -, Status: Active, JoinedDate: 2024-09-10 19:32:53
+----------------------------------------
+Error in row 294: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001307, Name: Imran, Contact: 9108104462, Email: -, Status: Active, JoinedDate: 2024-09-10 19:39:47
+----------------------------------------
+Error in row 295: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001308, Name: Rafan, Contact: 7996277218, Email: -, Status: Active, JoinedDate: 2024-09-10 19:42:35
+----------------------------------------
+Error in row 296: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001309, Name: Mohammed Jeeshan, Contact: 7338532155, Email: -, Status: Active, JoinedDate: 2024-09-10 19:48:59
+----------------------------------------
+Error in row 297: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001310, Name: Ismail, Contact: 8722277793, Email: -, Status: Active, JoinedDate: 2024-09-10 20:36:30
+----------------------------------------
+Error in row 298: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001311, Name: Sinan, Contact: 9606316461, Email: -, Status: Active, JoinedDate: 2024-09-10 20:56:10
+----------------------------------------
+Error in row 299: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001312, Name: Ravi s, Contact: 9036527981, Email: -, Status: Active, JoinedDate: 2024-09-10 20:56:14
+----------------------------------------
+Error in row 300: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001313, Name: P K Sulaiman, Contact: 9741485945, Email: -, Status: Active, JoinedDate: 2024-09-10 21:57:29
+----------------------------------------
+Error in row 301: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001314, Name: Abdul Jabbar, Contact: 9036177323, Email: -, Status: Active, JoinedDate: 2024-09-10 22:54:41
+----------------------------------------
+Error in row 302: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001315, Name: Parmesh, Contact: 9591630393, Email: -, Status: Suspended, JoinedDate: 2024-09-11 09:57:02
+----------------------------------------
+Error in row 303: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001316, Name: Ibrahim Bathish, Contact: 7353228182, Email: -, Status: Active, JoinedDate: 2024-09-11 11:10:01
+----------------------------------------
+Error in row 304: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001317, Name: Amreen banu, Contact: 9148602291, Email: -, Status: Active, JoinedDate: 2024-09-11 11:14:35
+----------------------------------------
+Error in row 305: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001318, Name: afreed, Contact: 7829576157, Email: -, Status: Active, JoinedDate: 2024-09-11 11:31:06
+----------------------------------------
+Error in row 306: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001319, Name: Thabsir, Contact: 8496029932, Email: -, Status: Active, JoinedDate: 2024-09-11 11:42:42
+----------------------------------------
+Error in row 307: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001320, Name: Mahroof, Contact: 7411884668, Email: -, Status: Active, JoinedDate: 2024-09-11 11:56:22
+----------------------------------------
+Error in row 308: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001321, Name: Mohammed noushin, Contact: 9108623597, Email: -, Status: Active, JoinedDate: 2024-09-11 13:09:11
+----------------------------------------
+Error in row 309: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001322, Name: Mohammad sinan, Contact: 7676831710, Email: -, Status: Active, JoinedDate: 2024-09-11 13:49:29
+----------------------------------------
+Error in row 310: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001323, Name: Mohammad kaleel, Contact: 9036659175, Email: -, Status: Active, JoinedDate: 2024-09-11 14:00:12
+----------------------------------------
+Error in row 311: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001324, Name: Naushad, Contact: 7899996539, Email: -, Status: Active, JoinedDate: 2024-09-11 14:06:49
+----------------------------------------
+Error in row 312: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001325, Name: Rafeeq, Contact: 8147635765, Email: -, Status: Active, JoinedDate: 2024-09-11 14:42:44
+----------------------------------------
+Error in row 313: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001326, Name: Ajju, Contact: 7760179490, Email: -, Status: Active, JoinedDate: 2024-09-11 15:58:08
+----------------------------------------
+Error in row 314: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001327, Name: Aiza, Contact: 6364159746, Email: -, Status: Active, JoinedDate: 2024-09-11 16:05:15
+----------------------------------------
+Error in row 315: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001328, Name: Sanvi, Contact: 8497882734, Email: -, Status: Active, JoinedDate: 2024-09-11 16:15:16
+----------------------------------------
+Error in row 316: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001329, Name: Umar farook, Contact: 8867710619, Email: -, Status: Active, JoinedDate: 2024-09-11 16:38:42
+----------------------------------------
+Error in row 317: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001330, Name: Nidhi P., Contact: 8861858372, Email: -, Status: Active, JoinedDate: 2024-09-11 16:41:41
+----------------------------------------
+Error in row 318: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001331, Name: Harshad Althaf, Contact: 9844412771, Email: -, Status: Active, JoinedDate: 2024-09-11 16:59:23
+----------------------------------------
+Error in row 319: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001332, Name: Shabana, Contact: 7026363493, Email: -, Status: Active, JoinedDate: 2024-09-11 17:08:20
+----------------------------------------
+Error in row 320: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001333, Name: Saruja, Contact: 6360335547, Email: -, Status: Active, JoinedDate: 2024-09-11 17:11:18
+----------------------------------------
+Error in row 321: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001334, Name: Parmesh, Contact: 9591630393, Email: -, Status: Active, JoinedDate: 2024-09-11 17:13:57
+----------------------------------------
+Error in row 322: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001335, Name: Ashik, Contact: 9880431434, Email: -, Status: Active, JoinedDate: 2024-09-11 17:41:48
+----------------------------------------
+Error in row 323: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001336, Name: Hameed, Contact: 7353801202, Email: -, Status: Active, JoinedDate: 2024-09-11 17:43:57
+----------------------------------------
+Error in row 324: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001337, Name: Rauf, Contact: 9535953083, Email: -, Status: Active, JoinedDate: 2024-09-11 18:37:16
+----------------------------------------
+Error in row 325: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001338, Name: Bhavani Shankar, Contact: 9844703406, Email: -, Status: Active, JoinedDate: 2024-09-11 19:19:58
+----------------------------------------
+Error in row 326: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001339, Name: Hafeena, Contact: 8123022313, Email: -, Status: Active, JoinedDate: 2024-09-11 19:26:09
+----------------------------------------
+Error in row 327: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001340, Name: Razeeq, Contact: 7899074117, Email: -, Status: Active, JoinedDate: 2024-09-11 19:33:12
+----------------------------------------
+Error in row 328: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001341, Name: Shifana, Contact: 9632842124, Email: -, Status: Active, JoinedDate: 2024-09-11 19:58:41
+----------------------------------------
+Error in row 329: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001342, Name: Nafiya, Contact: 8590624751, Email: -, Status: Active, JoinedDate: 2024-09-11 20:31:26
+----------------------------------------
+Error in row 330: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001343, Name: Mohammad siraj, Contact: 7353324035, Email: -, Status: Active, JoinedDate: 2024-09-11 21:34:05
+----------------------------------------
+Error in row 331: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001344, Name: Ayisha Banu, Contact: 9945375924, Email: -, Status: Active, JoinedDate: 2024-09-11 21:34:55
+----------------------------------------
+Error in row 332: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001345, Name: Abdulla Sawad, Contact: 8762473137, Email: -, Status: Suspended, JoinedDate: 2024-09-11 21:35:45
+----------------------------------------
+Error in row 333: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001346, Name: Nisha, Contact: 9481848931, Email: -, Status: Suspended, JoinedDate: 2024-09-11 22:02:22
+----------------------------------------
+Error in row 334: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001347, Name: Thammanna, Contact: 9448254808, Email: -, Status: Active, JoinedDate: 2024-09-11 22:13:55
+----------------------------------------
+Error in row 335: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001348, Name: Thammanna, Contact: 9448254808, Email: -, Status: Active, JoinedDate: 2024-09-11 22:21:18
+----------------------------------------
+Error in row 336: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001349, Name: Mahammad Arfaz, Contact: 9036329609, Email: -, Status: Active, JoinedDate: 2024-09-11 23:14:57
+----------------------------------------
+Error in row 337: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001350, Name: Ismail U M, Contact: 8951524772, Email: -, Status: Active, JoinedDate: 2024-09-12 11:33:04
+----------------------------------------
+Error in row 338: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001351, Name: Sushanth, Contact: 9902282504, Email: -, Status: Active, JoinedDate: 2024-09-12 11:54:23
+----------------------------------------
+Error in row 339: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001352, Name: Mohammed Akbar, Contact: 9663346343, Email: -, Status: Active, JoinedDate: 2024-09-12 11:54:25
+----------------------------------------
+Error in row 340: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001353, Name: Mohammed Akbar, Contact: 9663346343, Email: -, Status: Active, JoinedDate: 2024-09-12 11:57:42
+----------------------------------------
+Error in row 341: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001354, Name: Ismail, Contact: 7026273892, Email: -, Status: Suspended, JoinedDate: 2024-09-12 13:23:08
+----------------------------------------
+Error in row 342: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001355, Name: Ismail, Contact: 7026273892, Email: -, Status: Active, JoinedDate: 2024-09-12 13:25:50
+----------------------------------------
+Error in row 343: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001356, Name: Imran, Contact: 9964397334, Email: -, Status: Active, JoinedDate: 2024-09-12 13:48:19
+----------------------------------------
+Error in row 344: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001357, Name: Shakeeb ak, Contact: 7907244177, Email: -, Status: Active, JoinedDate: 2024-09-12 13:51:35
+----------------------------------------
+Error in row 345: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001358, Name: Asif, Contact: 9686306640, Email: -, Status: Active, JoinedDate: 2024-09-12 14:58:20
+----------------------------------------
+Error in row 346: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001359, Name: Mohammad Basheer, Contact: 9448815531, Email: -, Status: Active, JoinedDate: 2024-09-12 16:15:44
+----------------------------------------
+Error in row 347: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001360, Name: S M Ashraf, Contact: 9036963544, Email: -, Status: Active, JoinedDate: 2024-09-12 16:30:49
+----------------------------------------
+Error in row 348: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001361, Name: Swagath anna, Contact: 7349506612, Email: -, Status: Active, JoinedDate: 2024-09-12 16:55:33
+----------------------------------------
+Error in row 349: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001362, Name: Shahana, Contact: 7676902686, Email: -, Status: Active, JoinedDate: 2024-09-12 16:58:52
+----------------------------------------
+Error in row 350: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001363, Name: Ramesh, Contact: 9900736935, Email: -, Status: Active, JoinedDate: 2024-09-12 18:52:16
+----------------------------------------
+Error in row 351: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001364, Name: B ISMAIL THASLEEM, Contact: 8277543803, Email: -, Status: Active, JoinedDate: 2024-09-12 18:54:12
+----------------------------------------
+Error in row 352: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001366, Name: chandhanakumara SH, Contact: 8497005915, Email: -, Status: Active, JoinedDate: 2024-09-12 19:02:41
+----------------------------------------
+Error in row 353: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001367, Name: Umar farooq, Contact: 8747861893, Email: -, Status: Active, JoinedDate: 2024-09-12 19:16:47
+----------------------------------------
+Error in row 354: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001368, Name: Chethan ch, Contact: 9611249839, Email: -, Status: Active, JoinedDate: 2024-09-12 19:28:28
+----------------------------------------
+Error in row 355: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001369, Name: Badruddin, Contact: 7892229032, Email: -, Status: Active, JoinedDate: 2024-09-12 20:01:21
+----------------------------------------
+Error in row 356: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001370, Name: Wahiba, Contact: 9606372633, Email: -, Status: Active, JoinedDate: 2024-09-12 21:44:24
+----------------------------------------
+Error in row 357: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001371, Name: Aliza, Contact: 9980513520, Email: -, Status: Active, JoinedDate: 2024-09-12 22:14:12
+----------------------------------------
+Error in row 358: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001372, Name: Afreen m, Contact: 8088363518, Email: -, Status: Active, JoinedDate: 2024-09-12 22:16:15
+----------------------------------------
+Error in row 359: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001373, Name: Ashiq, Contact: 9483804527, Email: -, Status: Active, JoinedDate: 2024-09-13 12:53:11
+----------------------------------------
+Error in row 360: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001374, Name: Dhanraj  gowda, Contact: 9980635824, Email: -, Status: Active, JoinedDate: 2024-09-13 13:51:08
+----------------------------------------
+Error in row 361: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001375, Name: Mohammed Mohiyuddin Shahiq, Contact: 7349167491, Email: -, Status: Active, JoinedDate: 2024-09-13 14:34:15
+----------------------------------------
+Error in row 362: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001376, Name: Abdul Rasheed, Contact: 9964319733, Email: -, Status: Active, JoinedDate: 2024-09-13 15:02:01
+----------------------------------------
+Error in row 363: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001377, Name: Navina, Contact: 7624845148, Email: -, Status: Active, JoinedDate: 2024-09-13 16:12:02
+----------------------------------------
+Error in row 364: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001378, Name: Ashraf, Contact: 9611108893, Email: -, Status: Active, JoinedDate: 2024-09-13 16:14:52
+----------------------------------------
+Error in row 365: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`u229215627_GoldenDream`.`Customers`, CONSTRAINT `Customers_ibfk_1` FOREIGN KEY (`PromoterID`) REFERENCES `Promoters` (`PromoterID`) ON DELETE SET NULL)
+Data: CustomerUniqueID: GD001379, Name: Keshava, Contact: 9036294435, Email: -, Status: Active, JoinedDate: 2024-09-13 16:17:57
+----------------------------------------

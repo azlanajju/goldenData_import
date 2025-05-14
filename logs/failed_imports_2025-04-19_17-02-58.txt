@@ -1,0 +1,5 @@
+Failed Records Log - 2025-04-19 17:02:58
+==========================================
+
+Original File: customerDataxlsx.xlsx
+
